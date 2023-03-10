@@ -1,0 +1,222 @@
+[
+  {
+    "image": {
+      "fileName": "20220317_SD02_3096.JPG",
+      "details": {
+        "folderName": "0317ZB",
+        "width": 5472.0,
+        "height": 3648.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.06988,
+          "minY": 0.034612,
+          "maxX": 0.851233,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "7124 Face",
+          "color": "#CD3197"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.003213,
+          "minY": 0.03856,
+          "maxX": 0.889157,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "7124 Body",
+          "color": "#DC8D05"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220317_SD02_3089.JPG",
+      "details": {
+        "folderName": "0317ZB",
+        "width": 5472.0,
+        "height": 3648.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.259348,
+          "minY": 0.0,
+          "maxX": 0.578361,
+          "maxY": 0.352084
+        },
+        "category": {
+          "name": "110E Face",
+          "color": "#DC17CF"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.257757,
+          "minY": 0.003581,
+          "maxX": 0.902944,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "110E Body",
+          "color": "#CA8C5A"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.195704,
+          "minY": 0.500078,
+          "maxX": 0.453461,
+          "maxY": 0.815163
+        },
+        "category": {
+          "name": "151J Face",
+          "color": "#5B0502"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.072395,
+          "minY": 0.509626,
+          "maxX": 0.45187,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "151J Body",
+          "color": "#3EF973"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220317_SD02_3103.JPG",
+      "details": {
+        "folderName": "0317ZB",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.235888,
+          "minY": 0.229947,
+          "maxX": 0.736548,
+          "maxY": 0.57754
+        },
+        "category": {
+          "name": "110E Face",
+          "color": "#DC17CF"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.003209,
+          "minY": 0.224599,
+          "maxX": 0.734943,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "110E Body",
+          "color": "#CA8C5A"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.362658,
+          "minY": 0.652406,
+          "maxX": 0.70285,
+          "maxY": 0.916578
+        },
+        "category": {
+          "name": "151J Face",
+          "color": "#5B0502"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.356239,
+          "minY": 0.647059,
+          "maxX": 0.709268,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "151J Body",
+          "color": "#3EF973"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220317_SD02_3105.JPG",
+      "details": {
+        "folderName": "0317ZB",
+        "width": 5472.0,
+        "height": 3648.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.255422,
+          "minY": 0.110861,
+          "maxX": 0.506827,
+          "maxY": 0.829045
+        },
+        "category": {
+          "name": "7124 Face",
+          "color": "#CD3197"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.170281,
+          "minY": 0.104836,
+          "maxX": 0.968675,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "7124 Body",
+          "color": "#DC8D05"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  }
+]
