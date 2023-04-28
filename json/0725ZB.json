@@ -84,33 +84,6 @@
   },
   {
     "image": {
-      "fileName": "20220725_SD05_3786.JPG",
-      "details": {
-        "folderName": "0725ZB",
-        "width": 3648.0,
-        "height": 5472.0,
-        "depth": 3
-      }
-    },
-    "objects": [
-      {
-        "bndbox": {
-          "minX": 0.231383,
-          "minY": 0.00241,
-          "maxX": 0.956263,
-          "maxY": 1.0
-        },
-        "category": {
-          "name": "81G Body",
-          "color": "#051163"
-        },
-        "tags": [],
-        "parts": []
-      }
-    ]
-  },
-  {
-    "image": {
       "fileName": "20220725_SD05_3839.JPG",
       "details": {
         "folderName": "0725ZB",
@@ -208,6 +181,33 @@
   },
   {
     "image": {
+      "fileName": "20220725_SD05_3786.JPG",
+      "details": {
+        "folderName": "0725ZB",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.220083,
+          "minY": 0.0,
+          "maxX": 0.952283,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "143H Body",
+          "color": "#B6E112"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
       "fileName": "20220725_SD05_3743.JPG",
       "details": {
         "folderName": "0725ZB",
@@ -285,6 +285,20 @@
         },
         "tags": [],
         "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.873984,
+          "minY": 0.733427,
+          "maxX": 1.0,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "Unknown Body",
+          "color": "#2FF920"
+        },
+        "tags": [],
+        "parts": []
       }
     ]
   },
@@ -351,6 +365,20 @@
         "category": {
           "name": "110E Body",
           "color": "#805E96"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.419005,
+          "minY": 0.0,
+          "maxX": 0.725851,
+          "maxY": 0.527504
+        },
+        "category": {
+          "name": "Toy-triangle",
+          "color": "#CA5EE5"
         },
         "tags": [],
         "parts": []
@@ -1015,6 +1043,20 @@
         },
         "tags": [],
         "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.0,
+          "maxX": 0.18834,
+          "maxY": 0.588152
+        },
+        "category": {
+          "name": "Toy-Swing",
+          "color": "#FE993D"
+        },
+        "tags": [],
+        "parts": []
       }
     ]
   },
@@ -1094,6 +1136,20 @@
         "category": {
           "name": "7124 Body",
           "color": "#10F554"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.755478,
+          "minY": 0.777151,
+          "maxX": 1.0,
+          "maxY": 0.997179
+        },
+        "category": {
+          "name": "Unknown Body",
+          "color": "#2FF920"
         },
         "tags": [],
         "parts": []
@@ -1496,6 +1552,20 @@
         },
         "tags": [],
         "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.0,
+          "maxX": 0.158714,
+          "maxY": 0.448519
+        },
+        "category": {
+          "name": "Toy-Swing",
+          "color": "#FE993D"
+        },
+        "tags": [],
+        "parts": []
       }
     ]
   },
@@ -1603,6 +1673,20 @@
         "category": {
           "name": "110E Body",
           "color": "#805E96"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.490955,
+          "minY": 0.0,
+          "maxX": 0.878217,
+          "maxY": 0.684062
+        },
+        "category": {
+          "name": "Toy-triangle",
+          "color": "#CA5EE5"
         },
         "tags": [],
         "parts": []
@@ -2378,6 +2462,20 @@
         },
         "tags": [],
         "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.082531,
+          "minY": 0.0,
+          "maxX": 1.0,
+          "maxY": 0.730606
+        },
+        "category": {
+          "name": "Toy-Swing",
+          "color": "#FE993D"
+        },
+        "tags": [],
+        "parts": []
       }
     ]
   },
@@ -2416,6 +2514,20 @@
         "category": {
           "name": "59K Body",
           "color": "#927017"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.75641,
+          "minY": 0.648453,
+          "maxX": 0.90293,
+          "maxY": 0.840791
+        },
+        "category": {
+          "name": "Unknown Body",
+          "color": "#2FF920"
         },
         "tags": [],
         "parts": []
@@ -2595,6 +2707,20 @@
         "category": {
           "name": "143H Body",
           "color": "#B6E112"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.0,
+          "maxX": 0.260291,
+          "maxY": 0.552891
+        },
+        "category": {
+          "name": "Toy-Swing",
+          "color": "#FE993D"
         },
         "tags": [],
         "parts": []
@@ -2831,6 +2957,20 @@
         },
         "tags": [],
         "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.325892,
+          "minY": 0.028209,
+          "maxX": 1.0,
+          "maxY": 0.970381
+        },
+        "category": {
+          "name": "Toy-Swing",
+          "color": "#FE993D"
+        },
+        "tags": [],
+        "parts": []
       }
     ]
   },
@@ -2954,6 +3094,20 @@
         },
         "tags": [],
         "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.0,
+          "maxX": 0.243361,
+          "maxY": 0.528914
+        },
+        "category": {
+          "name": "Toy-Swing",
+          "color": "#FE993D"
+        },
+        "tags": [],
+        "parts": []
       }
     ]
   },
@@ -2971,13 +3125,27 @@
       {
         "bndbox": {
           "minX": 0.193202,
-          "minY": 0.374385,
-          "maxX": 0.586762,
+          "minY": 0.159379,
+          "maxX": 0.886681,
           "maxY": 0.994385
         },
         "category": {
           "name": "143H Body",
           "color": "#B6E112"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.023977,
+          "maxX": 0.711038,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "Toy-Swing",
+          "color": "#FE993D"
         },
         "tags": [],
         "parts": []
@@ -3685,6 +3853,20 @@
         },
         "tags": [],
         "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.378797,
+          "minY": 0.0,
+          "maxX": 0.727968,
+          "maxY": 0.568406
+        },
+        "category": {
+          "name": "Toy-triangle",
+          "color": "#CA5EE5"
+        },
+        "tags": [],
+        "parts": []
       }
     ]
   },
@@ -4303,6 +4485,20 @@
         },
         "tags": [],
         "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.0,
+          "maxX": 0.069834,
+          "maxY": 0.431594
+        },
+        "category": {
+          "name": "Toy-Swing",
+          "color": "#FE993D"
+        },
+        "tags": [],
+        "parts": []
       }
     ]
   },
@@ -4479,6 +4675,20 @@
         "category": {
           "name": "143H Body",
           "color": "#B6E112"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.385146,
+          "minY": 0.036671,
+          "maxX": 1.0,
+          "maxY": 0.988717
+        },
+        "category": {
+          "name": "Toy-Swing",
+          "color": "#FE993D"
         },
         "tags": [],
         "parts": []
@@ -4853,6 +5063,20 @@
         },
         "tags": [],
         "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.019046,
+          "minY": 0.0,
+          "maxX": 0.977677,
+          "maxY": 0.736248
+        },
+        "category": {
+          "name": "Toy-Swing",
+          "color": "#FE993D"
+        },
+        "tags": [],
+        "parts": []
       }
     ]
   },
@@ -5126,6 +5350,20 @@
         "category": {
           "name": "7124 Body",
           "color": "#10F554"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.41054,
+          "minY": 0.0,
+          "maxX": 0.785105,
+          "maxY": 0.634697
+        },
+        "category": {
+          "name": "Toy-triangle",
+          "color": "#CA5EE5"
         },
         "tags": [],
         "parts": []
@@ -6273,6 +6511,20 @@
         },
         "tags": [],
         "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.383029,
+          "minY": 0.0,
+          "maxX": 0.689876,
+          "maxY": 0.493653
+        },
+        "category": {
+          "name": "Toy-triangle",
+          "color": "#CA5EE5"
+        },
+        "tags": [],
+        "parts": []
       }
     ]
   },
@@ -6380,6 +6632,20 @@
         "category": {
           "name": "143H Body",
           "color": "#B6E112"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.0,
+          "maxX": 0.114274,
+          "maxY": 0.558533
+        },
+        "category": {
+          "name": "Toy-Swing",
+          "color": "#FE993D"
         },
         "tags": [],
         "parts": []
@@ -7209,6 +7475,20 @@
         },
         "tags": [],
         "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.41054,
+          "minY": 0.0,
+          "maxX": 0.763943,
+          "maxY": 0.598025
+        },
+        "category": {
+          "name": "Toy-triangle",
+          "color": "#CA5EE5"
+        },
+        "tags": [],
+        "parts": []
       }
     ]
   },
@@ -7316,6 +7596,20 @@
         "category": {
           "name": "143H Body",
           "color": "#B6E112"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.0,
+          "maxX": 0.165062,
+          "maxY": 0.433004
+        },
+        "category": {
+          "name": "Toy-Swing",
+          "color": "#FE993D"
         },
         "tags": [],
         "parts": []
@@ -7840,6 +8134,20 @@
         "category": {
           "name": "110E Body",
           "color": "#805E96"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.391494,
+          "minY": 0.0,
+          "maxX": 0.696225,
+          "maxY": 0.582511
+        },
+        "category": {
+          "name": "Toy-triangle",
+          "color": "#CA5EE5"
         },
         "tags": [],
         "parts": []
@@ -8421,6 +8729,20 @@
         },
         "tags": [],
         "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.0,
+          "maxX": 0.261905,
+          "maxY": 0.445125
+        },
+        "category": {
+          "name": "Toy-Swing",
+          "color": "#FE993D"
+        },
+        "tags": [],
+        "parts": []
       }
     ]
   },
@@ -8531,6 +8853,20 @@
         },
         "tags": [],
         "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.059238,
+          "maxX": 0.751246,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "Toy-Swing",
+          "color": "#FE993D"
+        },
+        "tags": [],
+        "parts": []
       }
     ]
   },
@@ -8613,6 +8949,20 @@
         },
         "tags": [],
         "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.098731,
+          "maxX": 0.592532,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "Toy-Swing",
+          "color": "#FE993D"
+        },
+        "tags": [],
+        "parts": []
       }
     ]
   },
@@ -8692,6 +9042,20 @@
         "category": {
           "name": "69X Body",
           "color": "#9A78B4"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.164861,
+          "maxX": 0.311355,
+          "maxY": 0.950698
+        },
+        "category": {
+          "name": "Unknown Body",
+          "color": "#2FF920"
         },
         "tags": [],
         "parts": []
@@ -9438,6 +9802,20 @@
         },
         "tags": [],
         "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.078984,
+          "maxX": 0.107925,
+          "maxY": 0.937941
+        },
+        "category": {
+          "name": "Toy-Swing",
+          "color": "#FE993D"
+        },
+        "tags": [],
+        "parts": []
       }
     ]
   },
@@ -9545,6 +9923,20 @@
         "category": {
           "name": "110E Body",
           "color": "#805E96"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.414772,
+          "minY": 0.0,
+          "maxX": 0.736432,
+          "maxY": 0.54866
+        },
+        "category": {
+          "name": "Toy-triangle",
+          "color": "#CA5EE5"
         },
         "tags": [],
         "parts": []
@@ -9861,6 +10253,20 @@
         "category": {
           "name": "143H Body",
           "color": "#B6E112"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.0,
+          "maxX": 0.13332,
+          "maxY": 0.558533
+        },
+        "category": {
+          "name": "Toy-Swing",
+          "color": "#FE993D"
         },
         "tags": [],
         "parts": []
@@ -10332,6 +10738,20 @@
         },
         "tags": [],
         "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.0,
+          "maxX": 0.150249,
+          "maxY": 0.526093
+        },
+        "category": {
+          "name": "Toy-Swing",
+          "color": "#FE993D"
+        },
+        "tags": [],
+        "parts": []
       }
     ]
   },
@@ -10646,6 +11066,20 @@
         "category": {
           "name": "59K Body",
           "color": "#927017"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.820513,
+          "minY": 0.505574,
+          "maxX": 1.0,
+          "maxY": 0.673182
+        },
+        "category": {
+          "name": "Unknown Body",
+          "color": "#2FF920"
         },
         "tags": [],
         "parts": []
@@ -11076,6 +11510,20 @@
         },
         "tags": [],
         "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.146017,
+          "minY": 0.0,
+          "maxX": 0.486723,
+          "maxY": 0.796897
+        },
+        "category": {
+          "name": "Toy-triangle",
+          "color": "#CA5EE5"
+        },
+        "tags": [],
+        "parts": []
       }
     ]
   },
@@ -11265,6 +11713,20 @@
         "category": {
           "name": "110E Body",
           "color": "#805E96"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.374565,
+          "minY": 0.0,
+          "maxX": 0.666598,
+          "maxY": 0.455571
+        },
+        "category": {
+          "name": "Toy-triangle",
+          "color": "#CA5EE5"
         },
         "tags": [],
         "parts": []
@@ -11682,6 +12144,20 @@
         },
         "tags": [],
         "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.0,
+          "maxX": 0.304029,
+          "maxY": 0.170356
+        },
+        "category": {
+          "name": "Toy-Swing",
+          "color": "#FE993D"
+        },
+        "tags": [],
+        "parts": []
       }
     ]
   },
@@ -11720,6 +12196,20 @@
         "category": {
           "name": "143H Body",
           "color": "#B6E112"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.156559,
+          "maxX": 0.960748,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "Toy-Swing",
+          "color": "#FE993D"
         },
         "tags": [],
         "parts": []
@@ -11940,6 +12430,20 @@
         "category": {
           "name": "143H Body",
           "color": "#B6E112"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.077574,
+          "maxX": 0.190457,
+          "maxY": 0.833568
+        },
+        "category": {
+          "name": "Toy-Swing",
+          "color": "#FE993D"
         },
         "tags": [],
         "parts": []

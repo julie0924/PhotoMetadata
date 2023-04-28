@@ -1,0 +1,3280 @@
+[
+  {
+    "image": {
+      "fileName": "20220421_SD02_4706.JPG",
+      "details": {
+        "folderName": "0421BF",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.070606,
+          "minY": 0.082353,
+          "maxX": 0.698035,
+          "maxY": 0.462032
+        },
+        "category": {
+          "name": "101G Face",
+          "color": "#9D91DD"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.043326,
+          "minY": 0.077005,
+          "maxX": 0.957994,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "101G Body",
+          "color": "#E76FE5"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220421_SD02_5006.JPG",
+      "details": {
+        "folderName": "0421BF",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.322541,
+          "minY": 0.346524,
+          "maxX": 0.547196,
+          "maxY": 0.491979
+        },
+        "category": {
+          "name": "14F Face",
+          "color": "#3A7472"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.259958,
+          "minY": 0.347594,
+          "maxX": 0.657919,
+          "maxY": 0.831016
+        },
+        "category": {
+          "name": "14F Body",
+          "color": "#EF3564"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.34982,
+          "minY": 0.793583,
+          "maxX": 0.535963,
+          "maxY": 0.91016
+        },
+        "category": {
+          "name": "19J Face",
+          "color": "#A9CEA7"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.22305,
+          "minY": 0.469519,
+          "maxX": 0.771851,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "19J Body",
+          "color": "#7270ED"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220421_SD02_4714.JPG",
+      "details": {
+        "folderName": "0421BF",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.086653,
+          "minY": 0.082353,
+          "maxX": 0.633848,
+          "maxY": 0.485561
+        },
+        "category": {
+          "name": "68F Face",
+          "color": "#B056D9"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.073815,
+          "minY": 0.083422,
+          "maxX": 0.953179,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "68F Body",
+          "color": "#47D5A2"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.683528,
+          "minY": 0.094499,
+          "maxX": 1.0,
+          "maxY": 0.781382
+        },
+        "category": {
+          "name": "Toy-Blue Frisbee",
+          "color": "#8F0427"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220421_SD02_4943.JPG",
+      "details": {
+        "folderName": "0421BF",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.115537,
+          "minY": 0.095187,
+          "maxX": 0.657919,
+          "maxY": 0.51123
+        },
+        "category": {
+          "name": "68F Face",
+          "color": "#B056D9"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.004814,
+          "minY": 0.08984,
+          "maxX": 0.982064,
+          "maxY": 0.944385
+        },
+        "category": {
+          "name": "68F Body",
+          "color": "#47D5A2"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.59888,
+          "minY": 0.0,
+          "maxX": 1.0,
+          "maxY": 0.530324
+        },
+        "category": {
+          "name": "Toy-Blue Frisbee",
+          "color": "#8F0427"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220421_SD02_4693.JPG",
+      "details": {
+        "folderName": "0421BF",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.471776,
+          "minY": 0.187166,
+          "maxX": 0.94997,
+          "maxY": 0.518717
+        },
+        "category": {
+          "name": "101G Face",
+          "color": "#9D91DD"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.129979,
+          "minY": 0.181818,
+          "maxX": 1.0,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "101G Body",
+          "color": "#E76FE5"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.0,
+          "maxX": 0.429586,
+          "maxY": 0.503526
+        },
+        "category": {
+          "name": "Toy-Blue Frisbee",
+          "color": "#8F0427"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220421_SD02_4987.JPG",
+      "details": {
+        "folderName": "0421BF",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.072211,
+          "minY": 0.418182,
+          "maxX": 0.181329,
+          "maxY": 0.516578
+        },
+        "category": {
+          "name": "19J Face",
+          "color": "#A9CEA7"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.001605,
+          "minY": 0.285561,
+          "maxX": 0.259958,
+          "maxY": 0.80107
+        },
+        "category": {
+          "name": "19J Body",
+          "color": "#7270ED"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.17491,
+          "minY": 0.813904,
+          "maxX": 0.617802,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "14F Body",
+          "color": "#EF3564"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220421_SD02_4723.JPG",
+      "details": {
+        "folderName": "0421BF",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.170096,
+          "minY": 0.125134,
+          "maxX": 0.561638,
+          "maxY": 0.439572
+        },
+        "category": {
+          "name": "101G Face",
+          "color": "#9D91DD"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.072211,
+          "minY": 0.122995,
+          "maxX": 0.996506,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "101G Body",
+          "color": "#E76FE5"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220421_SD02_4935.JPG",
+      "details": {
+        "folderName": "0421BF",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.263167,
+          "minY": 0.2,
+          "maxX": 0.612987,
+          "maxY": 0.431016
+        },
+        "category": {
+          "name": "68F Face",
+          "color": "#B056D9"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.094676,
+          "minY": 0.2,
+          "maxX": 0.783083,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "68F Body",
+          "color": "#47D5A2"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.067718,
+          "minY": 0.0,
+          "maxX": 0.39361,
+          "maxY": 0.77574
+        },
+        "category": {
+          "name": "Toy-Blue Frisbee",
+          "color": "#8F0427"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220421_SD02_4953.JPG",
+      "details": {
+        "folderName": "0421BF",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.285633,
+          "minY": 0.515508,
+          "maxX": 0.50066,
+          "maxY": 0.64385
+        },
+        "category": {
+          "name": "68F Face",
+          "color": "#B056D9"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.173305,
+          "minY": 0.508021,
+          "maxX": 0.669151,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "68F Body",
+          "color": "#47D5A2"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220421_SD02_4707.JPG",
+      "details": {
+        "folderName": "0421BF",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.154049,
+          "minY": 0.016043,
+          "maxX": 0.905039,
+          "maxY": 0.449198
+        },
+        "category": {
+          "name": "68F Face",
+          "color": "#B056D9"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.009628,
+          "minY": 0.011765,
+          "maxX": 1.0,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "68F Body",
+          "color": "#47D5A2"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.474025,
+          "minY": 0.09591,
+          "maxX": 1.0,
+          "maxY": 0.983075
+        },
+        "category": {
+          "name": "Toy-Blue Frisbee",
+          "color": "#8F0427"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220421_SD02_4945.JPG",
+      "details": {
+        "folderName": "0421BF",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.190957,
+          "minY": 0.102674,
+          "maxX": 0.725315,
+          "maxY": 0.478075
+        },
+        "category": {
+          "name": "68F Face",
+          "color": "#B056D9"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.020861,
+          "minY": 0.100535,
+          "maxX": 1.0,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "68F Body",
+          "color": "#47D5A2"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.628507,
+          "minY": 0.0,
+          "maxX": 1.0,
+          "maxY": 0.598025
+        },
+        "category": {
+          "name": "Toy-Blue Frisbee",
+          "color": "#8F0427"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220421_SD02_4988.JPG",
+      "details": {
+        "folderName": "0421BF",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.235888,
+          "minY": 0.51016,
+          "maxX": 0.386728,
+          "maxY": 0.595722
+        },
+        "category": {
+          "name": "19J Face",
+          "color": "#A9CEA7"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.190957,
+          "minY": 0.501604,
+          "maxX": 0.431659,
+          "maxY": 0.845989
+        },
+        "category": {
+          "name": "19J Body",
+          "color": "#7270ED"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220421_SD02_4724.JPG",
+      "details": {
+        "folderName": "0421BF",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.219841,
+          "minY": 0.120856,
+          "maxX": 0.662733,
+          "maxY": 0.431016
+        },
+        "category": {
+          "name": "101G Face",
+          "color": "#9D91DD"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.043326,
+          "minY": 0.100535,
+          "maxX": 0.990087,
+          "maxY": 0.947594
+        },
+        "category": {
+          "name": "101G Body",
+          "color": "#E76FE5"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220421_SD02_4712.JPG",
+      "details": {
+        "folderName": "0421BF",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.258353,
+          "minY": 0.152941,
+          "maxX": 0.787898,
+          "maxY": 0.55508
+        },
+        "category": {
+          "name": "68F Face",
+          "color": "#B056D9"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.09949,
+          "minY": 0.142246,
+          "maxX": 0.94997,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "68F Body",
+          "color": "#47D5A2"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.723735,
+          "minY": 0.179126,
+          "maxX": 1.0,
+          "maxY": 0.80677
+        },
+        "category": {
+          "name": "Toy-Blue Frisbee",
+          "color": "#8F0427"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220421_SD02_4959.JPG",
+      "details": {
+        "folderName": "0421BF",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.160468,
+          "minY": 0.300535,
+          "maxX": 0.47659,
+          "maxY": 0.542246
+        },
+        "category": {
+          "name": "101G Face",
+          "color": "#9D91DD"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.146026,
+          "minY": 0.302674,
+          "maxX": 0.924295,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "101G Body",
+          "color": "#E76FE5"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220421_SD02_5004.JPG",
+      "details": {
+        "folderName": "0421BF",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.232678,
+          "minY": 0.376471,
+          "maxX": 0.458938,
+          "maxY": 0.529412
+        },
+        "category": {
+          "name": "14F Face",
+          "color": "#3A7472"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.215027,
+          "minY": 0.373262,
+          "maxX": 0.715687,
+          "maxY": 0.854545
+        },
+        "category": {
+          "name": "14F Body",
+          "color": "#EF3564"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.503869,
+          "minY": 0.395722,
+          "maxX": 0.681989,
+          "maxY": 0.499465
+        },
+        "category": {
+          "name": "19J Face",
+          "color": "#A9CEA7"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.510288,
+          "minY": 0.395722,
+          "maxX": 0.880969,
+          "maxY": 0.737968
+        },
+        "category": {
+          "name": "19J Body",
+          "color": "#7270ED"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220421_SD02_4920.JPG",
+      "details": {
+        "folderName": "0421BF",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.207004,
+          "minY": 0.192513,
+          "maxX": 0.646686,
+          "maxY": 0.51123
+        },
+        "category": {
+          "name": "G701 Face",
+          "color": "#968B54"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.001605,
+          "minY": 0.19893,
+          "maxX": 0.70285,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "G701 Body",
+          "color": "#2A8D95"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220421_SD02_4708.JPG",
+      "details": {
+        "folderName": "0421BF",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.121956,
+          "minY": 0.125134,
+          "maxX": 0.760618,
+          "maxY": 0.585027
+        },
+        "category": {
+          "name": "68F Face",
+          "color": "#B056D9"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.062582,
+          "minY": 0.124064,
+          "maxX": 0.954784,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "68F Body",
+          "color": "#47D5A2"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.702573,
+          "minY": 0.221439,
+          "maxX": 1.0,
+          "maxY": 0.87165
+        },
+        "category": {
+          "name": "Toy-Blue Frisbee",
+          "color": "#8F0427"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220421_SD02_4976.JPG",
+      "details": {
+        "folderName": "0421BF",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.431659,
+          "minY": 0.318717,
+          "maxX": 0.640267,
+          "maxY": 0.458824
+        },
+        "category": {
+          "name": "G701 Face",
+          "color": "#968B54"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.420426,
+          "minY": 0.318717,
+          "maxX": 0.840852,
+          "maxY": 0.709091
+        },
+        "category": {
+          "name": "G701 Body",
+          "color": "#2A8D95"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220421_SD02_4695.JPG",
+      "details": {
+        "folderName": "0421BF",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.503869,
+          "minY": 0.190374,
+          "maxX": 0.956389,
+          "maxY": 0.460963
+        },
+        "category": {
+          "name": "101G Face",
+          "color": "#9D91DD"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.166887,
+          "minY": 0.179679,
+          "maxX": 0.962808,
+          "maxY": 0.979679
+        },
+        "category": {
+          "name": "101G Body",
+          "color": "#E76FE5"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.0,
+          "maxX": 0.433818,
+          "maxY": 0.511989
+        },
+        "category": {
+          "name": "Toy-Blue Frisbee",
+          "color": "#8F0427"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220421_SD02_4933.JPG",
+      "details": {
+        "folderName": "0421BF",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.293656,
+          "minY": 0.382888,
+          "maxX": 0.511893,
+          "maxY": 0.539037
+        },
+        "category": {
+          "name": "101G Face",
+          "color": "#9D91DD"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.239097,
+          "minY": 0.381818,
+          "maxX": 0.616197,
+          "maxY": 0.728342
+        },
+        "category": {
+          "name": "101G Body",
+          "color": "#E76FE5"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220421_SD02_4989.JPG",
+      "details": {
+        "folderName": "0421BF",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.162073,
+          "minY": 0.460963,
+          "maxX": 0.356239,
+          "maxY": 0.593583
+        },
+        "category": {
+          "name": "G701 Face",
+          "color": "#968B54"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.105909,
+          "minY": 0.454545,
+          "maxX": 0.507079,
+          "maxY": 0.759358
+        },
+        "category": {
+          "name": "G701 Body",
+          "color": "#2A8D95"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220421_SD02_4977.JPG",
+      "details": {
+        "folderName": "0421BF",
+        "width": 5472.0,
+        "height": 3648.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.371907,
+          "minY": 0.201149,
+          "maxX": 0.501995,
+          "maxY": 0.410679
+        },
+        "category": {
+          "name": "G701 Face",
+          "color": "#968B54"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.347167,
+          "minY": 0.195162,
+          "maxX": 0.563448,
+          "maxY": 0.73994
+        },
+        "category": {
+          "name": "G701 Body",
+          "color": "#2A8D95"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220421_SD02_4700.JPG",
+      "details": {
+        "folderName": "0421BF",
+        "width": 5472.0,
+        "height": 3648.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.360643,
+          "minY": 0.071095,
+          "maxX": 0.819277,
+          "maxY": 0.701314
+        },
+        "category": {
+          "name": "101G Face",
+          "color": "#9D91DD"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.082731,
+          "minY": 0.084351,
+          "maxX": 0.917269,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "101G Body",
+          "color": "#E76FE5"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.0,
+          "maxX": 0.317121,
+          "maxY": 0.896054
+        },
+        "category": {
+          "name": "Toy-Blue Frisbee",
+          "color": "#8F0427"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220421_SD02_5005.JPG",
+      "details": {
+        "folderName": "0421BF",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.622616,
+          "minY": 0.473797,
+          "maxX": 0.80234,
+          "maxY": 0.583957
+        },
+        "category": {
+          "name": "19J Face",
+          "color": "#A9CEA7"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.606569,
+          "minY": 0.470588,
+          "maxX": 0.836038,
+          "maxY": 0.797861
+        },
+        "category": {
+          "name": "19J Body",
+          "color": "#7270ED"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.370681,
+          "minY": 0.363636,
+          "maxX": 0.587313,
+          "maxY": 0.480214
+        },
+        "category": {
+          "name": "14F Face",
+          "color": "#3A7472"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.272795,
+          "minY": 0.363636,
+          "maxX": 0.688407,
+          "maxY": 0.84385
+        },
+        "category": {
+          "name": "14F Body",
+          "color": "#EF3564"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220421_SD02_4709.JPG",
+      "details": {
+        "folderName": "0421BF",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.12356,
+          "minY": 0.149733,
+          "maxX": 0.657919,
+          "maxY": 0.546524
+        },
+        "category": {
+          "name": "68F Face",
+          "color": "#B056D9"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.086653,
+          "minY": 0.148663,
+          "maxX": 0.919481,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "68F Body",
+          "color": "#47D5A2"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.645436,
+          "minY": 0.143865,
+          "maxX": 1.0,
+          "maxY": 0.77292
+        },
+        "category": {
+          "name": "Toy-Blue Frisbee",
+          "color": "#8F0427"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220421_SD02_4726.JPG",
+      "details": {
+        "folderName": "0421BF",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.157259,
+          "minY": 0.181818,
+          "maxX": 0.6515,
+          "maxY": 0.506952
+        },
+        "category": {
+          "name": "101G Face",
+          "color": "#9D91DD"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.054559,
+          "minY": 0.17754,
+          "maxX": 0.855294,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "101G Body",
+          "color": "#E76FE5"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220421_SD02_4934.JPG",
+      "details": {
+        "folderName": "0421BF",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.29847,
+          "minY": 0.186096,
+          "maxX": 0.691617,
+          "maxY": 0.480214
+        },
+        "category": {
+          "name": "68F Face",
+          "color": "#B056D9"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.083443,
+          "minY": 0.180749,
+          "maxX": 0.813572,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "68F Body",
+          "color": "#47D5A2"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.059253,
+          "minY": 0.0,
+          "maxX": 0.334357,
+          "maxY": 0.753173
+        },
+        "category": {
+          "name": "Toy-Blue Frisbee",
+          "color": "#8F0427"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220421_SD02_4921.JPG",
+      "details": {
+        "folderName": "0421BF",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.399565,
+          "minY": 0.037433,
+          "maxX": 0.807154,
+          "maxY": 0.352941
+        },
+        "category": {
+          "name": "68F Face",
+          "color": "#B056D9"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.043326,
+          "minY": 0.031016,
+          "maxX": 0.884178,
+          "maxY": 0.990374
+        },
+        "category": {
+          "name": "68F Body",
+          "color": "#47D5A2"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.021162,
+          "minY": 0.0,
+          "maxX": 0.380913,
+          "maxY": 0.502116
+        },
+        "category": {
+          "name": "Toy-Blue Frisbee",
+          "color": "#8F0427"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220421_SD02_4701.JPG",
+      "details": {
+        "folderName": "0421BF",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.507079,
+          "minY": 0.058824,
+          "maxX": 0.943551,
+          "maxY": 0.406417
+        },
+        "category": {
+          "name": "101G Face",
+          "color": "#9D91DD"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.049745,
+          "minY": 0.051337,
+          "maxX": 0.985273,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "101G Body",
+          "color": "#E76FE5"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.0,
+          "maxX": 0.306847,
+          "maxY": 0.464034
+        },
+        "category": {
+          "name": "Toy-Blue Frisbee",
+          "color": "#8F0427"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220421_SD02_4965.JPG",
+      "details": {
+        "folderName": "0421BF",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.208608,
+          "minY": 0.072727,
+          "maxX": 0.776665,
+          "maxY": 0.437433
+        },
+        "category": {
+          "name": "101G Face",
+          "color": "#9D91DD"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.003209,
+          "minY": 0.073797,
+          "maxX": 1.0,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "101G Body",
+          "color": "#E76FE5"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220421_SD02_4990.JPG",
+      "details": {
+        "folderName": "0421BF",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.531149,
+          "minY": 0.582888,
+          "maxX": 0.725315,
+          "maxY": 0.709091
+        },
+        "category": {
+          "name": "G701 Face",
+          "color": "#968B54"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.460543,
+          "minY": 0.501604,
+          "maxX": 0.856899,
+          "maxY": 0.811765
+        },
+        "category": {
+          "name": "G701 Body",
+          "color": "#2A8D95"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220421_SD02_4957.JPG",
+      "details": {
+        "folderName": "0421BF",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.158863,
+          "minY": 0.130481,
+          "maxX": 0.507079,
+          "maxY": 0.413904
+        },
+        "category": {
+          "name": "101G Face",
+          "color": "#9D91DD"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.083443,
+          "minY": 0.128342,
+          "maxX": 1.0,
+          "maxY": 0.895187
+        },
+        "category": {
+          "name": "101G Body",
+          "color": "#E76FE5"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220421_SD02_4719.JPG",
+      "details": {
+        "folderName": "0421BF",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.176515,
+          "minY": 0.034225,
+          "maxX": 0.694826,
+          "maxY": 0.359358
+        },
+        "category": {
+          "name": "101G Face",
+          "color": "#9D91DD"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.059373,
+          "minY": 0.035294,
+          "maxX": 0.783083,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "101G Body",
+          "color": "#E76FE5"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220421_SD02_4982.JPG",
+      "details": {
+        "folderName": "0421BF",
+        "width": 5472.0,
+        "height": 3648.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.326417,
+          "minY": 0.24066,
+          "maxX": 0.463687,
+          "maxY": 0.452585
+        },
+        "category": {
+          "name": "14F Face",
+          "color": "#3A7472"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.308859,
+          "minY": 0.220306,
+          "maxX": 0.612929,
+          "maxY": 0.787833
+        },
+        "category": {
+          "name": "14F Body",
+          "color": "#EF3564"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220421_SD02_4710.JPG",
+      "details": {
+        "folderName": "0421BF",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.157259,
+          "minY": 0.04385,
+          "maxX": 0.733338,
+          "maxY": 0.418182
+        },
+        "category": {
+          "name": "68F Face",
+          "color": "#B056D9"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.049745,
+          "minY": 0.039572,
+          "maxX": 0.911458,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "68F Body",
+          "color": "#47D5A2"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.628507,
+          "minY": 0.087447,
+          "maxX": 1.0,
+          "maxY": 0.717913
+        },
+        "category": {
+          "name": "Toy-Blue Frisbee",
+          "color": "#8F0427"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220421_SD02_4981.JPG",
+      "details": {
+        "folderName": "0421BF",
+        "width": 5472.0,
+        "height": 3648.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.52514,
+          "minY": 0.354405,
+          "maxX": 0.672785,
+          "maxY": 0.529213
+        },
+        "category": {
+          "name": "G701 Face",
+          "color": "#968B54"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.477255,
+          "minY": 0.249041,
+          "maxX": 0.75419,
+          "maxY": 0.743532
+        },
+        "category": {
+          "name": "G701 Body",
+          "color": "#2A8D95"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220421_SD02_4699.JPG",
+      "details": {
+        "folderName": "0421BF",
+        "width": 5472.0,
+        "height": 3648.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.340562,
+          "minY": 0.106041,
+          "maxX": 0.80241,
+          "maxY": 0.75795
+        },
+        "category": {
+          "name": "101G Face",
+          "color": "#9D91DD"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.079518,
+          "minY": 0.083146,
+          "maxX": 0.877912,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "101G Body",
+          "color": "#E76FE5"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.0,
+          "maxX": 0.27821,
+          "maxY": 0.931079
+        },
+        "category": {
+          "name": "Toy-Blue Frisbee",
+          "color": "#8F0427"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220421_SD02_4727.JPG",
+      "details": {
+        "folderName": "0421BF",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.365867,
+          "minY": 0.160428,
+          "maxX": 0.811968,
+          "maxY": 0.505882
+        },
+        "category": {
+          "name": "101G Face",
+          "color": "#9D91DD"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.139607,
+          "minY": 0.141176,
+          "maxX": 0.922691,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "101G Body",
+          "color": "#E76FE5"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220421_SD02_4974.JPG",
+      "details": {
+        "folderName": "0421BF",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.558428,
+          "minY": 0.300535,
+          "maxX": 0.738152,
+          "maxY": 0.414973
+        },
+        "category": {
+          "name": "G701 Face",
+          "color": "#968B54"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.248725,
+          "minY": 0.300535,
+          "maxX": 0.869736,
+          "maxY": 0.787166
+        },
+        "category": {
+          "name": "G701 Body",
+          "color": "#2A8D95"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220421_SD02_4966.JPG",
+      "details": {
+        "folderName": "0421BF",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.37389,
+          "minY": 0.11123,
+          "maxX": 0.811968,
+          "maxY": 0.423529
+        },
+        "category": {
+          "name": "101G Face",
+          "color": "#9D91DD"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.211818,
+          "minY": 0.108021,
+          "maxX": 0.962808,
+          "maxY": 0.928342
+        },
+        "category": {
+          "name": "101G Body",
+          "color": "#E76FE5"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220421_SD02_4983.JPG",
+      "details": {
+        "folderName": "0421BF",
+        "width": 5472.0,
+        "height": 3648.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.563448,
+          "minY": 0.221503,
+          "maxX": 0.698324,
+          "maxY": 0.421455
+        },
+        "category": {
+          "name": "G701 Face",
+          "color": "#968B54"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.49162,
+          "minY": 0.217911,
+          "maxX": 0.776536,
+          "maxY": 0.735151
+        },
+        "category": {
+          "name": "G701 Body",
+          "color": "#2A8D95"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220421_SD02_4958.JPG",
+      "details": {
+        "folderName": "0421BF",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.144421,
+          "minY": 0.328342,
+          "maxX": 0.491032,
+          "maxY": 0.448128
+        },
+        "category": {
+          "name": "101G Face",
+          "color": "#9D91DD"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.149235,
+          "minY": 0.328342,
+          "maxX": 0.890597,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "101G Body",
+          "color": "#E76FE5"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220421_SD02_4940.JPG",
+      "details": {
+        "folderName": "0421BF",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.454124,
+          "minY": 0.316578,
+          "maxX": 0.800735,
+          "maxY": 0.51123
+        },
+        "category": {
+          "name": "14F Face",
+          "color": "#3A7472"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.208608,
+          "minY": 0.315508,
+          "maxX": 0.929109,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "14F Body",
+          "color": "#EF3564"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.751246,
+          "minY": 0.141044,
+          "maxX": 1.0,
+          "maxY": 0.695346
+        },
+        "category": {
+          "name": "Toy-Blue Frisbee",
+          "color": "#8F0427"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.778561,
+          "maxX": 0.135436,
+          "maxY": 0.87165
+        },
+        "category": {
+          "name": "Toy-Unknown",
+          "color": "#22F15C"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220421_SD02_4702.JPG",
+      "details": {
+        "folderName": "0421BF",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.088257,
+          "minY": 0.068449,
+          "maxX": 0.80234,
+          "maxY": 0.55615
+        },
+        "category": {
+          "name": "68F Face",
+          "color": "#B056D9"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.004814,
+          "minY": 0.060963,
+          "maxX": 0.993296,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "68F Body",
+          "color": "#47D5A2"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220421_SD02_4980.JPG",
+      "details": {
+        "folderName": "0421BF",
+        "width": 5472.0,
+        "height": 3648.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.314445,
+          "minY": 0.177202,
+          "maxX": 0.445331,
+          "maxY": 0.373562
+        },
+        "category": {
+          "name": "14F Face",
+          "color": "#3A7472"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.303272,
+          "minY": 0.1784,
+          "maxX": 0.618516,
+          "maxY": 0.765084
+        },
+        "category": {
+          "name": "14F Body",
+          "color": "#EF3564"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220421_SD02_5000.JPG",
+      "details": {
+        "folderName": "0421BF",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.213422,
+          "minY": 0.194652,
+          "maxX": 0.744571,
+          "maxY": 0.541176
+        },
+        "category": {
+          "name": "101G Face",
+          "color": "#9D91DD"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.213422,
+          "minY": 0.189305,
+          "maxX": 0.962808,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "101G Body",
+          "color": "#E76FE5"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.263752,
+          "maxX": 0.241245,
+          "maxY": 0.995769
+        },
+        "category": {
+          "name": "Toy-Blue Frisbee",
+          "color": "#8F0427"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220421_SD02_4932.JPG",
+      "details": {
+        "folderName": "0421BF",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.486218,
+          "minY": 0.395722,
+          "maxX": 0.776665,
+          "maxY": 0.603209
+        },
+        "category": {
+          "name": "G701 Face",
+          "color": "#968B54"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.27761,
+          "minY": 0.404278,
+          "maxX": 0.869736,
+          "maxY": 0.898396
+        },
+        "category": {
+          "name": "G701 Body",
+          "color": "#2A8D95"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.243361,
+          "minY": 0.647391,
+          "maxX": 0.399959,
+          "maxY": 0.751763
+        },
+        "category": {
+          "name": "Toy-Unknown",
+          "color": "#22F15C"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220421_SD02_4711.JPG",
+      "details": {
+        "folderName": "0421BF",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.200585,
+          "minY": 0.137968,
+          "maxX": 0.768641,
+          "maxY": 0.53369
+        },
+        "category": {
+          "name": "68F Face",
+          "color": "#B056D9"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.094676,
+          "minY": 0.129412,
+          "maxX": 0.945156,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "68F Body",
+          "color": "#47D5A2"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.653901,
+          "minY": 0.204513,
+          "maxX": 1.0,
+          "maxY": 0.822285
+        },
+        "category": {
+          "name": "Toy-Blue Frisbee",
+          "color": "#8F0427"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220421_SD02_4720.JPG",
+      "details": {
+        "folderName": "0421BF",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.320936,
+          "minY": 0.081283,
+          "maxX": 0.797526,
+          "maxY": 0.372193
+        },
+        "category": {
+          "name": "101G Face",
+          "color": "#9D91DD"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.003209,
+          "minY": 0.080214,
+          "maxX": 0.800735,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "101G Body",
+          "color": "#E76FE5"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220421_SD02_4737.JPG",
+      "details": {
+        "folderName": "0421BF",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.186143,
+          "minY": 0.170053,
+          "maxX": 0.69964,
+          "maxY": 0.499465
+        },
+        "category": {
+          "name": "G701 Face",
+          "color": "#968B54"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.004814,
+          "minY": 0.170053,
+          "maxX": 0.956389,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "G701 Body",
+          "color": "#2A8D95"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220421_SD02_4691.JPG",
+      "details": {
+        "folderName": "0421BF",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.450915,
+          "minY": 0.204278,
+          "maxX": 0.922691,
+          "maxY": 0.516578
+        },
+        "category": {
+          "name": "101G Face",
+          "color": "#9D91DD"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.107514,
+          "minY": 0.186096,
+          "maxX": 0.961203,
+          "maxY": 0.962567
+        },
+        "category": {
+          "name": "101G Body",
+          "color": "#E76FE5"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.0,
+          "maxX": 0.41054,
+          "maxY": 0.503526
+        },
+        "category": {
+          "name": "Toy-Blue Frisbee",
+          "color": "#8F0427"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220421_SD02_4971.JPG",
+      "details": {
+        "folderName": "0421BF",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.316122,
+          "minY": 0.518717,
+          "maxX": 0.484613,
+          "maxY": 0.627807
+        },
+        "category": {
+          "name": "19J Face",
+          "color": "#A9CEA7"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.237493,
+          "minY": 0.514439,
+          "maxX": 0.516707,
+          "maxY": 0.827807
+        },
+        "category": {
+          "name": "19J Body",
+          "color": "#7270ED"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220421_SD02_4984.JPG",
+      "details": {
+        "folderName": "0421BF",
+        "width": 5472.0,
+        "height": 3648.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.357542,
+          "minY": 0.2227,
+          "maxX": 0.495611,
+          "maxY": 0.423849
+        },
+        "category": {
+          "name": "14F Face",
+          "color": "#3A7472"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.369513,
+          "minY": 0.189176,
+          "maxX": 0.706305,
+          "maxY": 0.777057
+        },
+        "category": {
+          "name": "14F Body",
+          "color": "#EF3564"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220421_SD02_4992.JPG",
+      "details": {
+        "folderName": "0421BF",
+        "width": 5472.0,
+        "height": 3648.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.431764,
+          "minY": 0.0,
+          "maxX": 0.680766,
+          "maxY": 0.433428
+        },
+        "category": {
+          "name": "68F Face",
+          "color": "#B056D9"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.18755,
+          "minY": 0.002395,
+          "maxX": 0.734238,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "68F Body",
+          "color": "#47D5A2"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220421_SD02_4704.JPG",
+      "details": {
+        "folderName": "0421BF",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.152445,
+          "minY": 0.026738,
+          "maxX": 0.829619,
+          "maxY": 0.42246
+        },
+        "category": {
+          "name": "68F Face",
+          "color": "#B056D9"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.004814,
+          "minY": 0.029947,
+          "maxX": 1.0,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "68F Body",
+          "color": "#47D5A2"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220421_SD02_4703.JPG",
+      "details": {
+        "folderName": "0421BF",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.15084,
+          "minY": 0.005348,
+          "maxX": 0.837643,
+          "maxY": 0.437433
+        },
+        "category": {
+          "name": "68F Face",
+          "color": "#B056D9"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.006419,
+          "minY": 0.007487,
+          "maxX": 1.0,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "68F Body",
+          "color": "#47D5A2"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220421_SD02_4937.JPG",
+      "details": {
+        "folderName": "0421BF",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.550405,
+          "minY": 0.308021,
+          "maxX": 0.876155,
+          "maxY": 0.551872
+        },
+        "category": {
+          "name": "14F Face",
+          "color": "#3A7472"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.380309,
+          "minY": 0.31016,
+          "maxX": 1.0,
+          "maxY": 0.97754
+        },
+        "category": {
+          "name": "14F Body",
+          "color": "#EF3564"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.82108,
+          "minY": 0.077574,
+          "maxX": 1.0,
+          "maxY": 0.61213
+        },
+        "category": {
+          "name": "Toy-Blue Frisbee",
+          "color": "#8F0427"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.08888,
+          "minY": 0.733427,
+          "maxX": 0.298382,
+          "maxY": 0.80677
+        },
+        "category": {
+          "name": "Toy-Unknown",
+          "color": "#22F15C"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220421_SD02_4721.JPG",
+      "details": {
+        "folderName": "0421BF",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.259958,
+          "minY": 0.032086,
+          "maxX": 0.89862,
+          "maxY": 0.376471
+        },
+        "category": {
+          "name": "68F Face",
+          "color": "#B056D9"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.219841,
+          "minY": 0.039572,
+          "maxX": 0.895411,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "68F Body",
+          "color": "#47D5A2"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220421_SD02_4690.JPG",
+      "details": {
+        "folderName": "0421BF",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.479799,
+          "minY": 0.213904,
+          "maxX": 0.988482,
+          "maxY": 0.579679
+        },
+        "category": {
+          "name": "101G Face",
+          "color": "#9D91DD"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.035303,
+          "minY": 0.204278,
+          "maxX": 1.0,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "101G Body",
+          "color": "#E76FE5"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.0,
+          "maxX": 0.363984,
+          "maxY": 0.561354
+        },
+        "category": {
+          "name": "Toy-Blue Frisbee",
+          "color": "#8F0427"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220421_SD02_4972.JPG",
+      "details": {
+        "folderName": "0421BF",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.466962,
+          "minY": 0.595722,
+          "maxX": 0.635453,
+          "maxY": 0.708021
+        },
+        "category": {
+          "name": "19J Face",
+          "color": "#A9CEA7"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.369076,
+          "minY": 0.594652,
+          "maxX": 0.685198,
+          "maxY": 0.91123
+        },
+        "category": {
+          "name": "19J Body",
+          "color": "#7270ED"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220421_SD02_4705.JPG",
+      "details": {
+        "folderName": "0421BF",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.186143,
+          "minY": 0.117647,
+          "maxX": 0.808758,
+          "maxY": 0.520856
+        },
+        "category": {
+          "name": "101G Face",
+          "color": "#9D91DD"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.089862,
+          "minY": 0.106952,
+          "maxX": 0.993296,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "101G Body",
+          "color": "#E76FE5"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220421_SD02_4956.JPG",
+      "details": {
+        "folderName": "0421BF",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.356239,
+          "minY": 0.168984,
+          "maxX": 0.717292,
+          "maxY": 0.414973
+        },
+        "category": {
+          "name": "101G Face",
+          "color": "#9D91DD"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.152445,
+          "minY": 0.171123,
+          "maxX": 0.797526,
+          "maxY": 0.913369
+        },
+        "category": {
+          "name": "101G Body",
+          "color": "#E76FE5"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220421_SD02_5002.JPG",
+      "details": {
+        "folderName": "0421BF",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.267981,
+          "minY": 0.142246,
+          "maxX": 0.693221,
+          "maxY": 0.455615
+        },
+        "category": {
+          "name": "101G Face",
+          "color": "#9D91DD"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.187747,
+          "minY": 0.144385,
+          "maxX": 0.924295,
+          "maxY": 0.97754
+        },
+        "category": {
+          "name": "101G Body",
+          "color": "#E76FE5"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.080395,
+          "maxX": 0.308963,
+          "maxY": 0.789845
+        },
+        "category": {
+          "name": "Toy-Blue Frisbee",
+          "color": "#8F0427"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220421_SD02_4986.JPG",
+      "details": {
+        "folderName": "0421BF",
+        "width": 5472.0,
+        "height": 3648.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.403831,
+          "minY": 0.30771,
+          "maxX": 0.496409,
+          "maxY": 0.45019
+        },
+        "category": {
+          "name": "19J Face",
+          "color": "#A9CEA7"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.293695,
+          "minY": 0.190373,
+          "maxX": 0.572227,
+          "maxY": 0.987784
+        },
+        "category": {
+          "name": "19J Body",
+          "color": "#7270ED"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.385475,
+          "minY": 0.85129,
+          "maxX": 0.515563,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "14F Face",
+          "color": "#3A7472"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220421_SD02_4735.JPG",
+      "details": {
+        "folderName": "0421BF",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.154049,
+          "minY": 0.077005,
+          "maxX": 0.69964,
+          "maxY": 0.418182
+        },
+        "category": {
+          "name": "101G Face",
+          "color": "#9D91DD"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.062582,
+          "minY": 0.077005,
+          "maxX": 0.908248,
+          "maxY": 0.985027
+        },
+        "category": {
+          "name": "101G Body",
+          "color": "#E76FE5"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220421_SD02_4698.JPG",
+      "details": {
+        "folderName": "0421BF",
+        "width": 5472.0,
+        "height": 3648.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.374297,
+          "minY": 0.068685,
+          "maxX": 0.86747,
+          "maxY": 0.671189
+        },
+        "category": {
+          "name": "101G Face",
+          "color": "#9D91DD"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.018474,
+          "minY": 0.039765,
+          "maxX": 0.888353,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "101G Body",
+          "color": "#E76FE5"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.0,
+          "maxX": 0.252918,
+          "maxY": 0.849354
+        },
+        "category": {
+          "name": "Toy-Blue Frisbee",
+          "color": "#8F0427"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220421_SD02_4960.JPG",
+      "details": {
+        "folderName": "0421BF",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.375495,
+          "minY": 0.26738,
+          "maxX": 0.725315,
+          "maxY": 0.539037
+        },
+        "category": {
+          "name": "101G Face",
+          "color": "#9D91DD"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.37389,
+          "minY": 0.265241,
+          "maxX": 1.0,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "101G Body",
+          "color": "#E76FE5"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  }
+]

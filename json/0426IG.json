@@ -1,0 +1,6657 @@
+[
+  {
+    "image": {
+      "fileName": "20220426_SD02_5200.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 5472.0,
+        "height": 3648.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.582353,
+          "minY": 0.270631,
+          "maxX": 0.717647,
+          "maxY": 0.508903
+        },
+        "category": {
+          "name": "167I Face",
+          "color": "#E1189A"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.168627,
+          "minY": 0.14414,
+          "maxX": 0.854902,
+          "maxY": 0.741292
+        },
+        "category": {
+          "name": "167I Body",
+          "color": "#1D4A48"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5189.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.330636,
+          "maxX": 0.101961,
+          "maxY": 0.520131
+        },
+        "category": {
+          "name": "49Y Face",
+          "color": "#02446A"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.328023,
+          "maxX": 0.303922,
+          "maxY": 0.852075
+        },
+        "category": {
+          "name": "49Y body",
+          "color": "#7658FE"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.282353,
+          "minY": 0.362001,
+          "maxX": 0.533333,
+          "maxY": 0.531893
+        },
+        "category": {
+          "name": "68E Face",
+          "color": "#88ACBF"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.276471,
+          "minY": 0.362001,
+          "maxX": 0.729412,
+          "maxY": 0.899122
+        },
+        "category": {
+          "name": "68E Body",
+          "color": "#FBAE4F"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.266667,
+          "minY": 0.585475,
+          "maxX": 0.431373,
+          "maxY": 0.684796
+        },
+        "category": {
+          "name": "42K Face",
+          "color": "#37D085"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.252941,
+          "minY": 0.584168,
+          "maxX": 0.470588,
+          "maxY": 0.786731
+        },
+        "category": {
+          "name": "42K Body",
+          "color": "#BF56AD"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.75098,
+          "minY": 0.876905,
+          "maxX": 0.888235,
+          "maxY": 0.981454
+        },
+        "category": {
+          "name": "Toy-Kong",
+          "color": "#B9D5D7"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5227.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.586074,
+          "minY": 0.148254,
+          "maxX": 0.94971,
+          "maxY": 0.394486
+        },
+        "category": {
+          "name": "79G Face",
+          "color": "#C26F0B"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.27853,
+          "minY": 0.148254,
+          "maxX": 1.0,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "79G Body",
+          "color": "#D4D6F1"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.421663,
+          "minY": 0.609777,
+          "maxX": 0.626692,
+          "maxY": 0.773501
+        },
+        "category": {
+          "name": "42K Face",
+          "color": "#37D085"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.408124,
+          "minY": 0.603331,
+          "maxX": 0.669246,
+          "maxY": 0.99266
+        },
+        "category": {
+          "name": "42K Body",
+          "color": "#BF56AD"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.125725,
+          "minY": 0.261701,
+          "maxX": 0.487427,
+          "maxY": 0.510511
+        },
+        "category": {
+          "name": "68E Face",
+          "color": "#88ACBF"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.260412,
+          "maxX": 0.711799,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "68E Body",
+          "color": "#FBAE4F"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.41898,
+          "maxX": 0.201161,
+          "maxY": 0.745139
+        },
+        "category": {
+          "name": "Unknown Face",
+          "color": "#7E7BA4"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5146.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.284314,
+          "minY": 0.346319,
+          "maxX": 0.641176,
+          "maxY": 0.589395
+        },
+        "category": {
+          "name": "Unknown Face",
+          "color": "#7E7BA4"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.192157,
+          "minY": 0.346319,
+          "maxX": 0.919608,
+          "maxY": 0.981454
+        },
+        "category": {
+          "name": "Unknown Body",
+          "color": "#C2B8A9"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5091.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 5472.0,
+        "height": 3648.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.210421,
+          "minY": 0.006013,
+          "maxX": 0.426854,
+          "maxY": 0.315681
+        },
+        "category": {
+          "name": "70G Face",
+          "color": "#9E8D49"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.136273,
+          "minY": 0.0,
+          "maxX": 0.529058,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "70G Body",
+          "color": "#07EB0B"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.310621,
+          "minY": 0.399862,
+          "maxX": 0.450902,
+          "maxY": 0.613322
+        },
+        "category": {
+          "name": "58K Face",
+          "color": "#909804"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.268537,
+          "minY": 0.387836,
+          "maxX": 0.456914,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "58K Body",
+          "color": "#137909"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5162.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.437255,
+          "minY": 0.152903,
+          "maxX": 0.766667,
+          "maxY": 0.389445
+        },
+        "category": {
+          "name": "Unknown Face",
+          "color": "#7E7BA4"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.109804,
+          "minY": 0.0,
+          "maxX": 1.0,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "Unknown Body",
+          "color": "#C2B8A9"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5209.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.231373,
+          "minY": 0.101935,
+          "maxX": 0.576471,
+          "maxY": 0.331943
+        },
+        "category": {
+          "name": "49Y Face",
+          "color": "#02446A"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.096078,
+          "minY": 0.100628,
+          "maxX": 0.707843,
+          "maxY": 0.84162
+        },
+        "category": {
+          "name": "49Y body",
+          "color": "#7658FE"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.552941,
+          "minY": 0.222167,
+          "maxX": 0.790196,
+          "maxY": 0.415582
+        },
+        "category": {
+          "name": "70G Face",
+          "color": "#9E8D49"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.54902,
+          "minY": 0.213019,
+          "maxX": 1.0,
+          "maxY": 0.747526
+        },
+        "category": {
+          "name": "70G Body",
+          "color": "#07EB0B"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.635294,
+          "minY": 0.470471,
+          "maxX": 0.745098,
+          "maxY": 0.5332
+        },
+        "category": {
+          "name": "58K Face",
+          "color": "#909804"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.619608,
+          "minY": 0.463936,
+          "maxX": 0.792157,
+          "maxY": 0.644283
+        },
+        "category": {
+          "name": "58K Body",
+          "color": "#137909"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5073.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 5472.0,
+        "height": 3648.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.435547,
+          "minY": 0.0,
+          "maxX": 0.701172,
+          "maxY": 0.41315
+        },
+        "category": {
+          "name": "167I Face",
+          "color": "#E1189A"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.207031,
+          "minY": 0.0,
+          "maxX": 0.878906,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "167I Body",
+          "color": "#1D4A48"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5121.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.306613,
+          "minY": 0.235078,
+          "maxX": 0.613226,
+          "maxY": 0.427415
+        },
+        "category": {
+          "name": "68E Face",
+          "color": "#88ACBF"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.124248,
+          "minY": 0.235078,
+          "maxX": 0.883768,
+          "maxY": 0.868186
+        },
+        "category": {
+          "name": "68E Body",
+          "color": "#FBAE4F"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.312625,
+          "minY": 0.602388,
+          "maxX": 0.501002,
+          "maxY": 0.743969
+        },
+        "category": {
+          "name": "42K Face",
+          "color": "#37D085"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.12024,
+          "minY": 0.602388,
+          "maxX": 0.507014,
+          "maxY": 0.848151
+        },
+        "category": {
+          "name": "42K Body",
+          "color": "#BF56AD"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5210.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.656863,
+          "minY": 0.514904,
+          "maxX": 0.77451,
+          "maxY": 0.567178
+        },
+        "category": {
+          "name": "58K Face",
+          "color": "#909804"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.641176,
+          "minY": 0.509676,
+          "maxX": 0.801961,
+          "maxY": 0.633828
+        },
+        "category": {
+          "name": "58K Body",
+          "color": "#137909"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.580392,
+          "minY": 0.284896,
+          "maxX": 0.845098,
+          "maxY": 0.49138
+        },
+        "category": {
+          "name": "70G Face",
+          "color": "#9E8D49"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.572549,
+          "minY": 0.277055,
+          "maxX": 1.0,
+          "maxY": 0.767128
+        },
+        "category": {
+          "name": "70G Body",
+          "color": "#07EB0B"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.239216,
+          "minY": 0.215632,
+          "maxX": 0.566667,
+          "maxY": 0.460016
+        },
+        "category": {
+          "name": "49Y Face",
+          "color": "#02446A"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.113725,
+          "minY": 0.218246,
+          "maxX": 0.715686,
+          "maxY": 0.879519
+        },
+        "category": {
+          "name": "49Y body",
+          "color": "#7658FE"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5170.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.598039,
+          "minY": 0.401207,
+          "maxX": 0.733333,
+          "maxY": 0.57502
+        },
+        "category": {
+          "name": "Unknown Face",
+          "color": "#7E7BA4"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.137255,
+          "minY": 0.367228,
+          "maxX": 0.737255,
+          "maxY": 0.905656
+        },
+        "category": {
+          "name": "Unknown Body",
+          "color": "#C2B8A9"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.584314,
+          "minY": 0.564565,
+          "maxX": 0.719608,
+          "maxY": 0.676955
+        },
+        "category": {
+          "name": "Toy-Kong",
+          "color": "#B9D5D7"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5199.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 5472.0,
+        "height": 3648.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.609804,
+          "minY": 0.273572,
+          "maxX": 0.739216,
+          "maxY": 0.535378
+        },
+        "category": {
+          "name": "167I Face",
+          "color": "#E1189A"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.162745,
+          "minY": 0.182381,
+          "maxX": 0.82549,
+          "maxY": 0.738351
+        },
+        "category": {
+          "name": "167I Body",
+          "color": "#1D4A48"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5202.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.358824,
+          "minY": 0.194723,
+          "maxX": 0.596078,
+          "maxY": 0.365922
+        },
+        "category": {
+          "name": "167I Face",
+          "color": "#E1189A"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.339216,
+          "minY": 0.1333,
+          "maxX": 0.945098,
+          "maxY": 0.517518
+        },
+        "category": {
+          "name": "167I Body",
+          "color": "#1D4A48"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5148.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.227451,
+          "minY": 0.345012,
+          "maxX": 0.613725,
+          "maxY": 0.57502
+        },
+        "category": {
+          "name": "Unknown Face",
+          "color": "#7E7BA4"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.14902,
+          "minY": 0.343705,
+          "maxX": 0.870588,
+          "maxY": 0.963158
+        },
+        "category": {
+          "name": "Unknown Body",
+          "color": "#C2B8A9"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5113.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.641283,
+          "minY": 0.550297,
+          "maxX": 0.893788,
+          "maxY": 0.695885
+        },
+        "category": {
+          "name": "Unknown Face",
+          "color": "#7E7BA4"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.0,
+          "maxX": 0.15,
+          "maxY": 0.1333
+        },
+        "category": {
+          "name": "Unknown Face",
+          "color": "#7E7BA4"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.190381,
+          "minY": 0.451457,
+          "maxX": 1.0,
+          "maxY": 0.869522
+        },
+        "category": {
+          "name": "Unknown Body",
+          "color": "#C2B8A9"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.617234,
+          "minY": 0.722598,
+          "maxX": 0.795591,
+          "maxY": 0.841473
+        },
+        "category": {
+          "name": "Toy-Kong",
+          "color": "#B9D5D7"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5219.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.4294,
+          "minY": 0.346786,
+          "maxX": 0.796905,
+          "maxY": 0.65103
+        },
+        "category": {
+          "name": "68E Face",
+          "color": "#88ACBF"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.308111,
+          "maxX": 0.77176,
+          "maxY": 0.998711
+        },
+        "category": {
+          "name": "68E Body",
+          "color": "#FBAE4F"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.5706,
+          "minY": 0.58915,
+          "maxX": 0.73501,
+          "maxY": 0.680681
+        },
+        "category": {
+          "name": "42K Face",
+          "color": "#37D085"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.547389,
+          "minY": 0.583993,
+          "maxX": 0.748549,
+          "maxY": 0.886948
+        },
+        "category": {
+          "name": "42K Body",
+          "color": "#BF56AD"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.601547,
+          "minY": 0.016759,
+          "maxX": 0.957447,
+          "maxY": 0.305533
+        },
+        "category": {
+          "name": "79G Face",
+          "color": "#C26F0B"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.514507,
+          "minY": 0.016759,
+          "maxX": 1.0,
+          "maxY": 0.950117
+        },
+        "category": {
+          "name": "79G Body",
+          "color": "#D4D6F1"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5152.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.488235,
+          "minY": 0.105856,
+          "maxX": 0.735294,
+          "maxY": 0.297965
+        },
+        "category": {
+          "name": "Unknown Face",
+          "color": "#7E7BA4"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.221569,
+          "minY": 0.44172,
+          "maxX": 0.470588,
+          "maxY": 0.603771
+        },
+        "category": {
+          "name": "Unknown Face",
+          "color": "#7E7BA4"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.227451,
+          "minY": 0.103242,
+          "maxX": 1.0,
+          "maxY": 0.5332
+        },
+        "category": {
+          "name": "Unknown Body",
+          "color": "#C2B8A9"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.439106,
+          "maxX": 0.74902,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "Unknown Body",
+          "color": "#C2B8A9"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.509804,
+          "minY": 0.855995,
+          "maxX": 0.656863,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "Unknown Body",
+          "color": "#C2B8A9"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5144.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.394118,
+          "minY": 0.104549,
+          "maxX": 0.85098,
+          "maxY": 0.449561
+        },
+        "category": {
+          "name": "Unknown Face",
+          "color": "#7E7BA4"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.0,
+          "maxX": 0.847059,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "Unknown Body",
+          "color": "#C2B8A9"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.47451,
+          "minY": 0.395979,
+          "maxX": 0.527451,
+          "maxY": 0.432572
+        },
+        "category": {
+          "name": "Toy-Megalast Ball",
+          "color": "#98B039"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5207.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.34902,
+          "minY": 0.567178,
+          "maxX": 1.0,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "167I Body",
+          "color": "#1D4A48"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.933333,
+          "minY": 0.64167,
+          "maxX": 1.0,
+          "maxY": 0.780197
+        },
+        "category": {
+          "name": "167I Face",
+          "color": "#E1189A"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5255.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.334623,
+          "minY": 0.183062,
+          "maxX": 0.810445,
+          "maxY": 0.549186
+        },
+        "category": {
+          "name": "79G Face",
+          "color": "#C26F0B"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.184351,
+          "maxX": 0.816248,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "79G Body",
+          "color": "#D4D6F1"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5115.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.51503,
+          "minY": 0.293848,
+          "maxX": 0.771543,
+          "maxY": 0.471492
+        },
+        "category": {
+          "name": "Unknown Face",
+          "color": "#7E7BA4"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.328657,
+          "minY": 0.295183,
+          "maxX": 0.911824,
+          "maxY": 0.743969
+        },
+        "category": {
+          "name": "Unknown Body",
+          "color": "#C2B8A9"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.296593,
+          "minY": 0.61708,
+          "maxX": 0.492986,
+          "maxY": 0.729277
+        },
+        "category": {
+          "name": "Toy-Kong",
+          "color": "#B9D5D7"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5212.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.12549,
+          "minY": 0.407741,
+          "maxX": 0.413725,
+          "maxY": 0.639056
+        },
+        "category": {
+          "name": "49Y Face",
+          "color": "#02446A"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.027451,
+          "minY": 0.407741,
+          "maxX": 0.62549,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "49Y body",
+          "color": "#7658FE"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.466667,
+          "minY": 0.469164,
+          "maxX": 0.713725,
+          "maxY": 0.662579
+        },
+        "category": {
+          "name": "70G Face",
+          "color": "#9E8D49"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.45098,
+          "minY": 0.462629,
+          "maxX": 0.95098,
+          "maxY": 0.963158
+        },
+        "category": {
+          "name": "70G Body",
+          "color": "#07EB0B"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.54902,
+          "minY": 0.69133,
+          "maxX": 0.680392,
+          "maxY": 0.772356
+        },
+        "category": {
+          "name": "58K Face",
+          "color": "#909804"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.537255,
+          "minY": 0.683489,
+          "maxX": 0.688235,
+          "maxY": 0.807641
+        },
+        "category": {
+          "name": "58K Body",
+          "color": "#137909"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5225.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.069632,
+          "minY": 0.199821,
+          "maxX": 0.454545,
+          "maxY": 0.429293
+        },
+        "category": {
+          "name": "68E Face",
+          "color": "#88ACBF"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.198532,
+          "maxX": 0.77176,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "68E Body",
+          "color": "#FBAE4F"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.599613,
+          "minY": 0.06188,
+          "maxX": 0.941973,
+          "maxY": 0.315846
+        },
+        "category": {
+          "name": "79G Face",
+          "color": "#C26F0B"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.439072,
+          "minY": 0.068326,
+          "maxX": 1.0,
+          "maxY": 0.9759
+        },
+        "category": {
+          "name": "79G Body",
+          "color": "#D4D6F1"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.512573,
+          "minY": 0.623957,
+          "maxX": 0.72147,
+          "maxY": 0.788971
+        },
+        "category": {
+          "name": "42K Face",
+          "color": "#37D085"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.460348,
+          "minY": 0.631692,
+          "maxX": 0.696325,
+          "maxY": 0.941093
+        },
+        "category": {
+          "name": "42K Body",
+          "color": "#BF56AD"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5239.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.547389,
+          "minY": 0.505354,
+          "maxX": 0.783366,
+          "maxY": 0.688416
+        },
+        "category": {
+          "name": "59E Face",
+          "color": "#1BD06A"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.208897,
+          "minY": 0.473125,
+          "maxX": 0.895551,
+          "maxY": 0.963009
+        },
+        "category": {
+          "name": "59E Body",
+          "color": "#9EF562"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.736944,
+          "minY": 0.117314,
+          "maxX": 0.860735,
+          "maxY": 0.198532
+        },
+        "category": {
+          "name": "Unknown Face",
+          "color": "#7E7BA4"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.605416,
+          "minY": 0.112158,
+          "maxX": 0.905222,
+          "maxY": 0.3571
+        },
+        "category": {
+          "name": "Unknown Body",
+          "color": "#C2B8A9"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5083.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.316406,
+          "minY": 0.272067,
+          "maxX": 0.59375,
+          "maxY": 0.462124
+        },
+        "category": {
+          "name": "134J Face",
+          "color": "#F0ADD0"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.308594,
+          "minY": 0.273369,
+          "maxX": 0.693359,
+          "maxY": 0.822711
+        },
+        "category": {
+          "name": "134J Body",
+          "color": "#B064D5"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.101562,
+          "minY": 0.089821,
+          "maxX": 0.445312,
+          "maxY": 0.251239
+        },
+        "category": {
+          "name": "59E Face",
+          "color": "#1BD06A"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.08852,
+          "maxX": 0.462891,
+          "maxY": 0.879988
+        },
+        "category": {
+          "name": "59E Body",
+          "color": "#9EF562"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5096.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.304609,
+          "minY": 0.172302,
+          "maxX": 0.671343,
+          "maxY": 0.442107
+        },
+        "category": {
+          "name": "49Y Face",
+          "color": "#02446A"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.014028,
+          "minY": 0.170966,
+          "maxX": 0.863727,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "49Y body",
+          "color": "#7658FE"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5180.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.360784,
+          "minY": 0.262679,
+          "maxX": 0.562745,
+          "maxY": 0.423424
+        },
+        "category": {
+          "name": "Unknown Face",
+          "color": "#7E7BA4"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.241176,
+          "minY": 0.265293,
+          "maxX": 0.788235,
+          "maxY": 0.759287
+        },
+        "category": {
+          "name": "Unknown Body",
+          "color": "#C2B8A9"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.790196,
+          "minY": 0.55803,
+          "maxX": 1.0,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "Unknown Body",
+          "color": "#C2B8A9"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5230.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.450677,
+          "minY": 0.54274,
+          "maxX": 0.566731,
+          "maxY": 0.608487
+        },
+        "category": {
+          "name": "58K Face",
+          "color": "#909804"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.44294,
+          "minY": 0.536294,
+          "maxX": 0.591876,
+          "maxY": 0.627825
+        },
+        "category": {
+          "name": "58K Body",
+          "color": "#137909"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.45648,
+          "minY": 0.400931,
+          "maxX": 0.634429,
+          "maxY": 0.531137
+        },
+        "category": {
+          "name": "70G Face",
+          "color": "#9E8D49"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.433269,
+          "minY": 0.398353,
+          "maxX": 0.845261,
+          "maxY": 0.822489
+        },
+        "category": {
+          "name": "70G Body",
+          "color": "#07EB0B"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.193424,
+          "minY": 0.426715,
+          "maxX": 0.419729,
+          "maxY": 0.586572
+        },
+        "category": {
+          "name": "59E Face",
+          "color": "#1BD06A"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.021277,
+          "minY": 0.425426,
+          "maxX": 0.553191,
+          "maxY": 0.979768
+        },
+        "category": {
+          "name": "59E Body",
+          "color": "#9EF562"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5108.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.046092,
+          "minY": 0.021371,
+          "maxX": 0.523046,
+          "maxY": 0.345939
+        },
+        "category": {
+          "name": "59E Face",
+          "color": "#1BD06A"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.052104,
+          "minY": 0.017364,
+          "maxX": 1.0,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "59E Body",
+          "color": "#9EF562"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5079.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.425781,
+          "minY": 0.617033,
+          "maxX": 0.667969,
+          "maxY": 0.760227
+        },
+        "category": {
+          "name": "134J Face",
+          "color": "#F0ADD0"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.414062,
+          "minY": 0.615731,
+          "maxX": 0.746094,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "134J Body",
+          "color": "#B064D5"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.310547,
+          "minY": 0.382717,
+          "maxX": 0.625,
+          "maxY": 0.610524
+        },
+        "category": {
+          "name": "59E Face",
+          "color": "#1BD06A"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.203125,
+          "minY": 0.380113,
+          "maxX": 0.835938,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "59E Body",
+          "color": "#9EF562"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5142.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.384314,
+          "minY": 0.147675,
+          "maxX": 0.837255,
+          "maxY": 0.483539
+        },
+        "category": {
+          "name": "167I Face",
+          "color": "#E1189A"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.264706,
+          "minY": 0.135914,
+          "maxX": 1.0,
+          "maxY": 0.937021
+        },
+        "category": {
+          "name": "167I Body",
+          "color": "#1D4A48"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5095.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.436874,
+          "minY": 0.133567,
+          "maxX": 0.751503,
+          "maxY": 0.419401
+        },
+        "category": {
+          "name": "49Y Face",
+          "color": "#02446A"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.03006,
+          "minY": 0.13891,
+          "maxX": 0.903808,
+          "maxY": 0.979047
+        },
+        "category": {
+          "name": "49Y body",
+          "color": "#7658FE"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5177.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.611765,
+          "minY": 0.147675,
+          "maxX": 0.970588,
+          "maxY": 0.403821
+        },
+        "category": {
+          "name": "Unknown Face",
+          "color": "#7E7BA4"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.401961,
+          "minY": 0.483539,
+          "maxX": 0.821569,
+          "maxY": 0.746219
+        },
+        "category": {
+          "name": "Unknown Face",
+          "color": "#7E7BA4"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.343137,
+          "minY": 0.235235,
+          "maxX": 0.964706,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "Unknown Body",
+          "color": "#C2B8A9"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.572549,
+          "minY": 0.0,
+          "maxX": 1.0,
+          "maxY": 0.816789
+        },
+        "category": {
+          "name": "Unknown Body",
+          "color": "#C2B8A9"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5125.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.907816,
+          "minY": 0.387345,
+          "maxX": 1.0,
+          "maxY": 0.785375
+        },
+        "category": {
+          "name": "Unknown Body",
+          "color": "#C2B8A9"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.258824,
+          "minY": 0.117618,
+          "maxX": 0.576471,
+          "maxY": 0.365922
+        },
+        "category": {
+          "name": "79G Face",
+          "color": "#C26F0B"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.121538,
+          "maxX": 0.847059,
+          "maxY": 0.95793
+        },
+        "category": {
+          "name": "79G Body",
+          "color": "#D4D6F1"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5140.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.652941,
+          "minY": 0.193416,
+          "maxX": 1.0,
+          "maxY": 0.522745
+        },
+        "category": {
+          "name": "167I Face",
+          "color": "#E1189A"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.196078,
+          "minY": 0.201257,
+          "maxX": 1.0,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "167I Body",
+          "color": "#1D4A48"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5183.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.339216,
+          "minY": 0.427344,
+          "maxX": 0.639216,
+          "maxY": 0.629908
+        },
+        "category": {
+          "name": "59E Face",
+          "color": "#1BD06A"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.143137,
+          "minY": 0.352853,
+          "maxX": 0.917647,
+          "maxY": 0.925259
+        },
+        "category": {
+          "name": "59E Body",
+          "color": "#9EF562"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.082609,
+          "minY": 0.318761,
+          "maxX": 0.234783,
+          "maxY": 0.431776
+        },
+        "category": {
+          "name": "Toy-Kong",
+          "color": "#B9D5D7"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.452174,
+          "minY": 0.0,
+          "maxX": 0.786957,
+          "maxY": 0.276742
+        },
+        "category": {
+          "name": "Unknown Body",
+          "color": "#C2B8A9"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.491304,
+          "minY": 0.124607,
+          "maxX": 0.656522,
+          "maxY": 0.247764
+        },
+        "category": {
+          "name": "Unknown Face",
+          "color": "#7E7BA4"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5223.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.54352,
+          "minY": 0.35581,
+          "maxX": 0.876209,
+          "maxY": 0.614933
+        },
+        "category": {
+          "name": "68E Face",
+          "color": "#88ACBF"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.359678,
+          "maxX": 0.876209,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "68E Body",
+          "color": "#FBAE4F"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.566731,
+          "minY": 0.741272,
+          "maxX": 0.705996,
+          "maxY": 0.791549
+        },
+        "category": {
+          "name": "42K Face",
+          "color": "#37D085"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.541586,
+          "minY": 0.734826,
+          "maxX": 0.73501,
+          "maxY": 0.959141
+        },
+        "category": {
+          "name": "42K Body",
+          "color": "#BF56AD"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.220503,
+          "minY": 0.29522,
+          "maxX": 0.491296,
+          "maxY": 0.439606
+        },
+        "category": {
+          "name": "79G Face",
+          "color": "#C26F0B"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.203095,
+          "minY": 0.288774,
+          "maxX": 1.0,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "79G Body",
+          "color": "#D4D6F1"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5089.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.314629,
+          "minY": 0.12956,
+          "maxX": 0.699399,
+          "maxY": 0.371317
+        },
+        "category": {
+          "name": "48Z Face",
+          "color": "#5EBE67"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.292585,
+          "minY": 0.132231,
+          "maxX": 0.865731,
+          "maxY": 0.813424
+        },
+        "category": {
+          "name": "48Z Body",
+          "color": "#9F3233"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5215.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.539216,
+          "minY": 0.090174,
+          "maxX": 0.862745,
+          "maxY": 0.363308
+        },
+        "category": {
+          "name": "79G Face",
+          "color": "#C26F0B"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.486275,
+          "minY": 0.081025,
+          "maxX": 1.0,
+          "maxY": 0.883439
+        },
+        "category": {
+          "name": "79G Body",
+          "color": "#D4D6F1"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.433333,
+          "minY": 0.461323,
+          "maxX": 0.666667,
+          "maxY": 0.603771
+        },
+        "category": {
+          "name": "42K Face",
+          "color": "#37D085"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.421569,
+          "minY": 0.456095,
+          "maxX": 0.709804,
+          "maxY": 0.822017
+        },
+        "category": {
+          "name": "42K Body",
+          "color": "#BF56AD"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.12549,
+          "minY": 0.11239,
+          "maxX": 0.564706,
+          "maxY": 0.410355
+        },
+        "category": {
+          "name": "68E Face",
+          "color": "#88ACBF"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.103242,
+          "maxX": 0.719608,
+          "maxY": 0.937021
+        },
+        "category": {
+          "name": "68E Body",
+          "color": "#FBAE4F"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5085.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.106854,
+          "maxX": 0.498998,
+          "maxY": 0.500877
+        },
+        "category": {
+          "name": "70G Face",
+          "color": "#9E8D49"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.106854,
+          "maxX": 1.0,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "70G Body",
+          "color": "#07EB0B"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.188377,
+          "minY": 0.399366,
+          "maxX": 0.58517,
+          "maxY": 0.61708
+        },
+        "category": {
+          "name": "58K Face",
+          "color": "#909804"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.196393,
+          "minY": 0.392687,
+          "maxX": 0.903808,
+          "maxY": 0.861508
+        },
+        "category": {
+          "name": "58K Body",
+          "color": "#137909"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5206.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.262745,
+          "minY": 0.518825,
+          "maxX": 0.452941,
+          "maxY": 0.678262
+        },
+        "category": {
+          "name": "167I Face",
+          "color": "#E1189A"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.270588,
+          "minY": 0.520131,
+          "maxX": 0.75098,
+          "maxY": 0.946169
+        },
+        "category": {
+          "name": "167I Body",
+          "color": "#1D4A48"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.272549,
+          "minY": 0.406434,
+          "maxX": 0.396078,
+          "maxY": 0.518825
+        },
+        "category": {
+          "name": "Unknown Body",
+          "color": "#C2B8A9"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5258.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.234043,
+          "minY": 0.07735,
+          "maxX": 0.87234,
+          "maxY": 0.52727
+        },
+        "category": {
+          "name": "79G Face",
+          "color": "#C26F0B"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.079928,
+          "maxX": 1.0,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "79G Body",
+          "color": "#D4D6F1"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5093.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.116232,
+          "minY": 0.261792,
+          "maxX": 0.456914,
+          "maxY": 0.484849
+        },
+        "category": {
+          "name": "70G Face",
+          "color": "#9E8D49"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.122244,
+          "minY": 0.205693,
+          "maxX": 0.775551,
+          "maxY": 0.79606
+        },
+        "category": {
+          "name": "70G Body",
+          "color": "#07EB0B"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.372745,
+          "minY": 0.423408,
+          "maxX": 0.57515,
+          "maxY": 0.562318
+        },
+        "category": {
+          "name": "58K Face",
+          "color": "#909804"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.376754,
+          "minY": 0.416729,
+          "maxX": 0.665331,
+          "maxY": 0.776025
+        },
+        "category": {
+          "name": "58K Body",
+          "color": "#137909"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5080.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.208984,
+          "minY": 0.182246,
+          "maxX": 0.521484,
+          "maxY": 0.40745
+        },
+        "category": {
+          "name": "59E Face",
+          "color": "#1BD06A"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.111328,
+          "minY": 0.167927,
+          "maxX": 0.738281,
+          "maxY": 0.959395
+        },
+        "category": {
+          "name": "59E Body",
+          "color": "#9EF562"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.320312,
+          "minY": 0.417864,
+          "maxX": 0.568359,
+          "maxY": 0.550644
+        },
+        "category": {
+          "name": "134J Face",
+          "color": "#F0ADD0"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.308594,
+          "minY": 0.417864,
+          "maxX": 0.625,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "134J Body",
+          "color": "#B064D5"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5149.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.254902,
+          "minY": 0.294044,
+          "maxX": 0.629412,
+          "maxY": 0.543655
+        },
+        "category": {
+          "name": "Unknown Face",
+          "color": "#7E7BA4"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.172549,
+          "minY": 0.294044,
+          "maxX": 0.894118,
+          "maxY": 0.879519
+        },
+        "category": {
+          "name": "Unknown Body",
+          "color": "#C2B8A9"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5110.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.246493,
+          "minY": 0.436765,
+          "maxX": 0.438878,
+          "maxY": 0.613073
+        },
+        "category": {
+          "name": "Unknown Face",
+          "color": "#7E7BA4"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.250501,
+          "minY": 0.412722,
+          "maxX": 1.0,
+          "maxY": 0.841473
+        },
+        "category": {
+          "name": "Unknown Body",
+          "color": "#C2B8A9"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5166.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.458824,
+          "minY": 0.010455,
+          "maxX": 0.939216,
+          "maxY": 0.338477
+        },
+        "category": {
+          "name": "Unknown Face",
+          "color": "#7E7BA4"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.262745,
+          "minY": 0.009148,
+          "maxX": 1.0,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "Unknown Body",
+          "color": "#C2B8A9"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5179.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 5472.0,
+        "height": 3648.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.198039,
+          "minY": 0.005883,
+          "maxX": 0.684314,
+          "maxY": 0.708934
+        },
+        "category": {
+          "name": "70G Face",
+          "color": "#9E8D49"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.554902,
+          "minY": 0.908965,
+          "maxX": 0.739216,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "58K Face",
+          "color": "#909804"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.2,
+          "minY": 0.002942,
+          "maxX": 1.0,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "70G Body",
+          "color": "#07EB0B"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5217.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.564797,
+          "minY": 0.097977,
+          "maxX": 0.940039,
+          "maxY": 0.369991
+        },
+        "category": {
+          "name": "79G Face",
+          "color": "#C26F0B"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.464217,
+          "minY": 0.091531,
+          "maxX": 1.0,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "79G Body",
+          "color": "#D4D6F1"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.44294,
+          "minY": 0.585282,
+          "maxX": 0.68472,
+          "maxY": 0.75932
+        },
+        "category": {
+          "name": "42K Face",
+          "color": "#37D085"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.425532,
+          "minY": 0.580126,
+          "maxX": 0.711799,
+          "maxY": 0.96172
+        },
+        "category": {
+          "name": "42K Body",
+          "color": "#BF56AD"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.081238,
+          "minY": 0.203689,
+          "maxX": 0.495164,
+          "maxY": 0.46539
+        },
+        "category": {
+          "name": "68E Face",
+          "color": "#88ACBF"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.199821,
+          "maxX": 0.700193,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "68E Body",
+          "color": "#FBAE4F"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5172.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.445098,
+          "minY": 0.339784,
+          "maxX": 0.721569,
+          "maxY": 0.537121
+        },
+        "category": {
+          "name": "Unknown Face",
+          "color": "#7E7BA4"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.129412,
+          "minY": 0.337171,
+          "maxX": 0.8,
+          "maxY": 0.862529
+        },
+        "category": {
+          "name": "Unknown Body",
+          "color": "#C2B8A9"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.613725,
+          "minY": 0.541041,
+          "maxX": 0.766667,
+          "maxY": 0.659966
+        },
+        "category": {
+          "name": "Toy-Kong",
+          "color": "#B9D5D7"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5185.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.2,
+          "minY": 0.328023,
+          "maxX": 0.32549,
+          "maxY": 0.431265
+        },
+        "category": {
+          "name": "Toy-Kong",
+          "color": "#B9D5D7"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.333333,
+          "minY": 0.290124,
+          "maxX": 0.645098,
+          "maxY": 0.504449
+        },
+        "category": {
+          "name": "59E Face",
+          "color": "#1BD06A"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.231373,
+          "minY": 0.284896,
+          "maxX": 1.0,
+          "maxY": 0.914804
+        },
+        "category": {
+          "name": "59E Body",
+          "color": "#9EF562"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5221.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.584139,
+          "minY": 0.648452,
+          "maxX": 0.800774,
+          "maxY": 0.770923
+        },
+        "category": {
+          "name": "42K Face",
+          "color": "#37D085"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.568665,
+          "minY": 0.649741,
+          "maxX": 0.791103,
+          "maxY": 0.965587
+        },
+        "category": {
+          "name": "42K Body",
+          "color": "#BF56AD"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.183752,
+          "minY": 0.269436,
+          "maxX": 0.572534,
+          "maxY": 0.525981
+        },
+        "category": {
+          "name": "68E Face",
+          "color": "#88ACBF"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.265569,
+          "maxX": 0.882012,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "68E Body",
+          "color": "#FBAE4F"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.485493,
+          "minY": 0.234629,
+          "maxX": 0.73501,
+          "maxY": 0.391907
+        },
+        "category": {
+          "name": "79G Face",
+          "color": "#C26F0B"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.487427,
+          "minY": 0.224315,
+          "maxX": 1.0,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "79G Body",
+          "color": "#D4D6F1"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5087.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.226453,
+          "minY": 0.008014,
+          "maxX": 0.795591,
+          "maxY": 0.418065
+        },
+        "category": {
+          "name": "70G Face",
+          "color": "#9E8D49"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.0,
+          "maxX": 0.92986,
+          "maxY": 0.996411
+        },
+        "category": {
+          "name": "70G Body",
+          "color": "#07EB0B"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.042084,
+          "minY": 0.368645,
+          "maxX": 0.458918,
+          "maxY": 0.61708
+        },
+        "category": {
+          "name": "58K Face",
+          "color": "#909804"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.034068,
+          "minY": 0.364638,
+          "maxX": 0.589178,
+          "maxY": 0.898907
+        },
+        "category": {
+          "name": "58K Body",
+          "color": "#137909"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5204.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.245098,
+          "minY": 0.522745,
+          "maxX": 0.480392,
+          "maxY": 0.661273
+        },
+        "category": {
+          "name": "167I Face",
+          "color": "#E1189A"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.25098,
+          "minY": 0.503142,
+          "maxX": 0.833333,
+          "maxY": 0.837699
+        },
+        "category": {
+          "name": "167I Body",
+          "color": "#1D4A48"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.543137,
+          "minY": 0.103242,
+          "maxX": 0.723529,
+          "maxY": 0.230008
+        },
+        "category": {
+          "name": "86I Face",
+          "color": "#351549"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.44902,
+          "minY": 0.101935,
+          "maxX": 0.827451,
+          "maxY": 0.486153
+        },
+        "category": {
+          "name": "86I Body",
+          "color": "#45E13B"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5074.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 5472.0,
+        "height": 3648.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.308594,
+          "minY": 0.134787,
+          "maxX": 0.457031,
+          "maxY": 0.386779
+        },
+        "category": {
+          "name": "167I Face",
+          "color": "#E1189A"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.271484,
+          "minY": 0.125996,
+          "maxX": 0.546875,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "167I Body",
+          "color": "#1D4A48"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5198.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 5472.0,
+        "height": 3648.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.633333,
+          "minY": 0.258864,
+          "maxX": 0.792157,
+          "maxY": 0.532436
+        },
+        "category": {
+          "name": "167I Face",
+          "color": "#E1189A"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.196078,
+          "minY": 0.091191,
+          "maxX": 0.87451,
+          "maxY": 0.685401
+        },
+        "category": {
+          "name": "167I Body",
+          "color": "#1D4A48"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5171.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.517647,
+          "minY": 0.392059,
+          "maxX": 0.692157,
+          "maxY": 0.516211
+        },
+        "category": {
+          "name": "Toy-Kong",
+          "color": "#B9D5D7"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.284314,
+          "minY": 0.248304,
+          "maxX": 0.576471,
+          "maxY": 0.440413
+        },
+        "category": {
+          "name": "Unknown Face",
+          "color": "#7E7BA4"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.246997,
+          "maxX": 0.672549,
+          "maxY": 0.773663
+        },
+        "category": {
+          "name": "Unknown Body",
+          "color": "#C2B8A9"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5090.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.238477,
+          "minY": 0.018699,
+          "maxX": 0.56513,
+          "maxY": 0.252442
+        },
+        "category": {
+          "name": "48Z Face",
+          "color": "#5EBE67"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.104208,
+          "minY": 0.020035,
+          "maxX": 0.895792,
+          "maxY": 0.828116
+        },
+        "category": {
+          "name": "48Z Body",
+          "color": "#9F3233"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5155.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.013725,
+          "minY": 0.103242,
+          "maxX": 0.480392,
+          "maxY": 0.423424
+        },
+        "category": {
+          "name": "59E Face",
+          "color": "#1BD06A"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.101935,
+          "maxX": 0.935294,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "59E Body",
+          "color": "#9EF562"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.282353,
+          "minY": 0.0,
+          "maxX": 0.539216,
+          "maxY": 0.135914
+        },
+        "category": {
+          "name": "Unknown Face",
+          "color": "#7E7BA4"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.162745,
+          "minY": 0.0,
+          "maxX": 0.562745,
+          "maxY": 0.194723
+        },
+        "category": {
+          "name": "Unknown Body",
+          "color": "#C2B8A9"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5201.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 5472.0,
+        "height": 3648.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.335294,
+          "minY": 0.46772,
+          "maxX": 0.494118,
+          "maxY": 0.705993
+        },
+        "category": {
+          "name": "167I Face",
+          "color": "#E1189A"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.294118,
+          "minY": 0.100016,
+          "maxX": 0.668627,
+          "maxY": 0.717759
+        },
+        "category": {
+          "name": "167I Body",
+          "color": "#1D4A48"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5218.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.090909,
+          "minY": 0.193375,
+          "maxX": 0.49323,
+          "maxY": 0.469257
+        },
+        "category": {
+          "name": "68E Face",
+          "color": "#88ACBF"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.411992,
+          "minY": 0.569812,
+          "maxX": 0.680851,
+          "maxY": 0.737404
+        },
+        "category": {
+          "name": "42K Face",
+          "color": "#37D085"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.386847,
+          "minY": 0.567234,
+          "maxX": 0.702128,
+          "maxY": 0.933358
+        },
+        "category": {
+          "name": "42K Body",
+          "color": "#BF56AD"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.190797,
+          "maxX": 0.698259,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "68E Body",
+          "color": "#FBAE4F"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.551257,
+          "minY": 0.085085,
+          "maxX": 0.911025,
+          "maxY": 0.353232
+        },
+        "category": {
+          "name": "79G Face",
+          "color": "#C26F0B"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.452611,
+          "minY": 0.085085,
+          "maxX": 1.0,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "79G Body",
+          "color": "#D4D6F1"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5112.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.02004,
+          "minY": 0.30854,
+          "maxX": 0.296593,
+          "maxY": 0.492863
+        },
+        "category": {
+          "name": "167I Face",
+          "color": "#E1189A"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.307204,
+          "maxX": 1.0,
+          "maxY": 0.928292
+        },
+        "category": {
+          "name": "167I Body",
+          "color": "#1D4A48"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5139.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.343137,
+          "minY": 0.069264,
+          "maxX": 0.772549,
+          "maxY": 0.385525
+        },
+        "category": {
+          "name": "167I Face",
+          "color": "#E1189A"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.211765,
+          "minY": 0.064036,
+          "maxX": 1.0,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "167I Body",
+          "color": "#1D4A48"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5147.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.223529,
+          "minY": 0.347625,
+          "maxX": 0.607843,
+          "maxY": 0.561951
+        },
+        "category": {
+          "name": "Unknown Face",
+          "color": "#7E7BA4"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.178431,
+          "minY": 0.348932,
+          "maxX": 0.901961,
+          "maxY": 0.982761
+        },
+        "category": {
+          "name": "Unknown Body",
+          "color": "#C2B8A9"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5250.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.205029,
+          "minY": 0.212713,
+          "maxX": 0.756286,
+          "maxY": 0.622668
+        },
+        "category": {
+          "name": "48Z Face",
+          "color": "#5EBE67"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.218569,
+          "minY": 0.199821,
+          "maxX": 1.0,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "48Z Body",
+          "color": "#9F3233"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5072.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 5472.0,
+        "height": 3648.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.253906,
+          "minY": 0.0,
+          "maxX": 0.488281,
+          "maxY": 0.275434
+        },
+        "category": {
+          "name": "167I Face",
+          "color": "#E1189A"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.244141,
+          "minY": 0.0,
+          "maxX": 0.917969,
+          "maxY": 0.946437
+        },
+        "category": {
+          "name": "167I Body",
+          "color": "#1D4A48"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5157.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.392157,
+          "minY": 0.2666,
+          "maxX": 0.64902,
+          "maxY": 0.444333
+        },
+        "category": {
+          "name": "167I Face",
+          "color": "#E1189A"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.105882,
+          "minY": 0.263986,
+          "maxX": 0.664706,
+          "maxY": 0.857302
+        },
+        "category": {
+          "name": "167I Body",
+          "color": "#1D4A48"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5254.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.323017,
+          "minY": 0.233339,
+          "maxX": 0.793037,
+          "maxY": 0.590439
+        },
+        "category": {
+          "name": "79G Face",
+          "color": "#C26F0B"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.234629,
+          "maxX": 0.796905,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "79G Body",
+          "color": "#D4D6F1"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5224.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.50677,
+          "minY": 0.319714,
+          "maxX": 0.860735,
+          "maxY": 0.612355
+        },
+        "category": {
+          "name": "68E Face",
+          "color": "#88ACBF"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.321003,
+          "maxX": 0.862669,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "68E Body",
+          "color": "#FBAE4F"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.551257,
+          "minY": 0.732248,
+          "maxX": 0.617021,
+          "maxY": 0.772212
+        },
+        "category": {
+          "name": "42K Face",
+          "color": "#37D085"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.454545,
+          "minY": 0.732248,
+          "maxX": 0.717602,
+          "maxY": 0.965587
+        },
+        "category": {
+          "name": "42K Body",
+          "color": "#BF56AD"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.245648,
+          "minY": 0.223026,
+          "maxX": 0.499033,
+          "maxY": 0.389329
+        },
+        "category": {
+          "name": "79G Face",
+          "color": "#C26F0B"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.243714,
+          "minY": 0.220448,
+          "maxX": 1.0,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "79G Body",
+          "color": "#D4D6F1"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5211.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.227451,
+          "minY": 0.263986,
+          "maxX": 0.505882,
+          "maxY": 0.499222
+        },
+        "category": {
+          "name": "49Y Face",
+          "color": "#02446A"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.027451,
+          "minY": 0.261373,
+          "maxX": 0.629412,
+          "maxY": 0.926566
+        },
+        "category": {
+          "name": "49Y body",
+          "color": "#7658FE"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.501961,
+          "minY": 0.385525,
+          "maxX": 0.741176,
+          "maxY": 0.57894
+        },
+        "category": {
+          "name": "70G Face",
+          "color": "#9E8D49"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.501961,
+          "minY": 0.376376,
+          "maxX": 0.972549,
+          "maxY": 0.853381
+        },
+        "category": {
+          "name": "70G Body",
+          "color": "#07EB0B"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.537255,
+          "minY": 0.573713,
+          "maxX": 0.709804,
+          "maxY": 0.674341
+        },
+        "category": {
+          "name": "58K Face",
+          "color": "#909804"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.527451,
+          "minY": 0.572406,
+          "maxX": 0.719608,
+          "maxY": 0.700478
+        },
+        "category": {
+          "name": "58K Body",
+          "color": "#137909"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5151.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.566667,
+          "minY": 0.279669,
+          "maxX": 0.896078,
+          "maxY": 0.507063
+        },
+        "category": {
+          "name": "Unknown Face",
+          "color": "#7E7BA4"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.280975,
+          "maxX": 0.901961,
+          "maxY": 0.835085
+        },
+        "category": {
+          "name": "Unknown Body",
+          "color": "#C2B8A9"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5188.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.260784,
+          "minY": 0.345012,
+          "maxX": 0.701961,
+          "maxY": 0.661273
+        },
+        "category": {
+          "name": "59E Face",
+          "color": "#1BD06A"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.082353,
+          "minY": 0.342398,
+          "maxX": 0.864706,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "59E Body",
+          "color": "#9EF562"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.85,
+          "minY": 0.0,
+          "maxX": 1.0,
+          "maxY": 0.091282
+        },
+        "category": {
+          "name": "Toy-Kong",
+          "color": "#B9D5D7"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5102.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.028049,
+          "maxX": 0.829659,
+          "maxY": 0.758661
+        },
+        "category": {
+          "name": "59E Face",
+          "color": "#1BD06A"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.004008,
+          "minY": 0.002671,
+          "maxX": 1.0,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "59E Body",
+          "color": "#9EF562"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5132.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.198039,
+          "minY": 0.164665,
+          "maxX": 0.576471,
+          "maxY": 0.435185
+        },
+        "category": {
+          "name": "Unknown Face",
+          "color": "#7E7BA4"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.158824,
+          "minY": 0.163358,
+          "maxX": 0.843137,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "Unknown Body",
+          "color": "#C2B8A9"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5181.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.241176,
+          "minY": 0.267907,
+          "maxX": 0.488235,
+          "maxY": 0.433878
+        },
+        "category": {
+          "name": "Unknown Face",
+          "color": "#7E7BA4"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.2666,
+          "maxX": 0.729412,
+          "maxY": 0.75406
+        },
+        "category": {
+          "name": "Unknown Body",
+          "color": "#C2B8A9"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5078.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.275391,
+          "minY": 0.255145,
+          "maxX": 0.582031,
+          "maxY": 0.467331
+        },
+        "category": {
+          "name": "59E Face",
+          "color": "#1BD06A"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.142578,
+          "minY": 0.252541,
+          "maxX": 0.808594,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "59E Body",
+          "color": "#9EF562"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.318359,
+          "minY": 0.472538,
+          "maxX": 0.585938,
+          "maxY": 0.615731
+        },
+        "category": {
+          "name": "134J Face",
+          "color": "#F0ADD0"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.316406,
+          "minY": 0.467331,
+          "maxX": 0.677734,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "134J Body",
+          "color": "#B064D5"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5145.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.192157,
+          "minY": 0.2666,
+          "maxX": 0.562745,
+          "maxY": 0.482232
+        },
+        "category": {
+          "name": "Unknown Face",
+          "color": "#7E7BA4"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.098039,
+          "minY": 0.2666,
+          "maxX": 0.919608,
+          "maxY": 0.942248
+        },
+        "category": {
+          "name": "Unknown Body",
+          "color": "#C2B8A9"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5226.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.131528,
+          "minY": 0.265569,
+          "maxX": 0.460348,
+          "maxY": 0.505354
+        },
+        "category": {
+          "name": "68E Face",
+          "color": "#88ACBF"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.259123,
+          "maxX": 0.713733,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "68E Body",
+          "color": "#FBAE4F"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.471954,
+          "minY": 0.665211,
+          "maxX": 0.665377,
+          "maxY": 0.825068
+        },
+        "category": {
+          "name": "42K Face",
+          "color": "#37D085"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.450677,
+          "minY": 0.654897,
+          "maxX": 0.68472,
+          "maxY": 0.982346
+        },
+        "category": {
+          "name": "42K Body",
+          "color": "#BF56AD"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.572534,
+          "minY": 0.104423,
+          "maxX": 0.926499,
+          "maxY": 0.354521
+        },
+        "category": {
+          "name": "79G Face",
+          "color": "#C26F0B"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.313346,
+          "minY": 0.097977,
+          "maxX": 1.0,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "79G Body",
+          "color": "#D4D6F1"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5176.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.27451,
+          "minY": 0.282282,
+          "maxX": 0.629412,
+          "maxY": 0.525359
+        },
+        "category": {
+          "name": "Unknown Face",
+          "color": "#7E7BA4"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.264706,
+          "minY": 0.582861,
+          "maxX": 0.605882,
+          "maxY": 0.784118
+        },
+        "category": {
+          "name": "Unknown Face",
+          "color": "#7E7BA4"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.164706,
+          "minY": 0.556724,
+          "maxX": 0.752941,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "Unknown Body",
+          "color": "#C2B8A9"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.194118,
+          "minY": 0.0,
+          "maxX": 0.615686,
+          "maxY": 0.642976
+        },
+        "category": {
+          "name": "Unknown Body",
+          "color": "#C2B8A9"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5248.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.282398,
+          "minY": 0.219159,
+          "maxX": 0.860735,
+          "maxY": 0.622668
+        },
+        "category": {
+          "name": "48Z Face",
+          "color": "#5EBE67"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.217869,
+          "maxX": 1.0,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "48Z Body",
+          "color": "#9F3233"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5116.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.058116,
+          "minY": 0.422072,
+          "maxX": 0.51503,
+          "maxY": 0.738626
+        },
+        "category": {
+          "name": "35Y Face",
+          "color": "#1ADE03"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.419401,
+          "maxX": 0.741483,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "35Y Body",
+          "color": "#E15A5C"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.094188,
+          "minY": 0.001336,
+          "maxX": 0.476954,
+          "maxY": 0.251106
+        },
+        "category": {
+          "name": "68E Face",
+          "color": "#88ACBF"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.008016,
+          "minY": 0.002671,
+          "maxX": 0.643287,
+          "maxY": 0.637115
+        },
+        "category": {
+          "name": "68E Body",
+          "color": "#FBAE4F"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5141.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.245098,
+          "minY": 0.201257,
+          "maxX": 0.658824,
+          "maxY": 0.513597
+        },
+        "category": {
+          "name": "167I Face",
+          "color": "#E1189A"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.127451,
+          "minY": 0.189495,
+          "maxX": 1.0,
+          "maxY": 0.987988
+        },
+        "category": {
+          "name": "167I Body",
+          "color": "#1D4A48"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5184.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.307843,
+          "minY": 0.317568,
+          "maxX": 0.62549,
+          "maxY": 0.503142
+        },
+        "category": {
+          "name": "59E Face",
+          "color": "#1BD06A"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.196078,
+          "minY": 0.314954,
+          "maxX": 0.966667,
+          "maxY": 0.925259
+        },
+        "category": {
+          "name": "59E Body",
+          "color": "#9EF562"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.168627,
+          "minY": 0.348932,
+          "maxX": 0.303922,
+          "maxY": 0.456095
+        },
+        "category": {
+          "name": "Toy-Kong",
+          "color": "#B9D5D7"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5222.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.45648,
+          "minY": 0.313268,
+          "maxX": 0.823985,
+          "maxY": 0.577547
+        },
+        "category": {
+          "name": "68E Face",
+          "color": "#88ACBF"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.311979,
+          "maxX": 0.909091,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "68E Body",
+          "color": "#FBAE4F"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.481625,
+          "minY": 0.727091,
+          "maxX": 0.738878,
+          "maxY": 0.952695
+        },
+        "category": {
+          "name": "42K Body",
+          "color": "#BF56AD"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.280464,
+          "minY": 0.215291,
+          "maxX": 0.524178,
+          "maxY": 0.377726
+        },
+        "category": {
+          "name": "79G Face",
+          "color": "#C26F0B"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.251451,
+          "minY": 0.203689,
+          "maxX": 1.0,
+          "maxY": 0.986214
+        },
+        "category": {
+          "name": "79G Body",
+          "color": "#D4D6F1"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5214.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.111765,
+          "minY": 0.176426,
+          "maxX": 0.486275,
+          "maxY": 0.432572
+        },
+        "category": {
+          "name": "68E Face",
+          "color": "#88ACBF"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.17512,
+          "maxX": 0.694118,
+          "maxY": 0.955317
+        },
+        "category": {
+          "name": "68E Body",
+          "color": "#FBAE4F"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.431373,
+          "minY": 0.509676,
+          "maxX": 0.643137,
+          "maxY": 0.628601
+        },
+        "category": {
+          "name": "42K Face",
+          "color": "#37D085"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.409804,
+          "minY": 0.507063,
+          "maxX": 0.660784,
+          "maxY": 0.853381
+        },
+        "category": {
+          "name": "42K Body",
+          "color": "#BF56AD"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.539216,
+          "minY": 0.128073,
+          "maxX": 0.880392,
+          "maxY": 0.390752
+        },
+        "category": {
+          "name": "79G Face",
+          "color": "#C26F0B"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.488235,
+          "minY": 0.121538,
+          "maxX": 1.0,
+          "maxY": 0.906963
+        },
+        "category": {
+          "name": "79G Body",
+          "color": "#D4D6F1"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5231.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.580271,
+          "minY": 0.545318,
+          "maxX": 0.800774,
+          "maxY": 0.710332
+        },
+        "category": {
+          "name": "59E Face",
+          "color": "#1BD06A"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.212766,
+          "minY": 0.54274,
+          "maxX": 0.87234,
+          "maxY": 0.948828
+        },
+        "category": {
+          "name": "59E Body",
+          "color": "#9EF562"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.468085,
+          "minY": 0.52727,
+          "maxX": 0.584139,
+          "maxY": 0.564656
+        },
+        "category": {
+          "name": "58K Face",
+          "color": "#909804"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.419729,
+          "minY": 0.376437,
+          "maxX": 0.582205,
+          "maxY": 0.515667
+        },
+        "category": {
+          "name": "70G Face",
+          "color": "#9E8D49"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.408124,
+          "minY": 0.373859,
+          "maxX": 0.911025,
+          "maxY": 0.800574
+        },
+        "category": {
+          "name": "70G Body",
+          "color": "#07EB0B"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5088.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.018036,
+          "minY": 0.344603,
+          "maxX": 0.370741,
+          "maxY": 0.558311
+        },
+        "category": {
+          "name": "58K Face",
+          "color": "#909804"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.02004,
+          "minY": 0.341932,
+          "maxX": 0.448898,
+          "maxY": 0.606395
+        },
+        "category": {
+          "name": "58K Body",
+          "color": "#137909"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.16963,
+          "maxX": 0.254509,
+          "maxY": 0.324568
+        },
+        "category": {
+          "name": "70G Face",
+          "color": "#9E8D49"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.004008,
+          "minY": 0.118875,
+          "maxX": 1.0,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "70G Body",
+          "color": "#07EB0B"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5086.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.222445,
+          "minY": 0.018699,
+          "maxX": 0.821643,
+          "maxY": 0.480842
+        },
+        "category": {
+          "name": "70G Face",
+          "color": "#9E8D49"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.174349,
+          "minY": 0.00935,
+          "maxX": 1.0,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "70G Body",
+          "color": "#07EB0B"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.314629,
+          "minY": 0.395359,
+          "maxX": 0.669339,
+          "maxY": 0.61708
+        },
+        "category": {
+          "name": "58K Face",
+          "color": "#909804"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.284569,
+          "minY": 0.394023,
+          "maxX": 0.765531,
+          "maxY": 0.936306
+        },
+        "category": {
+          "name": "58K Body",
+          "color": "#137909"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5205.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.560784,
+          "minY": 0.124152,
+          "maxX": 0.745098,
+          "maxY": 0.235235
+        },
+        "category": {
+          "name": "86I Face",
+          "color": "#351549"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.378431,
+          "minY": 0.117618,
+          "maxX": 0.817647,
+          "maxY": 0.529279
+        },
+        "category": {
+          "name": "86I Body",
+          "color": "#45E13B"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.335294,
+          "minY": 0.51229,
+          "maxX": 0.554902,
+          "maxY": 0.661273
+        },
+        "category": {
+          "name": "167I Face",
+          "color": "#E1189A"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.32549,
+          "minY": 0.51229,
+          "maxX": 0.703922,
+          "maxY": 0.9331
+        },
+        "category": {
+          "name": "167I Body",
+          "color": "#1D4A48"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5094.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.310621,
+          "minY": 0.261792,
+          "maxX": 0.609218,
+          "maxY": 0.471492
+        },
+        "category": {
+          "name": "70G Face",
+          "color": "#9E8D49"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.178357,
+          "minY": 0.261792,
+          "maxX": 0.767535,
+          "maxY": 0.942984
+        },
+        "category": {
+          "name": "70G Body",
+          "color": "#07EB0B"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.294589,
+          "minY": 0.593038,
+          "maxX": 0.513026,
+          "maxY": 0.726605
+        },
+        "category": {
+          "name": "58K Face",
+          "color": "#909804"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.290581,
+          "minY": 0.58636,
+          "maxX": 0.621242,
+          "maxY": 0.800067
+        },
+        "category": {
+          "name": "58K Body",
+          "color": "#137909"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5143.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.352941,
+          "minY": 0.011762,
+          "maxX": 0.815686,
+          "maxY": 0.342398
+        },
+        "category": {
+          "name": "167I Face",
+          "color": "#E1189A"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.347059,
+          "minY": 0.014375,
+          "maxX": 1.0,
+          "maxY": 0.896508
+        },
+        "category": {
+          "name": "167I Body",
+          "color": "#1D4A48"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5178.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.182353,
+          "minY": 0.0,
+          "maxX": 1.0,
+          "maxY": 0.429958
+        },
+        "category": {
+          "name": "70G Face",
+          "color": "#9E8D49"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.129412,
+          "minY": 0.0,
+          "maxX": 1.0,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "70G Body",
+          "color": "#07EB0B"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.456863,
+          "minY": 0.525359,
+          "maxX": 0.945098,
+          "maxY": 0.806334
+        },
+        "category": {
+          "name": "58K Face",
+          "color": "#909804"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.421569,
+          "minY": 0.525359,
+          "maxX": 1.0,
+          "maxY": 0.97492
+        },
+        "category": {
+          "name": "58K Body",
+          "color": "#137909"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5122.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.328657,
+          "minY": 0.611737,
+          "maxX": 0.537074,
+          "maxY": 0.750647
+        },
+        "category": {
+          "name": "42K Face",
+          "color": "#37D085"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.172345,
+          "minY": 0.611737,
+          "maxX": 0.553106,
+          "maxY": 0.850823
+        },
+        "category": {
+          "name": "42K Body",
+          "color": "#BF56AD"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.364729,
+          "minY": 0.279155,
+          "maxX": 0.663327,
+          "maxY": 0.495534
+        },
+        "category": {
+          "name": "68E Face",
+          "color": "#88ACBF"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.166333,
+          "minY": 0.276484,
+          "maxX": 0.911824,
+          "maxY": 0.896235
+        },
+        "category": {
+          "name": "68E Body",
+          "color": "#FBAE4F"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5216.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.184314,
+          "minY": 0.151596,
+          "maxX": 0.590196,
+          "maxY": 0.439106
+        },
+        "category": {
+          "name": "68E Face",
+          "color": "#88ACBF"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.144387,
+          "maxX": 0.750484,
+          "maxY": 0.966876
+        },
+        "category": {
+          "name": "68E Body",
+          "color": "#FBAE4F"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.468085,
+          "minY": 0.500197,
+          "maxX": 0.694391,
+          "maxY": 0.639427
+        },
+        "category": {
+          "name": "42K Face",
+          "color": "#37D085"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.446809,
+          "minY": 0.498908,
+          "maxX": 0.733075,
+          "maxY": 0.859875
+        },
+        "category": {
+          "name": "42K Body",
+          "color": "#BF56AD"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.551257,
+          "minY": 0.174038,
+          "maxX": 0.839458,
+          "maxY": 0.413823
+        },
+        "category": {
+          "name": "79G Face",
+          "color": "#C26F0B"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.504836,
+          "minY": 0.172749,
+          "maxX": 1.0,
+          "maxY": 0.912731
+        },
+        "category": {
+          "name": "79G Body",
+          "color": "#D4D6F1"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5229.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.185687,
+          "minY": 0.506643,
+          "maxX": 0.413926,
+          "maxY": 0.658765
+        },
+        "category": {
+          "name": "59E Face",
+          "color": "#1BD06A"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.025145,
+          "minY": 0.502776,
+          "maxX": 0.566731,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "59E Body",
+          "color": "#9EF562"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.448743,
+          "minY": 0.442185,
+          "maxX": 0.630561,
+          "maxY": 0.569812
+        },
+        "category": {
+          "name": "70G Face",
+          "color": "#9E8D49"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.439072,
+          "minY": 0.440896,
+          "maxX": 0.851064,
+          "maxY": 0.884369
+        },
+        "category": {
+          "name": "70G Body",
+          "color": "#07EB0B"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.446809,
+          "minY": 0.600752,
+          "maxX": 0.558994,
+          "maxY": 0.654897
+        },
+        "category": {
+          "name": "58K Face",
+          "color": "#909804"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.437137,
+          "minY": 0.594307,
+          "maxX": 0.568665,
+          "maxY": 0.693573
+        },
+        "category": {
+          "name": "58K Body",
+          "color": "#137909"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5130.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.401961,
+          "minY": 0.454788,
+          "maxX": 0.739216,
+          "maxY": 0.704399
+        },
+        "category": {
+          "name": "86I Face",
+          "color": "#351549"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.456095,
+          "maxX": 0.847059,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "86I Body",
+          "color": "#45E13B"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.17451,
+          "minY": 0.0,
+          "maxX": 0.352941,
+          "maxY": 0.083639
+        },
+        "category": {
+          "name": "Toy-Kong",
+          "color": "#B9D5D7"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5118.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.092184,
+          "minY": 0.458135,
+          "maxX": 0.537074,
+          "maxY": 0.75599
+        },
+        "category": {
+          "name": "35Y Face",
+          "color": "#1ADE03"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.048096,
+          "minY": 0.450121,
+          "maxX": 0.891784,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "35Y Body",
+          "color": "#E15A5C"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.679359,
+          "minY": 0.0,
+          "maxX": 0.981964,
+          "maxY": 0.164288
+        },
+        "category": {
+          "name": "68E Face",
+          "color": "#88ACBF"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.254509,
+          "minY": 0.0,
+          "maxX": 1.0,
+          "maxY": 0.778696
+        },
+        "category": {
+          "name": "68E Body",
+          "color": "#FBAE4F"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5220.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.624758,
+          "minY": 0.54274,
+          "maxX": 0.754352,
+          "maxY": 0.625247
+        },
+        "category": {
+          "name": "42K Face",
+          "color": "#37D085"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.551257,
+          "minY": 0.535005,
+          "maxX": 0.765957,
+          "maxY": 0.814754
+        },
+        "category": {
+          "name": "42K Body",
+          "color": "#BF56AD"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.448743,
+          "minY": 0.323581,
+          "maxX": 0.791103,
+          "maxY": 0.613644
+        },
+        "category": {
+          "name": "68E Face",
+          "color": "#88ACBF"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.288774,
+          "maxX": 0.825919,
+          "maxY": 0.924334
+        },
+        "category": {
+          "name": "68E Body",
+          "color": "#FBAE4F"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.423598,
+          "minY": 0.002578,
+          "maxX": 0.783366,
+          "maxY": 0.277171
+        },
+        "category": {
+          "name": "79G Face",
+          "color": "#C26F0B"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.367505,
+          "minY": 0.005157,
+          "maxX": 1.0,
+          "maxY": 0.85214
+        },
+        "category": {
+          "name": "79G Body",
+          "color": "#D4D6F1"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5203.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.464706,
+          "minY": 0.683489,
+          "maxX": 0.686275,
+          "maxY": 0.828551
+        },
+        "category": {
+          "name": "167I Face",
+          "color": "#E1189A"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.345098,
+          "minY": 0.475698,
+          "maxX": 0.85098,
+          "maxY": 0.815482
+        },
+        "category": {
+          "name": "167I Body",
+          "color": "#1D4A48"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5099.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.310621,
+          "minY": 0.092161,
+          "maxX": 0.95992,
+          "maxY": 0.474163
+        },
+        "category": {
+          "name": "35Y Face",
+          "color": "#1ADE03"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.093497,
+          "maxX": 1.0,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "35Y Body",
+          "color": "#E15A5C"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5190.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.005882,
+          "minY": 0.423424,
+          "maxX": 0.284314,
+          "maxY": 0.582861
+        },
+        "category": {
+          "name": "49Y Face",
+          "color": "#02446A"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.42473,
+          "maxX": 0.707843,
+          "maxY": 0.910883
+        },
+        "category": {
+          "name": "49Y body",
+          "color": "#7658FE"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.233333,
+          "minY": 0.2666,
+          "maxX": 0.472549,
+          "maxY": 0.429958
+        },
+        "category": {
+          "name": "68E Face",
+          "color": "#88ACBF"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.237255,
+          "minY": 0.271827,
+          "maxX": 0.927451,
+          "maxY": 0.669114
+        },
+        "category": {
+          "name": "68E Body",
+          "color": "#FBAE4F"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.433333,
+          "minY": 0.480925,
+          "maxX": 0.601961,
+          "maxY": 0.576326
+        },
+        "category": {
+          "name": "42K Face",
+          "color": "#37D085"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.42549,
+          "minY": 0.477005,
+          "maxX": 0.707843,
+          "maxY": 0.64559
+        },
+        "category": {
+          "name": "42K Body",
+          "color": "#BF56AD"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5075.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.421875,
+          "minY": 0.348871,
+          "maxX": 0.642578,
+          "maxY": 0.508987
+        },
+        "category": {
+          "name": "167I Face",
+          "color": "#E1189A"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.300781,
+          "minY": 0.339759,
+          "maxX": 0.703125,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "167I Body",
+          "color": "#1D4A48"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5092.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.114228,
+          "minY": 0.324568,
+          "maxX": 0.440882,
+          "maxY": 0.554304
+        },
+        "category": {
+          "name": "70G Face",
+          "color": "#9E8D49"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.064128,
+          "minY": 0.288505,
+          "maxX": 0.771543,
+          "maxY": 0.910928
+        },
+        "category": {
+          "name": "70G Body",
+          "color": "#07EB0B"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.350701,
+          "minY": 0.542283,
+          "maxX": 0.551102,
+          "maxY": 0.678521
+        },
+        "category": {
+          "name": "134J Face",
+          "color": "#F0ADD0"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.348697,
+          "minY": 0.542283,
+          "maxX": 0.609218,
+          "maxY": 0.877536
+        },
+        "category": {
+          "name": "134J Body",
+          "color": "#B064D5"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5124.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.785571,
+          "minY": 0.239085,
+          "maxX": 1.0,
+          "maxY": 0.749312
+        },
+        "category": {
+          "name": "Unknown Body",
+          "color": "#C2B8A9"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.128257,
+          "minY": 0.176309,
+          "maxX": 0.446894,
+          "maxY": 0.426079
+        },
+        "category": {
+          "name": "79G Face",
+          "color": "#C26F0B"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.173813,
+          "maxX": 0.707843,
+          "maxY": 0.918725
+        },
+        "category": {
+          "name": "79G Body",
+          "color": "#D4D6F1"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5167.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.139216,
+          "minY": 0.141141,
+          "maxX": 0.586275,
+          "maxY": 0.454788
+        },
+        "category": {
+          "name": "Unknown Face",
+          "color": "#7E7BA4"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.141176,
+          "minY": 0.143755,
+          "maxX": 1.0,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "Unknown Body",
+          "color": "#C2B8A9"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5197.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.335294,
+          "minY": 0.001307,
+          "maxX": 0.586275,
+          "maxY": 0.143755
+        },
+        "category": {
+          "name": "79G Face",
+          "color": "#C26F0B"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.286275,
+          "minY": 0.0,
+          "maxX": 0.694118,
+          "maxY": 0.492687
+        },
+        "category": {
+          "name": "79G Body",
+          "color": "#D4D6F1"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.529412,
+          "minY": 0.342398,
+          "maxX": 0.752941,
+          "maxY": 0.513597
+        },
+        "category": {
+          "name": "167I Face",
+          "color": "#E1189A"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.337171,
+          "maxX": 0.847059,
+          "maxY": 0.893894
+        },
+        "category": {
+          "name": "167I Body",
+          "color": "#1D4A48"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220426_SD02_5154.JPG",
+      "details": {
+        "folderName": "0426IG",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.198039,
+          "minY": 0.054888,
+          "maxX": 0.603922,
+          "maxY": 0.372456
+        },
+        "category": {
+          "name": "59E Face",
+          "color": "#1BD06A"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.056195,
+          "maxX": 0.960784,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "59E Body",
+          "color": "#9EF562"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  }
+]

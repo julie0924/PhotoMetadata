@@ -1,0 +1,84 @@
+[
+  {
+    "image": {
+      "fileName": "20220308_SD02_2924.JPG",
+      "details": {
+        "folderName": "0308ST",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.342822,
+          "minY": 0.0,
+          "maxX": 0.884565,
+          "maxY": 0.297602
+        },
+        "category": {
+          "name": "DF2I_Face",
+          "color": "#2E853B"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.002821,
+          "maxX": 0.975561,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "DF2I_Body",
+          "color": "#4ED09E"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220308_SD02_2923.JPG",
+      "details": {
+        "folderName": "0308ST",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.361868,
+          "minY": 0.002821,
+          "maxX": 0.916308,
+          "maxY": 0.382228
+        },
+        "category": {
+          "name": "DF2I_Face",
+          "color": "#2E853B"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.0,
+          "maxX": 0.954399,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "DF2I_Body",
+          "color": "#4ED09E"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  }
+]

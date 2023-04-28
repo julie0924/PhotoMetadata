@@ -1,0 +1,98 @@
+[
+  {
+    "image": {
+      "fileName": "20220406_SD01_3766.JPG",
+      "details": {
+        "folderName": "0406ST",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.516707,
+          "minY": 0.257754,
+          "maxX": 0.900225,
+          "maxY": 0.60107
+        },
+        "category": {
+          "name": "26J Face",
+          "color": "#CAA9E3"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.02407,
+          "minY": 0.005348,
+          "maxX": 0.897016,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "26J Body",
+          "color": "#6C4485"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220406_SD01_3765.JPG",
+      "details": {
+        "folderName": "0406ST",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.182933,
+          "minY": 0.22139,
+          "maxX": 0.444496,
+          "maxY": 0.409626
+        },
+        "category": {
+          "name": "68Y Face",
+          "color": "#CCC327"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.155654,
+          "minY": 0.217112,
+          "maxX": 0.787898,
+          "maxY": 0.776471
+        },
+        "category": {
+          "name": "68Y Body",
+          "color": "#AEC0E5"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.0,
+          "maxX": 0.474619,
+          "maxY": 0.20807
+        },
+        "category": {
+          "name": "Unknown Body",
+          "color": "#008000"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,319 @@
+[
+  {
+    "image": {
+      "fileName": "20220719_SD05_2449.JPG",
+      "details": {
+        "folderName": "0719IG",
+        "width": 5472.0,
+        "height": 3648.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.638116,
+          "minY": 0.369437,
+          "maxX": 0.933619,
+          "maxY": 0.809548
+        },
+        "category": {
+          "name": "G942 Face",
+          "color": "#624C4E"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.214133,
+          "minY": 0.147775,
+          "maxX": 0.933619,
+          "maxY": 0.828823
+        },
+        "category": {
+          "name": "G942 Body",
+          "color": "#6239A3"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.284797,
+          "minY": 0.163837,
+          "maxX": 0.4197,
+          "maxY": 0.472237
+        },
+        "category": {
+          "name": "Unknown Face",
+          "color": "#0FA298"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.099587,
+          "maxX": 0.417559,
+          "maxY": 0.848098
+        },
+        "category": {
+          "name": "Unknown Body",
+          "color": "#D1F295"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220719_SD05_2450.JPG",
+      "details": {
+        "folderName": "0719IG",
+        "width": 5472.0,
+        "height": 3648.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.278373,
+          "minY": 0.1542,
+          "maxX": 0.423983,
+          "maxY": 0.472237
+        },
+        "category": {
+          "name": "Unknown Face",
+          "color": "#0FA298"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.061037,
+          "maxX": 0.417559,
+          "maxY": 0.835248
+        },
+        "category": {
+          "name": "Unknown Body",
+          "color": "#D1F295"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.631692,
+          "minY": 0.366224,
+          "maxX": 0.944325,
+          "maxY": 0.815973
+        },
+        "category": {
+          "name": "G942 Face",
+          "color": "#624C4E"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.226981,
+          "minY": 0.118862,
+          "maxX": 0.946467,
+          "maxY": 0.832036
+        },
+        "category": {
+          "name": "G942 Body",
+          "color": "#6239A3"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220719_SD05_2444.JPG",
+      "details": {
+        "folderName": "0719IG",
+        "width": 5472.0,
+        "height": 3648.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.344754,
+          "minY": 0.24415,
+          "maxX": 0.466809,
+          "maxY": 0.520424
+        },
+        "category": {
+          "name": "Unknown Face",
+          "color": "#0FA298"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.057816,
+          "minY": 0.170262,
+          "maxX": 0.464668,
+          "maxY": 0.848098
+        },
+        "category": {
+          "name": "Unknown Body",
+          "color": "#D1F295"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.67666,
+          "minY": 0.420837,
+          "maxX": 0.955032,
+          "maxY": 0.835248
+        },
+        "category": {
+          "name": "G942 Face",
+          "color": "#624C4E"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.237687,
+          "minY": 0.173475,
+          "maxX": 0.955032,
+          "maxY": 0.844886
+        },
+        "category": {
+          "name": "G942 Body",
+          "color": "#6239A3"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220719_SD05_2446.JPG",
+      "details": {
+        "folderName": "0719IG",
+        "width": 5472.0,
+        "height": 3648.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.479657,
+          "minY": 0.0,
+          "maxX": 1.0,
+          "maxY": 0.787061
+        },
+        "category": {
+          "name": "G942 Face",
+          "color": "#624C4E"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.0,
+          "maxX": 1.0,
+          "maxY": 0.854523
+        },
+        "category": {
+          "name": "G942 Body",
+          "color": "#6239A3"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220719_SD05_2442.JPG",
+      "details": {
+        "folderName": "0719IG",
+        "width": 5472.0,
+        "height": 3648.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.620985,
+          "minY": 0.273062,
+          "maxX": 0.937901,
+          "maxY": 0.735661
+        },
+        "category": {
+          "name": "G942 Face",
+          "color": "#624C4E"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.235546,
+          "minY": 0.044975,
+          "maxX": 0.942184,
+          "maxY": 0.758148
+        },
+        "category": {
+          "name": "G942 Body",
+          "color": "#6239A3"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.263383,
+          "minY": 0.099587,
+          "maxX": 0.408994,
+          "maxY": 0.404774
+        },
+        "category": {
+          "name": "Unknown Face",
+          "color": "#0FA298"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.040685,
+          "minY": 0.048187,
+          "maxX": 0.417559,
+          "maxY": 0.767786
+        },
+        "category": {
+          "name": "Unknown Body",
+          "color": "#D1F295"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  }
+]
