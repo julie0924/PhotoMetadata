@@ -1,0 +1,344 @@
+[
+  {
+    "image": {
+      "fileName": "20220415_SD01_4116.JPG",
+      "details": {
+        "folderName": "0415ST",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.37389,
+          "minY": 0.050267,
+          "maxX": 0.839247,
+          "maxY": 0.386096
+        },
+        "category": {
+          "name": "58I Face",
+          "color": "#0141AB"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.051337,
+          "maxX": 1.0,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "58I Body",
+          "color": "#F39A45"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220415_SD01_4120.JPG",
+      "details": {
+        "folderName": "0415ST",
+        "width": 5472.0,
+        "height": 3648.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.517269,
+          "minY": 0.120501,
+          "maxX": 0.835341,
+          "maxY": 0.655524
+        },
+        "category": {
+          "name": "58I Face",
+          "color": "#0141AB"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.318072,
+          "minY": 0.093991,
+          "maxX": 0.902811,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "58I Body",
+          "color": "#F39A45"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220415_SD01_4133.JPG",
+      "details": {
+        "folderName": "0415ST",
+        "width": 5472.0,
+        "height": 3648.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.384739,
+          "minY": 0.116886,
+          "maxX": 0.627309,
+          "maxY": 0.498873
+        },
+        "category": {
+          "name": "58I Face",
+          "color": "#0141AB"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.272289,
+          "minY": 0.096401,
+          "maxX": 0.764659,
+          "maxY": 0.996385
+        },
+        "category": {
+          "name": "58I Body",
+          "color": "#F39A45"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220415_SD01_4112.JPG",
+      "details": {
+        "folderName": "0415ST",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.093071,
+          "minY": 0.125134,
+          "maxX": 0.57287,
+          "maxY": 0.459893
+        },
+        "category": {
+          "name": "58I Face",
+          "color": "#0141AB"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.003209,
+          "minY": 0.048128,
+          "maxX": 1.0,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "58I Body",
+          "color": "#F39A45"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220415_SD01_4105.JPG",
+      "details": {
+        "folderName": "0415ST",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.418821,
+          "minY": 0.505882,
+          "maxX": 0.784688,
+          "maxY": 0.764706
+        },
+        "category": {
+          "name": "Unknown 1 Face",
+          "color": "#322777"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.388332,
+          "minY": 0.500535,
+          "maxX": 1.0,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "Unknown 1 Body",
+          "color": "#A86982"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.621584,
+          "maxX": 0.291304,
+          "maxY": 0.780964
+        },
+        "category": {
+          "name": "Toy-Grenade",
+          "color": "#97172B"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220415_SD01_4109.JPG",
+      "details": {
+        "folderName": "0415ST",
+        "width": 5472.0,
+        "height": 3648.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.253815,
+          "minY": 0.0,
+          "maxX": 0.553414,
+          "maxY": 0.468748
+        },
+        "category": {
+          "name": "58I Face",
+          "color": "#0141AB"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.248193,
+          "minY": 0.006025,
+          "maxX": 0.816867,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "58I Body",
+          "color": "#F39A45"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220415_SD01_4110.JPG",
+      "details": {
+        "folderName": "0415ST",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.162073,
+          "minY": 0.005348,
+          "maxX": 1.0,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "58I Body",
+          "color": "#F39A45"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.158863,
+          "minY": 0.0,
+          "maxX": 0.693221,
+          "maxY": 0.428877
+        },
+        "category": {
+          "name": "58I Face",
+          "color": "#0141AB"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220415_SD01_4119.JPG",
+      "details": {
+        "folderName": "0415ST",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.245516,
+          "minY": 0.164706,
+          "maxX": 0.621011,
+          "maxY": 0.382888
+        },
+        "category": {
+          "name": "58I Face",
+          "color": "#0141AB"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.218236,
+          "minY": 0.158289,
+          "maxX": 0.755804,
+          "maxY": 0.891979
+        },
+        "category": {
+          "name": "58I Body",
+          "color": "#F39A45"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  }
+]

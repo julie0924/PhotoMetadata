@@ -258,6 +258,20 @@
         },
         "tags": [],
         "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.929005,
+          "minY": 0.564175,
+          "maxX": 1.0,
+          "maxY": 0.698166
+        },
+        "category": {
+          "name": "98K Body",
+          "color": "#F24DD9"
+        },
+        "tags": [],
+        "parts": []
       }
     ]
   },
@@ -1181,14 +1195,28 @@
       },
       {
         "bndbox": {
-          "minX": 0.765432,
-          "minY": 0.530481,
-          "maxX": 0.988482,
-          "maxY": 0.679144
+          "minX": 0.32166,
+          "minY": 0.495063,
+          "maxX": 0.374565,
+          "maxY": 0.585331
         },
         "category": {
           "name": "151J Face",
           "color": "#AA3D32"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.198921,
+          "minY": 0.510578,
+          "maxX": 0.395727,
+          "maxY": 0.813822
+        },
+        "category": {
+          "name": "151J body",
+          "color": "#1A700E"
         },
         "tags": [],
         "parts": []
@@ -1381,6 +1409,48 @@
         "category": {
           "name": "67G Body",
           "color": "#CAF415"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.0,
+          "maxX": 0.871868,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "Toy-Swing",
+          "color": "#3195AF"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.541743,
+          "minY": 0.589563,
+          "maxX": 0.730084,
+          "maxY": 0.770099
+        },
+        "category": {
+          "name": "7124 Face",
+          "color": "#A8C4DC"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.545976,
+          "minY": 0.586742,
+          "maxX": 1.0,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "7124 Body",
+          "color": "#C269BB"
         },
         "tags": [],
         "parts": []
@@ -1755,6 +1825,20 @@
         },
         "tags": [],
         "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.107925,
+          "minY": 0.0,
+          "maxX": 0.586183,
+          "maxY": 0.403385
+        },
+        "category": {
+          "name": "Toy-triangle",
+          "color": "#95CD42"
+        },
+        "tags": [],
+        "parts": []
       }
     ]
   },
@@ -1981,7 +2065,7 @@
           "minX": 0.795921,
           "minY": 0.06738,
           "maxX": 1.0,
-          "maxY": 0.250267
+          "maxY": 0.275035
         },
         "category": {
           "name": "69X Face",
@@ -2980,6 +3064,20 @@
         },
         "tags": [],
         "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.0,
+          "maxX": 1.0,
+          "maxY": 0.894217
+        },
+        "category": {
+          "name": "Toy-Swing",
+          "color": "#3195AF"
+        },
+        "tags": [],
+        "parts": []
       }
     ]
   },
@@ -3639,6 +3737,20 @@
         },
         "tags": [],
         "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.0,
+          "maxX": 0.98191,
+          "maxY": 0.976023
+        },
+        "category": {
+          "name": "Toy-Swing",
+          "color": "#3195AF"
+        },
+        "tags": [],
+        "parts": []
       }
     ]
   },
@@ -3677,6 +3789,20 @@
         "category": {
           "name": "87J Body ",
           "color": "#F19852"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.747013,
+          "minY": 0.021157,
+          "maxX": 0.98191,
+          "maxY": 0.125529
+        },
+        "category": {
+          "name": "Toy-Ziggs",
+          "color": "#A31E2F"
         },
         "tags": [],
         "parts": []
@@ -4381,6 +4507,20 @@
         "category": {
           "name": "87J Body ",
           "color": "#F19852"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.713154,
+          "minY": 0.009873,
+          "maxX": 0.977677,
+          "maxY": 0.115656
+        },
+        "category": {
+          "name": "Toy-Ziggs",
+          "color": "#A31E2F"
         },
         "tags": [],
         "parts": []
@@ -5361,6 +5501,20 @@
         },
         "tags": [],
         "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.0,
+          "maxX": 1.0,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "Toy-Swing",
+          "color": "#3195AF"
+        },
+        "tags": [],
+        "parts": []
       }
     ]
   },
@@ -6074,6 +6228,20 @@
         "category": {
           "name": "67G Body",
           "color": "#CAF415"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.0,
+          "maxX": 0.308963,
+          "maxY": 0.779972
+        },
+        "category": {
+          "name": "Toy-triangle",
+          "color": "#95CD42"
         },
         "tags": [],
         "parts": []
@@ -7575,6 +7743,20 @@
         },
         "tags": [],
         "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.0,
+          "maxX": 0.349171,
+          "maxY": 0.170663
+        },
+        "category": {
+          "name": "Unknown Body",
+          "color": "#F3F897"
+        },
+        "tags": [],
+        "parts": []
       }
     ]
   },
@@ -8523,6 +8705,20 @@
         "category": {
           "name": "110E Body",
           "color": "#CA6D56"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.0,
+          "maxX": 0.383029,
+          "maxY": 0.232722
+        },
+        "category": {
+          "name": "Toy-triangle",
+          "color": "#95CD42"
         },
         "tags": [],
         "parts": []
@@ -12018,6 +12214,20 @@
         },
         "tags": [],
         "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.136812,
+          "maxX": 0.317428,
+          "maxY": 0.689704
+        },
+        "category": {
+          "name": "Unknown Body",
+          "color": "#F3F897"
+        },
+        "tags": [],
+        "parts": []
       }
     ]
   },
@@ -13602,6 +13812,20 @@
         },
         "tags": [],
         "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.0,
+          "maxX": 0.340706,
+          "maxY": 0.746121
+        },
+        "category": {
+          "name": "Toy-triangle",
+          "color": "#95CD42"
+        },
+        "tags": [],
+        "parts": []
       }
     ]
   },
@@ -14865,6 +15089,20 @@
         "category": {
           "name": "94B Body",
           "color": "#585AAB"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.19323,
+          "maxX": 0.228548,
+          "maxY": 0.67701
+        },
+        "category": {
+          "name": "Unknown Body",
+          "color": "#F3F897"
         },
         "tags": [],
         "parts": []
@@ -17260,6 +17498,20 @@
         },
         "tags": [],
         "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.181946,
+          "maxX": 0.300498,
+          "maxY": 0.655853
+        },
+        "category": {
+          "name": "Unknown Body",
+          "color": "#F3F897"
+        },
+        "tags": [],
+        "parts": []
       }
     ]
   },
@@ -19435,6 +19687,20 @@
         },
         "tags": [],
         "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.846474,
+          "minY": 0.345557,
+          "maxX": 1.0,
+          "maxY": 0.877292
+        },
+        "category": {
+          "name": "Unknown Body",
+          "color": "#F3F897"
+        },
+        "tags": [],
+        "parts": []
       }
     ]
   },
@@ -20714,6 +20980,20 @@
         },
         "tags": [],
         "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.0,
+          "maxX": 0.351287,
+          "maxY": 0.375176
+        },
+        "category": {
+          "name": "Toy-triangle",
+          "color": "#95CD42"
+        },
+        "tags": [],
+        "parts": []
       }
     ]
   },
@@ -21042,6 +21322,20 @@
         "category": {
           "name": "87J Body ",
           "color": "#F19852"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.0,
+          "maxX": 0.770291,
+          "maxY": 0.315938
+        },
+        "category": {
+          "name": "Toy-Swing",
+          "color": "#3195AF"
         },
         "tags": [],
         "parts": []
@@ -21412,6 +21706,20 @@
         "category": {
           "name": "110E Body",
           "color": "#CA6D56"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.700457,
+          "minY": 0.0,
+          "maxX": 1.0,
+          "maxY": 0.410437
+        },
+        "category": {
+          "name": "Toy-triangle",
+          "color": "#95CD42"
         },
         "tags": [],
         "parts": []

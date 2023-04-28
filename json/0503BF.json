@@ -1,0 +1,153 @@
+[
+  {
+    "image": {
+      "fileName": "20220503_SD03_5785.JPG",
+      "details": {
+        "folderName": "0503BF",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.397843,
+          "minY": 0.0,
+          "maxX": 0.962864,
+          "maxY": 0.346968
+        },
+        "category": {
+          "name": "G701 Face",
+          "color": "#DD0FC7"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.008463,
+          "maxX": 0.977678,
+          "maxY": 0.99859
+        },
+        "category": {
+          "name": "G701 Body",
+          "color": "#D4A473"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220503_SD03_5787.JPG",
+      "details": {
+        "folderName": "0503BF",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.156598,
+          "minY": 0.004231,
+          "maxX": 0.838009,
+          "maxY": 0.437236
+        },
+        "category": {
+          "name": "19J Face",
+          "color": "#7EDEAE"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.0,
+          "maxX": 0.987303,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "19J Body",
+          "color": "#E94BE3"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.43805,
+          "minY": 0.719323,
+          "maxX": 0.793569,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "Toy-Grenade",
+          "color": "#40BC3E"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220503_SD03_5788.JPG",
+      "details": {
+        "folderName": "0503BF",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.478258,
+          "minY": 0.8378,
+          "maxX": 0.774524,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "Toy-Grenade",
+          "color": "#40BC3E"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.196805,
+          "minY": 0.0,
+          "maxX": 0.89303,
+          "maxY": 0.335684
+        },
+        "category": {
+          "name": "19J Face",
+          "color": "#7EDEAE"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.0,
+          "maxX": 1.0,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "19J Body",
+          "color": "#E94BE3"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  }
+]
