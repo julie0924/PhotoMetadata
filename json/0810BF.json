@@ -1,0 +1,318 @@
+[
+  {
+    "image": {
+      "fileName": "20220810_SD05_6219.JPG",
+      "details": {
+        "folderName": "0810BF",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.6,
+          "minY": 0.424532,
+          "maxX": 0.895652,
+          "maxY": 0.588259
+        },
+        "category": {
+          "name": "Toy-Kong",
+          "color": "#B9D74A"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.347826,
+          "minY": 0.072446,
+          "maxX": 0.769565,
+          "maxY": 0.395553
+        },
+        "category": {
+          "name": "101G Face",
+          "color": "#D7C09A"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.068099,
+          "maxX": 0.902174,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "101G Body",
+          "color": "#14D30B"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220810_SD05_6222.JPG",
+      "details": {
+        "folderName": "0810BF",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.208696,
+          "minY": 0.01304,
+          "maxX": 0.669565,
+          "maxY": 0.349188
+        },
+        "category": {
+          "name": "68F Face",
+          "color": "#848F05"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.015938,
+          "maxX": 0.969565,
+          "maxY": 0.962078
+        },
+        "category": {
+          "name": "68F Body",
+          "color": "#4961ED"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220810_SD05_6224.JPG",
+      "details": {
+        "folderName": "0810BF",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.608696,
+          "minY": 0.702723,
+          "maxX": 0.882609,
+          "maxY": 0.867899
+        },
+        "category": {
+          "name": "Toy-Kong",
+          "color": "#B9D74A"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.143478,
+          "minY": 0.0,
+          "maxX": 0.623913,
+          "maxY": 0.311516
+        },
+        "category": {
+          "name": "101G Face",
+          "color": "#D7C09A"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.034783,
+          "minY": 0.0,
+          "maxX": 0.9,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "101G Body",
+          "color": "#14D30B"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220810_SD05_6223.JPG",
+      "details": {
+        "folderName": "0810BF",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.58913,
+          "minY": 0.327454,
+          "maxX": 0.85,
+          "maxY": 0.449163
+        },
+        "category": {
+          "name": "Toy-Kong",
+          "color": "#B9D74A"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.428261,
+          "minY": 0.12026,
+          "maxX": 0.819565,
+          "maxY": 0.423083
+        },
+        "category": {
+          "name": "101G Face",
+          "color": "#D7C09A"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.113015,
+          "maxX": 0.83913,
+          "maxY": 0.925855
+        },
+        "category": {
+          "name": "101G Body",
+          "color": "#14D30B"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220810_SD05_6225.JPG",
+      "details": {
+        "folderName": "0810BF",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.65,
+          "minY": 0.751986,
+          "maxX": 0.917391,
+          "maxY": 0.911366
+        },
+        "category": {
+          "name": "Toy-Kong",
+          "color": "#B9D74A"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.206522,
+          "minY": 0.0,
+          "maxX": 0.741304,
+          "maxY": 0.30717
+        },
+        "category": {
+          "name": "101G Face",
+          "color": "#D7C09A"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.052174,
+          "minY": 0.0,
+          "maxX": 0.930435,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "101G Body",
+          "color": "#14D30B"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  },
+  {
+    "image": {
+      "fileName": "20220810_SD05_6218.JPG",
+      "details": {
+        "folderName": "0810BF",
+        "width": 3648.0,
+        "height": 5472.0,
+        "depth": 3
+      }
+    },
+    "objects": [
+      {
+        "bndbox": {
+          "minX": 0.241304,
+          "minY": 0.0,
+          "maxX": 0.852174,
+          "maxY": 0.360779
+        },
+        "category": {
+          "name": "101G Face",
+          "color": "#D7C09A"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.119565,
+          "minY": 0.0,
+          "maxX": 0.895652,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "101G Body",
+          "color": "#14D30B"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.504348,
+          "minY": 0.314414,
+          "maxX": 0.926087,
+          "maxY": 0.560729
+        },
+        "category": {
+          "name": "Toy-Kong",
+          "color": "#B9D74A"
+        },
+        "tags": [],
+        "parts": []
+      }
+    ]
+  }
+]
