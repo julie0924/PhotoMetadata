@@ -1,0 +1,996 @@
+toy_id,jpg_id,toys
+0,38,Unknown
+1,60,Dental Star
+2,79,Dumbbell
+3,163,Grenade
+4,163, Grenade
+5,164,Grenade
+6,164, Grenade
+7,165,Grenade
+8,165, Grenade
+9,166,Grenade
+10,166, Grenade
+11,176,Kong
+12,177,Kong
+13,178,Kong
+14,179,Kong
+15,180,Kong
+16,199,Grenade
+17,216,Kong
+18,217,Kong
+19,218,Kong
+20,219,Kong
+21,276,Grenade
+22,342,Grenade
+23,352,Lucky Clover Chew
+24,352, Unknown
+25,388,Megalast Ball
+26,389,Megalast Ball
+27,392,Megalast Ball
+28,393,Megalast Ball
+29,394,Megalast Ball
+30,410,Megalast Ball
+31,411,Megalast Ball
+32,413,Grenade
+33,414,Lucky Clover Chew
+34,414, Grenade
+35,415,Lucky Clover Chew
+36,415, Grenade
+37,416,Lucky Clover Chew
+38,416, Grenade
+39,417,Lucky Clover Chew
+40,417, Grenade
+41,442,Dental Star
+42,454,Dental Star
+43,489,Ziggs
+44,490,Ziggs
+45,491,Ziggs
+46,492,Blue Frisbee
+47,493,Blue Frisbee
+48,494,Blue Frisbee
+49,495,Blue Frisbee
+50,496,Blue Frisbee
+51,497,Blue Frisbee
+52,498,Blue Frisbee
+53,499,Blue Frisbee
+54,505,Blue Frisbee
+55,506,Blue Frisbee
+56,507,Blue Frisbee
+57,508,Blue Frisbee
+58,509,Blue Frisbee
+59,510,Blue Frisbee
+60,511,Blue Frisbee
+61,527,Dumbbell
+62,528,Dumbbell
+63,529,Dumbbell
+64,592,Kong
+65,593,Kong
+66,598,Kong
+67,599,Kong
+68,604,Swing
+69,605,Swing
+70,606,Swing
+71,607,Ziggs
+72,618,Ziggs
+73,624,Blue Frisbee
+74,625,Unknown
+75,627,Blue Frisbee
+76,628,Blue Frisbee
+77,629,Blue Frisbee
+78,629, Unknown
+79,630,Blue Frisbee
+80,630, Unknown
+81,631,Blue Frisbee
+82,632,Blue Frisbee
+83,657,Blue Frisbee
+84,658,Blue Frisbee
+85,708,Kong
+86,737,Kong
+87,746,Kong
+88,747,Kong
+89,748,Kong
+90,749,Kong
+91,805,Unknown
+92,812,Grenade
+93,820,Ziggs
+94,832,Ziggs
+95,833,Ziggs
+96,879,Dental Kong
+97,938,Unknown
+98,956,Kong
+99,975,Kong
+100,976,Kong
+101,977,Kong
+102,985,Kong
+103,986,Kong
+104,991,Grenade
+105,992,Grenade
+106,993,Ziggs
+107,993, Ziggs
+108,994,Ziggs
+109,995,Ziggs
+110,997,Ziggs
+111,997, Ziggs
+112,998,Ziggs
+113,998, Ziggs
+114,1008,Ziggs
+115,1032,Dental Star
+116,1044,Ziggs
+117,1045,Ziggs
+118,1050,Kong
+119,1051,Kong
+120,1055,Dumbbell
+121,1056,Dumbbell
+122,1057,Dumbbell
+123,1058,Dumbbell
+124,1059,Dumbbell
+125,1060,Dumbbell
+126,1062,Lucky Clover Chew
+127,1063,Lucky Clover Chew
+128,1068,Dumbbell
+129,1069,Dumbbell
+130,1070,Dumbbell
+131,1072,Dumbbell
+132,1108,Lucky Clover Chew
+133,1109,Lucky Clover Chew
+134,1110,Lucky Clover Chew
+135,1111,Lucky Clover Chew
+136,1112,Lucky Clover Chew
+137,1371,Ziggs
+138,1372,Ziggs
+139,1468,Dental Kong
+140,1468, Ziggs
+141,1468, Ziggs
+142,1468, Grenade
+143,1469,Dental Kong
+144,1469, Ziggs
+145,1469, Ziggs
+146,1469, Grenade
+147,1534,Grenade
+148,1535,Grenade
+149,1536,Grenade
+150,1540,Dental Kong
+151,1541,Dental Kong
+152,1543,Grenade
+153,1563,Grenade
+154,1566,Megalast Ball
+155,1567,Megalast Ball
+156,1568,Megalast Ball
+157,1569,Megalast Ball
+158,1570,Megalast Ball
+159,1571,Megalast Ball
+160,1572,Megalast Ball
+161,1573,Megalast Ball
+162,1574,Megalast Ball
+163,1575,Megalast Ball
+164,1584,Grenade
+165,1585,Grenade
+166,1593,Grenade
+167,1594,Megalast Ball
+168,1594, Zyro
+169,1595,Megalast Ball
+170,1595, Zyro
+171,1596,Grenade
+172,1597,Grenade
+173,1600,Kong
+174,1601,Kong
+175,1602,Kong
+176,1603,Kong
+177,1604,Kong
+178,1605,Dental Star
+179,1605, Grenade
+180,1610,Grenade
+181,1611,Grenade
+182,1628,Kong
+183,1629,Kong
+184,1630,Kong
+185,1631,Kong
+186,1632,Kong
+187,1633,Kong
+188,1634,Kong
+189,1635,Kong
+190,1636,Kong
+191,1672,Dental Star
+192,1673,Dental Star
+193,1673, Kong
+194,1674,Dental Star
+195,1675,Dental Star
+196,1675, Kong
+197,1676,Dental Star
+198,1677,Dental Star
+199,1678,Dental Star
+200,1679,Kong
+201,1680,Dental Star
+202,1680, Kong
+203,1681,Dental Star
+204,1681, Kong
+205,1682,Dental Star
+206,1682, Kong
+207,1683,Kong
+208,1684,Kong
+209,1685,Kong
+210,1686,Kong
+211,1687,Kong
+212,1688,Dental Star
+213,1689,Dental Star
+214,1689, Grenade
+215,1690,Dental Star
+216,1690, Grenade
+217,1691,Dental Star
+218,1691, Grenade
+219,1692,Dental Star
+220,1692, Grenade
+221,1693,Dental Star
+222,1693, Grenade
+223,1694,Dental Star
+224,1694, Grenade
+225,1695,Dental Star
+226,1695, Grenade
+227,1696,Dental Star
+228,1697,Dental Star
+229,1700,Kong
+230,1701,Kong
+231,1702,Kong
+232,1703,Kong
+233,1704,Kong
+234,1705,Kong
+235,1706,Kong
+236,1709,Dental Star
+237,1709, Kong
+238,1710,Dental Star
+239,1710, Kong
+240,1711,Dental Star
+241,1711, Kong
+242,1712,Kong
+243,1713,Kong
+244,1718,Kong
+245,1719,Kong
+246,1720,Kong
+247,1743,Kong
+248,1745,Kong
+249,1759,Dental Star
+250,1759, Kong
+251,1765,Grenade
+252,1766,Grenade
+253,1781,Kong
+254,1781, Grenade
+255,1782,Kong
+256,1782, Grenade
+257,1783,Kong
+258,1783, Grenade
+259,1784,Kong
+260,1784, Grenade
+261,1785,Kong
+262,1785, Grenade
+263,1786,Kong
+264,1786, Grenade
+265,1787,Kong
+266,1787, Grenade
+267,1795,Dental Star
+268,1795, Kong
+269,1796,Dental Star
+270,1796, Kong
+271,1797,Dental Star
+272,1798,Dental Star
+273,1799,Dental Star
+274,1799, Kong
+275,1800,Dental Star
+276,1801,Dental Star
+277,1801, Kong
+278,1802,Dental Star
+279,1802, Kong
+280,1803,Dental Star
+281,1803, Kong
+282,1804,Dental Star
+283,1819,Kong
+284,1820,Kong
+285,1821,Grenade
+286,1822,Grenade
+287,1823,Dental Star
+288,1824,Dental Star
+289,1825,Kong
+290,1826,Dental Star
+291,1826, Kong
+292,1827,Dental Star
+293,1827, Kong
+294,1828,Dental Star
+295,1828, Kong
+296,1829,Dental Star
+297,1829, Kong
+298,1830,Dental Star
+299,1830, Kong
+300,1831,Dental Star
+301,1831, Kong
+302,1832,Dental Star
+303,1832, Kong
+304,1833,Dental Star
+305,1833, Kong
+306,1834,Kong
+307,1835,Dental Star
+308,1835, Kong
+309,1836,Dental Star
+310,1836, Kong
+311,1837,Dental Star
+312,1837, Kong
+313,1838,Dental Star
+314,1838, Kong
+315,1839,Dental Star
+316,1839, Kong
+317,1840,Dental Star
+318,1840, Kong
+319,1841,Dental Star
+320,1841, Kong
+321,1846,Kong
+322,1847,Dental Star
+323,1847, Kong
+324,1848,Dental Star
+325,1848, Kong
+326,1849,Dental Star
+327,1849, Kong
+328,1857,Dental Star
+329,1858,Dental Star
+330,1859,Dental Star
+331,1860,Dental Star
+332,1861,Dental Star
+333,1862,Dental Star
+334,1863,Dental Star
+335,1864,Dental Star
+336,1865,Dental Star
+337,1866,Dental Star
+338,1867,Dental Star
+339,1868,Dental Star
+340,1869,Dental Star
+341,1870,Dental Star
+342,1873,Dental Star
+343,1874,Dental Star
+344,1875,Dental Star
+345,1876,Dental Kong
+346,1876, Kong
+347,1877,Dental Kong
+348,1877, Kong
+349,1878,Dental Kong
+350,1878, Grenade
+351,1879,Dental Kong
+352,1879, Grenade
+353,1879, Kong
+354,1880,Dental Kong
+355,1880, Grenade
+356,1880, Kong
+357,1881,Dental Kong
+358,1881, Grenade
+359,1881, Kong
+360,1882,Dental Kong
+361,1982,Dental Star
+362,1983,Dental Star
+363,1984,Dental Star
+364,1985,Dental Star
+365,1986,Dental Star
+366,1987,Dental Star
+367,1988,Dental Star
+368,1991,Dental Star
+369,1992,Dental Star
+370,2064,Grenade
+371,2141,Grenade
+372,2142,Grenade
+373,2143,Grenade
+374,2162,Grenade
+375,2167,Grenade
+376,2168,Grenade
+377,2169,Grenade
+378,2170,Grenade
+379,2207,Grenade
+380,2208,Grenade
+381,2208, Grenade
+382,2209,Grenade
+383,2209, Grenade
+384,2216,Grenade
+385,2232,Grenade
+386,2233,Grenade
+387,2234,Grenade
+388,2236,Grenade
+389,2237,Grenade
+390,2241,Grenade
+391,2242,Grenade
+392,2243,Grenade
+393,2244,Grenade
+394,2245,Grenade
+395,2251,Grenade
+396,2252,Grenade
+397,2253,Grenade
+398,2254,Grenade
+399,2255,Grenade
+400,2256,Grenade
+401,2257,Grenade
+402,2258,Grenade
+403,2259,Grenade
+404,2260,Grenade
+405,2261,Grenade
+406,2292,Grenade
+407,2293,Grenade
+408,2294,Grenade
+409,2305,Grenade
+410,2306,Grenade
+411,2310,Grenade
+412,2311,Grenade
+413,2313,Grenade
+414,2316,Grenade
+415,2317,Grenade
+416,2318,Grenade
+417,2319,Grenade
+418,2320,Grenade
+419,2321,Grenade
+420,2322,Grenade
+421,2324,Grenade
+422,2325,Grenade
+423,2326,Grenade
+424,2340,Grenade
+425,2341,Grenade
+426,2342,Grenade
+427,2343,Grenade
+428,2344,Grenade
+429,2345,Grenade
+430,2346,Grenade
+431,2347,Grenade
+432,2390,Grenade
+433,2431,Grenade
+434,2432,Grenade
+435,2433,Grenade
+436,2478,Megalast Ball
+437,2504,Kong
+438,2505,Kong
+439,2510,Kong
+440,2511,Kong
+441,2513,Kong
+442,2514,Kong
+443,2515,Kong
+444,2569,Kong
+445,2571,Kong
+446,2572,Megalast Ball
+447,2675,Kong
+448,2784,Zyro
+449,2785,Zyro
+450,2786,Zyro
+451,2793,Zyro
+452,2794,Zyro
+453,2795,Zyro
+454,2795, Grenade
+455,2796,Zyro
+456,2796, Grenade
+457,2797,Zyro
+458,2797, Grenade
+459,2798,Grenade
+460,2799,Zyro
+461,2799, Grenade
+462,2800,Zyro
+463,2800, Grenade
+464,2801,Grenade
+465,2802,Zyro
+466,2802, Grenade
+467,2803,Zyro
+468,2803, Grenade
+469,2804,Zyro
+470,2804, Grenade
+471,2805,Zyro
+472,2805, Grenade
+473,2806,Unknown
+474,2807,Unknown
+475,2850,Dental Star
+476,2873,Dental Star
+477,2874,Dental Star
+478,2895,Grenade
+479,2896,Grenade
+480,2896, Unknown
+481,2934,Dental Star
+482,2953,Zyro
+483,2954,Zyro
+484,2967,Dental Star
+485,2968,Dental Star
+486,3004,Lucky Clover Chew
+487,3005,Lucky Clover Chew
+488,3014,Dumbbell
+489,3015,Dumbbell
+490,3016,Dumbbell
+491,3017,Dumbbell
+492,3018,Dumbbell
+493,3028,Dumbbell
+494,3031,Dumbbell
+495,3032,Lucky Clover Chew
+496,3036,Dumbbell
+497,3039,Dumbbell
+498,3040,Dumbbell
+499,3041,Dumbbell
+500,3042,Dumbbell
+501,3043,Dumbbell
+502,3044,Dental Star
+503,3045,Dental Star
+504,3048,Dumbbell
+505,3049,Dumbbell
+506,3050,Dumbbell
+507,3089,Grenade
+508,3090,Grenade
+509,3101,Lucky Clover Chew
+510,3102,Lucky Clover Chew
+511,3103,Lucky Clover Chew
+512,3104,Lucky Clover Chew
+513,3107,Lucky Clover Chew
+514,3108,Lucky Clover Chew
+515,3241,Dumbbell
+516,3242,Dumbbell
+517,3243,Dental Star
+518,3244,Dental Star
+519,3245,Dumbbell
+520,3245, Dental Star
+521,3306,Dental Star
+522,3537,Kong
+523,3538,Kong
+524,3539,Kong
+525,3565,Ziggs
+526,3569,Ziggs
+527,3570,Ziggs
+528,3571,Ziggs
+529,3580,Ziggs
+530,3581,Ziggs
+531,3679,Kong
+532,3697,Kong
+533,3714,Kong
+534,3724,Kong
+535,3738,Kong
+536,3739,Kong
+537,3740,Kong
+538,3802,Kong
+539,3814,Kong
+540,3969,Dental Star
+541,3970,Dental Star
+542,4042,Dental Star
+543,4042, Dumbbell
+544,4042, Unknown
+545,4055,Dental Star
+546,4055, Kong
+547,4056,Dental Star
+548,4056, Kong
+549,4057,Dental Star
+550,4057, Kong
+551,4118,Dental Star
+552,4119,Dental Star
+553,4120,Dental Star
+554,4123,Dental Star
+555,4124,Dental Star
+556,4201,Dental Star
+557,4201, Hex
+558,4201, S-shaped Toy
+559,4202,Dental Star
+560,4202, Hex
+561,4202, S-shaped Toy
+562,4203,S-shaped Toy
+563,4204,S-shaped Toy
+564,4205,S-shaped Toy
+565,4206,Dental Star
+566,4206, Hex
+567,4206, S-shaped Toy
+568,4207,Dental Star
+569,4207, Hex
+570,4207, S-shaped Toy
+571,4208,S-shaped Toy
+572,4209,Dental Star
+573,4209, Hex
+574,4209, S-shaped Toy
+575,4210,Dental Star
+576,4210, Hex
+577,4210, S-shaped Toy
+578,4211,S-shaped Toy
+579,4212,Dental Star
+580,4212, Hex
+581,4212, S-shaped Toy
+582,4304,Blue Frisbees
+583,4305,Blue Frisbees
+584,4306,Blue Frisbees
+585,4308,Blue Frisbees
+586,4309,Blue Frisbees
+587,4310,Blue Frisbees
+588,4311,Blue Frisbees
+589,4312,Blue Frisbees
+590,4313,Blue Frisbees
+591,4314,Blue Frisbees
+592,4317,Blue Frisbees
+593,4318,Blue Frisbees
+594,4319,Blue Frisbees
+595,4320,Blue Frisbees
+596,4321,Blue Frisbees
+597,4322,Blue Frisbees
+598,4323,Blue Frisbees
+599,4324,Blue Frisbees
+600,4325,Blue Frisbees
+601,4326,Blue Frisbees
+602,4327,Blue Frisbees
+603,4328,Blue Frisbees
+604,4329,Blue Frisbees
+605,4332,Blue Frisbees
+606,4333,Blue Frisbees
+607,4335,Blue Frisbees
+608,4338,Blue Frisbees
+609,4373,Hex
+610,4373, Kong
+611,4374,Hex
+612,4374, Kong
+613,4375,Hex
+614,4375, Kong
+615,4375, Dental Star
+616,4376,Hex
+617,4376, Kong
+618,4376, Dental Star
+619,4377,Hex
+620,4377, Kong
+621,4377, Dental Star
+622,4378,Hex
+623,4378, Kong
+624,4378, Dental Star
+625,4379,Hex
+626,4379, Kong
+627,4379, Dental Star
+628,4382,Hex
+629,4382, Kong
+630,4382, Dental Star
+631,4391,Dental Star
+632,4392,Dental Star
+633,4392, Kong
+634,4393,Dental Star
+635,4393, Kong
+636,4397,Dental Star
+637,4397, Kong
+638,4398,Dental Star
+639,4398, Kong
+640,4409,Dental Star
+641,4409, Kong
+642,4410,Dental Star
+643,4410, Kong
+644,4411,Dental Star
+645,4411, Kong
+646,4414,Dental Star
+647,4415,Dental Star
+648,4416,Dental Star
+649,4431,Hex
+650,4431, Kong
+651,4432,Hex
+652,4432, Kong
+653,4437,Dental Star
+654,4437, Blue Frisbees
+655,4438,Dental Star
+656,4438, Blue Frisbees
+657,4439,Dental Star
+658,4439, Blue Frisbees
+659,4439, Kong
+660,4440,Dental Star
+661,4440, Blue Frisbees
+662,4440, Kong
+663,4441,Dental Star
+664,4441, Blue Frisbees
+665,4441, Kong
+666,4443,Dental Star
+667,4443, Blue Frisbees
+668,4443, Kong
+669,4454,Dental Star
+670,4454, Blue Frisbees
+671,4454, Kong
+672,4455,Dental Star
+673,4455, Blue Frisbees
+674,4455, Kong
+675,4456,Dental Star
+676,4456, Blue Frisbees
+677,4456, Kong
+678,4459,Dental Star
+679,4459, Blue Frisbees
+680,4459, Kong
+681,4463,Dental Star
+682,4463, Blue Frisbees
+683,4463, Kong
+684,4464,Dental Star
+685,4464, Blue Frisbees
+686,4464, Kong
+687,4495,Kong
+688,4496,Kong
+689,4497,Kong
+690,4498,Kong
+691,4504,Kong
+692,4505,Kong
+693,4508,Kong
+694,4509,Kong
+695,4510,Kong
+696,4515,Kong
+697,4523,Kong
+698,4524,Kong
+699,4525,Kong
+700,4527,Kong
+701,4528,Kong
+702,4529,Kong
+703,4850,Hex
+704,4851,Hex
+705,4852,Hex
+706,4853,Hex
+707,4854,Hex
+708,4862,Hex
+709,4876,Dental Star
+710,4877,Dental Star
+711,4878,Dental Star
+712,4879,Dental Star
+713,4891,Dental Star
+714,4915,Hex
+715,4916,Hex
+716,4917,Hex
+717,4951,Dental Kong
+718,4952,Dental Kong
+719,4953,Dental Star
+720,4966,Hex
+721,4966, Dental Star
+722,4971,Hex
+723,4971, Dental Star
+724,4988,Dental Star
+725,4989,Dental Star
+726,4990,Dental Star
+727,4991,Dental Star
+728,4992,Dental Star
+729,4997,Hex
+730,4997, Dental Star
+731,4998,Hex
+732,4998, Dental Star
+733,4999,Hex
+734,4999, Dental Star
+735,5000,Hex
+736,5000, Dental Star
+737,5002,Kong
+738,5003,Kong
+739,5004,Hex
+740,5004, Dental Star
+741,5005,Hex
+742,5005, Dental Star
+743,5006,Hex
+744,5006, Dental Star
+745,5007,Hex
+746,5007, Dental Star
+747,5008,Hex
+748,5008, Dental Star
+749,5009,Hex
+750,5009, Dental Star
+751,5010,Hex
+752,5011,Hex
+753,5011, Dental Star
+754,5021,Hex
+755,5022,Hex
+756,5023,Hex
+757,5024,Dental Kong
+758,5025,Dental Kong
+759,5032,Hex
+760,5033,Hex
+761,5034,Hex
+762,5035,Hex
+763,5036,Hex
+764,5037,Hex
+765,5038,Hex
+766,5039,Hex
+767,5042,Dental Kong
+768,5090,Dumbbell
+769,5090, Unknown
+770,5091,Hex
+771,5091, Zyro
+772,5091, Dumbbell
+773,5093,Grenade
+774,5152,Grenade
+775,5152, Hex
+776,5153,Grenade
+777,5153, Hex
+778,5154,Grenade
+779,5154, Hex
+780,5155,Grenade
+781,5156,Grenade
+782,5157,Grenade
+783,5158,Grenade
+784,5159,Grenade
+785,5160,Grenade
+786,5161,Grenade
+787,5162,Grenade
+788,5198,Grenade
+789,5203,Grenade
+790,5203, Hex
+791,5204,Grenade
+792,5204, Hex
+793,5212,Grenade
+794,5212, Hex
+795,5213,Hex
+796,5214,Hex
+797,5215,Hex
+798,5216,Hex
+799,5217,Hex
+800,5279,Kong
+801,5280,Kong
+802,5282,Kong
+803,5464,Kong
+804,5465,Kong
+805,5466,Kong
+806,5468,Kong
+807,5469,Kong
+808,5470,Kong
+809,5471,Kong
+810,5474,Kong
+811,5475,Kong
+812,5476,Kong
+813,5477,Kong
+814,5491,Kong
+815,5492,Kong
+816,5501,Kong
+817,5502,Kong
+818,5503,Kong
+819,5521,Dental Star
+820,5522,Dental Star
+821,5522, Dental Star
+822,5531,Dental Star
+823,5531, Hex
+824,5531, Lucky Clover Chew
+825,5532,Dental Star
+826,5532, Hex
+827,5532, Lucky Clover Chew
+828,5533,Dental Star
+829,5533, Hex
+830,5533, Lucky Clover Chew
+831,5534,Dental Star
+832,5534, Hex
+833,5534, Lucky Clover Chew
+834,5548,Dental Star
+835,5548, Zyro
+836,5548, Unknown
+837,5549,Dental Star
+838,5549, Zyro
+839,5549, Hex
+840,5549, Unknown
+841,5549, Unknown
+842,5550,Dental Star
+843,5550, Zyro
+844,5550, Hex
+845,5550, Unknown
+846,5550, Unknown
+847,5551,Dental Star
+848,5551, Zyro
+849,5551, Hex
+850,5551, Unknown
+851,5551, Unknown
+852,5592,Dental Star
+853,5592, Zyro
+854,5592, Kong
+855,5592, Unknown
+856,5593,Dental Star
+857,5593, Zyro
+858,5593, Kong
+859,5593, Unknown
+860,5594,Zyro
+861,5594, Kong
+862,5594, Unknown
+863,5595,Zyro
+864,5595, Kong
+865,5595, Unknown
+866,5596,Zyro
+867,5596, Kong
+868,5596, Unknown
+869,5603,S-shaped Toy
+870,5604,S-shaped Toy
+871,5605,S-shaped Toy
+872,5606,S-shaped Toy
+873,5607,S-shaped Toy
+874,5608,S-shaped Toy
+875,5609,S-shaped Toy
+876,5610,S-shaped Toy
+877,5611,S-shaped Toy
+878,5623,S-shaped Toy
+879,5624,S-shaped Toy
+880,5625,S-shaped Toy
+881,5626,S-shaped Toy
+882,5627,S-shaped Toy
+883,5674,Kong
+884,5675,Kong
+885,5676,Kong
+886,5677,Kong
+887,5927,Hex
+888,5928,Hex
+889,5937,Hex
+890,5938,Hex
+891,5939,Hex
+892,5940,Hex
+893,5941,Hex
+894,5942,Hex
+895,5975,Hex
+896,5999,Hex
+897,5999, Dental Star
+898,6035,Dental Star
+899,6035, Kong
+900,6036,Kong
+901,6037,Kong
+902,6053,Hex
+903,6080,Hex
+904,6080, Kong
+905,6081,Hex
+906,6081, Kong
+907,6222,Ziggs
+908,6320,Ziggs
+909,6321,Ziggs
+910,6322,Ziggs
+911,6330,Grenade
+912,6331,Grenade
+913,6332,Grenade
+914,6336,Grenade
+915,6341,Ziggs
+916,6345,Ziggs
+917,6346,Ziggs
+918,6347,Ziggs
+919,6349,Ziggs
+920,6384,Hex
+921,6385,Hex
+922,6386,Hex
+923,6387,Hex
+924,6391,Lucky Clover Chew
+925,6392,Lucky Clover Chew
+926,6393,Lucky Clover Chew
+927,6394,Lucky Clover Chew
+928,6395,Lucky Clover Chew
+929,6396,Lucky Clover Chew
+930,6397,Lucky Clover Chew
+931,6398,Lucky Clover Chew
+932,6399,Lucky Clover Chew
+933,6400,Lucky Clover Chew
+934,6403,Lucky Clover Chew
+935,6404,Lucky Clover Chew
+936,6405,Lucky Clover Chew
+937,6406,Dental Kong
+938,6407,Dental Kong
+939,6408,Dental Kong
+940,6409,Lucky Clover Chew
+941,6410,Dental Kong
+942,6416,Dental Kong
+943,6445,Lucky Clover Chew
+944,6446,Lucky Clover Chew
+945,6447,Lucky Clover Chew
+946,6451,Kong
+947,6452,Dental Kong
+948,6459,Kong
+949,6460,Kong
+950,6462,Kong
+951,6463,Kong
+952,6464,Kong
+953,6471,Hex
+954,6472,Hex
+955,6476,Dental Star
+956,6477,Dental Star
+957,6490,Hex
+958,6528,Challenger Ball
+959,6529,Challenger Ball
+960,6530,Challenger Ball
+961,6531,Challenger Ball
+962,6532,Challenger Ball
+963,6533,Challenger Ball
+964,6533, Challenger Ball
+965,6534,Challenger Ball
+966,6535,Challenger Ball
+967,6539,Challenger Ball
+968,6540,Challenger Ball
+969,6541,Challenger Ball
+970,6543,Challenger Ball
+971,6563,Dental Star
+972,6569,Dental Star
+973,6570,Dental Star
+974,6571,Dental Star
+975,6572,Dental Star
+976,6582,Kong
+977,6583,Kong
+978,6584,Kong
+979,6585,Kong
+980,6591,Dental Star
+981,6592,Dental Star
+982,6642,Challenger Ball
+983,6643,Challenger Ball
+984,6647,Challenger Ball
+985,6648,Challenger Ball
+986,6649,Challenger Ball
+987,6650,Challenger Ball
+988,6651,Challenger Ball
+989,6652,Challenger Ball
+990,6653,Challenger Ball
+991,6654,Challenger Ball
+992,6695,Kong
+993,6696,Kong
+994,6697,Kong
