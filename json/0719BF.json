@@ -2177,20 +2177,6 @@
       },
       {
         "bndbox": {
-          "minX": 0.139021,
-          "minY": 0.075841,
-          "maxX": 0.462875,
-          "maxY": 0.817663
-        },
-        "category": {
-          "name": "19J Body",
-          "color": "#24F466"
-        },
-        "tags": [],
-        "parts": []
-      },
-      {
-        "bndbox": {
           "minX": 0.161137,
           "minY": 0.087691,
           "maxX": 0.315956,
@@ -2227,6 +2213,20 @@
         "category": {
           "name": "139K Body",
           "color": "#9D3A8B"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.139021,
+          "minY": 0.075841,
+          "maxX": 0.462875,
+          "maxY": 0.817663
+        },
+        "category": {
+          "name": "14F Body",
+          "color": "#351077"
         },
         "tags": [],
         "parts": []

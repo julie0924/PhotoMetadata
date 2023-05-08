@@ -702,20 +702,6 @@
       },
       {
         "bndbox": {
-          "minX": 0.306483,
-          "minY": 0.165055,
-          "maxX": 0.361493,
-          "maxY": 0.371374
-        },
-        "category": {
-          "name": "Unknown1 Face",
-          "color": "#B04663"
-        },
-        "tags": [],
-        "parts": []
-      },
-      {
-        "bndbox": {
           "minX": 0.328094,
           "minY": 0.150318,
           "maxX": 0.738703,
@@ -730,14 +716,28 @@
       },
       {
         "bndbox": {
+          "minX": 0.306483,
+          "minY": 0.165055,
+          "maxX": 0.361493,
+          "maxY": 0.371374
+        },
+        "category": {
+          "name": "Unknown2 Face",
+          "color": "#7EF24F"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
           "minX": 0.257367,
           "minY": 0.179792,
           "maxX": 0.730845,
           "maxY": 0.795802
         },
         "category": {
-          "name": "Unknown1 Body",
-          "color": "#D62EB1"
+          "name": "Unknown2 Body",
+          "color": "#F2CD57"
         },
         "tags": [],
         "parts": []
@@ -771,20 +771,6 @@
       },
       {
         "bndbox": {
-          "minX": 0.658153,
-          "minY": 0.218109,
-          "maxX": 0.801572,
-          "maxY": 0.415586
-        },
-        "category": {
-          "name": "Unknown1 Face",
-          "color": "#B04663"
-        },
-        "tags": [],
-        "parts": []
-      },
-      {
-        "bndbox": {
           "minX": 0.316306,
           "minY": 0.362532,
           "maxX": 0.797642,
@@ -799,14 +785,28 @@
       },
       {
         "bndbox": {
+          "minX": 0.658153,
+          "minY": 0.218109,
+          "maxX": 0.801572,
+          "maxY": 0.415586
+        },
+        "category": {
+          "name": "Unknown2 Face",
+          "color": "#7EF24F"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
           "minX": 0.526523,
           "minY": 0.188635,
           "maxX": 0.827112,
           "maxY": 0.542324
         },
         "category": {
-          "name": "Unknown1 Body",
-          "color": "#D62EB1"
+          "name": "Unknown2 Body",
+          "color": "#F2CD57"
         },
         "tags": [],
         "parts": []
@@ -1804,20 +1804,6 @@
     "objects": [
       {
         "bndbox": {
-          "minX": 0.379175,
-          "minY": 0.297689,
-          "maxX": 0.821218,
-          "maxY": 0.910751
-        },
-        "category": {
-          "name": "Unknown1 Body",
-          "color": "#D62EB1"
-        },
-        "tags": [],
-        "parts": []
-      },
-      {
-        "bndbox": {
           "minX": 0.453831,
           "minY": 0.436218,
           "maxX": 0.774067,
@@ -1840,6 +1826,20 @@
         "category": {
           "name": "Unknown1 Face",
           "color": "#B04663"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.379175,
+          "minY": 0.297689,
+          "maxX": 0.821218,
+          "maxY": 0.910751
+        },
+        "category": {
+          "name": "Unknown2 Body",
+          "color": "#F2CD57"
         },
         "tags": [],
         "parts": []
@@ -2080,20 +2080,6 @@
       },
       {
         "bndbox": {
-          "minX": 0.56778,
-          "minY": 0.657274,
-          "maxX": 0.713163,
-          "maxY": 0.825276
-        },
-        "category": {
-          "name": "Unknown1 Face",
-          "color": "#B04663"
-        },
-        "tags": [],
-        "parts": []
-      },
-      {
-        "bndbox": {
           "minX": 0.090373,
           "minY": 0.306531,
           "maxX": 0.742633,
@@ -2108,14 +2094,28 @@
       },
       {
         "bndbox": {
+          "minX": 0.56778,
+          "minY": 0.657274,
+          "maxX": 0.713163,
+          "maxY": 0.825276
+        },
+        "category": {
+          "name": "Unknown2 Face",
+          "color": "#7EF24F"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
           "minX": 0.508841,
           "minY": 0.156213,
           "maxX": 0.724951,
           "maxY": 0.842961
         },
         "category": {
-          "name": "Unknown1 Body",
-          "color": "#D62EB1"
+          "name": "Unknown2 Body",
+          "color": "#F2CD57"
         },
         "tags": [],
         "parts": []

@@ -5101,20 +5101,6 @@
       },
       {
         "bndbox": {
-          "minX": 0.48505,
-          "minY": 0.438429,
-          "maxX": 0.536545,
-          "maxY": 0.44175
-        },
-        "category": {
-          "name": "59K Body",
-          "color": "#927017"
-        },
-        "tags": [],
-        "parts": []
-      },
-      {
-        "bndbox": {
           "minX": 0.089701,
           "minY": 0.197071,
           "maxX": 0.42691,
@@ -5777,20 +5763,6 @@
     "objects": [
       {
         "bndbox": {
-          "minX": 0.251337,
-          "minY": 0.417008,
-          "maxX": 0.481283,
-          "maxY": 0.693825
-        },
-        "category": {
-          "name": "81G Face",
-          "color": "#F9A0C6"
-        },
-        "tags": [],
-        "parts": []
-      },
-      {
-        "bndbox": {
           "minX": 0.2959,
           "minY": 0.224543,
           "maxX": 0.647059,
@@ -5799,20 +5771,6 @@
         "category": {
           "name": "81G Face",
           "color": "#F9A0C6"
-        },
-        "tags": [],
-        "parts": []
-      },
-      {
-        "bndbox": {
-          "minX": 0.251337,
-          "minY": 0.400375,
-          "maxX": 0.877005,
-          "maxY": 0.869658
-        },
-        "category": {
-          "name": "81G Body",
-          "color": "#051163"
         },
         "tags": [],
         "parts": []
@@ -5841,6 +5799,34 @@
         "category": {
           "name": "59K Face",
           "color": "#D6DB90"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.251337,
+          "minY": 0.417008,
+          "maxX": 0.481283,
+          "maxY": 0.693825
+        },
+        "category": {
+          "name": "67G Face",
+          "color": "#56B181"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.251337,
+          "minY": 0.400375,
+          "maxX": 0.877005,
+          "maxY": 0.869658
+        },
+        "category": {
+          "name": "67G Body",
+          "color": "#EF4817"
         },
         "tags": [],
         "parts": []
@@ -8591,24 +8577,10 @@
     "objects": [
       {
         "bndbox": {
-          "minX": 0.172906,
+          "minX": 0.175022,
           "minY": 0.420572,
-          "maxX": 0.433155,
+          "maxX": 0.435271,
           "maxY": 0.678381
-        },
-        "category": {
-          "name": "67G Face",
-          "color": "#56B181"
-        },
-        "tags": [],
-        "parts": []
-      },
-      {
-        "bndbox": {
-          "minX": 0.247772,
-          "minY": 0.254244,
-          "maxX": 0.575758,
-          "maxY": 0.42176
         },
         "category": {
           "name": "67G Face",
@@ -8633,20 +8605,6 @@
       },
       {
         "bndbox": {
-          "minX": 0.016043,
-          "minY": 0.249492,
-          "maxX": 0.590018,
-          "maxY": 0.851837
-        },
-        "category": {
-          "name": "67G Body",
-          "color": "#EF4817"
-        },
-        "tags": [],
-        "parts": []
-      },
-      {
-        "bndbox": {
           "minX": 0.172906,
           "minY": 0.661748,
           "maxX": 0.395722,
@@ -8655,6 +8613,34 @@
         "category": {
           "name": "59K Face",
           "color": "#D6DB90"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.247772,
+          "minY": 0.254244,
+          "maxX": 0.575758,
+          "maxY": 0.42176
+        },
+        "category": {
+          "name": "81G Face",
+          "color": "#F9A0C6"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.016043,
+          "minY": 0.249492,
+          "maxX": 0.590018,
+          "maxY": 0.851837
+        },
+        "category": {
+          "name": "81G Body",
+          "color": "#051163"
         },
         "tags": [],
         "parts": []

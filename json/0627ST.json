@@ -906,20 +906,6 @@
       },
       {
         "bndbox": {
-          "minX": 0.141304,
-          "minY": 0.0,
-          "maxX": 0.932609,
-          "maxY": 1.0
-        },
-        "category": {
-          "name": "0EX Body",
-          "color": "#055E14"
-        },
-        "tags": [],
-        "parts": []
-      },
-      {
-        "bndbox": {
           "minX": 0.847826,
           "minY": 0.0,
           "maxX": 1.0,
@@ -942,6 +928,20 @@
         "category": {
           "name": "67K Body",
           "color": "#9EC0B4"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.141304,
+          "minY": 0.0,
+          "maxX": 0.932609,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "DF21 Body",
+          "color": "#F6EBC2"
         },
         "tags": [],
         "parts": []
@@ -7637,20 +7637,6 @@
       },
       {
         "bndbox": {
-          "minX": 0.0,
-          "minY": 0.0,
-          "maxX": 0.208696,
-          "maxY": 1.0
-        },
-        "category": {
-          "name": "Unknown1 Body",
-          "color": "#D32610"
-        },
-        "tags": [],
-        "parts": []
-      },
-      {
-        "bndbox": {
           "minX": 0.254348,
           "minY": 0.127194,
           "maxX": 0.536957,
@@ -7673,6 +7659,20 @@
         "category": {
           "name": "26J Body",
           "color": "#7DA5C2"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.0,
+          "maxX": 0.208696,
+          "maxY": 1.0
+        },
+        "category": {
+          "name": "Unknown2 Body",
+          "color": "#BCBC28"
         },
         "tags": [],
         "parts": []
@@ -8173,20 +8173,6 @@
       },
       {
         "bndbox": {
-          "minX": 0.745562,
-          "minY": 0.281109,
-          "maxX": 0.95858,
-          "maxY": 0.878836
-        },
-        "category": {
-          "name": "67K Face",
-          "color": "#81A294"
-        },
-        "tags": [],
-        "parts": []
-      },
-      {
-        "bndbox": {
           "minX": 0.260355,
           "minY": 0.0,
           "maxX": 0.635108,
@@ -8237,6 +8223,20 @@
         "category": {
           "name": "Unknown1 Body",
           "color": "#D32610"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.745562,
+          "minY": 0.281109,
+          "maxX": 0.95858,
+          "maxY": 0.878836
+        },
+        "category": {
+          "name": "67K Body",
+          "color": "#9EC0B4"
         },
         "tags": [],
         "parts": []
