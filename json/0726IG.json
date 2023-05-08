@@ -1032,38 +1032,10 @@
       },
       {
         "bndbox": {
-          "minX": 0.334783,
-          "minY": 0.056508,
-          "maxX": 0.717391,
-          "maxY": 0.334699
-        },
-        "category": {
-          "name": "48Z Face",
-          "color": "#B12093"
-        },
-        "tags": [],
-        "parts": []
-      },
-      {
-        "bndbox": {
           "minX": 0.176087,
           "minY": 0.052161,
           "maxX": 1.0,
           "maxY": 0.969323
-        },
-        "category": {
-          "name": "48Z Body",
-          "color": "#F38943"
-        },
-        "tags": [],
-        "parts": []
-      },
-      {
-        "bndbox": {
-          "minX": 0.169565,
-          "minY": 0.059405,
-          "maxX": 1.0,
-          "maxY": 0.983812
         },
         "category": {
           "name": "48Z Body",

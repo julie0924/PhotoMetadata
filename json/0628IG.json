@@ -15939,37 +15939,9 @@
       },
       {
         "bndbox": {
-          "minX": 0.619329,
-          "minY": 0.130198,
-          "maxX": 0.842209,
-          "maxY": 0.532628
-        },
-        "category": {
-          "name": "68E Face",
-          "color": "#6EF26E"
-        },
-        "tags": [],
-        "parts": []
-      },
-      {
-        "bndbox": {
           "minX": 0.295858,
           "minY": 0.118362,
           "maxX": 0.859961,
-          "maxY": 1.0
-        },
-        "category": {
-          "name": "68E Body",
-          "color": "#0F40BC"
-        },
-        "tags": [],
-        "parts": []
-      },
-      {
-        "bndbox": {
-          "minX": 0.293886,
-          "minY": 0.118362,
-          "maxX": 0.857988,
           "maxY": 1.0
         },
         "category": {

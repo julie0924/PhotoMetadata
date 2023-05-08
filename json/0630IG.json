@@ -9355,20 +9355,6 @@
       },
       {
         "bndbox": {
-          "minX": 0.350671,
-          "minY": 0.178719,
-          "maxX": 0.706376,
-          "maxY": 0.445539
-        },
-        "category": {
-          "name": "Unknown1 Body",
-          "color": "#4C1A8C"
-        },
-        "tags": [],
-        "parts": []
-      },
-      {
-        "bndbox": {
           "minX": 0.845652,
           "minY": 0.658799,
           "maxX": 1.0,
@@ -9377,6 +9363,20 @@
         "category": {
           "name": "Toy-Dental Star",
           "color": "#874DAD"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.350671,
+          "minY": 0.178719,
+          "maxX": 0.706376,
+          "maxY": 0.445539
+        },
+        "category": {
+          "name": "Unknown2 Body",
+          "color": "#CBD7C1"
         },
         "tags": [],
         "parts": []
@@ -14594,38 +14594,10 @@
       },
       {
         "bndbox": {
-          "minX": 0.503356,
-          "minY": 0.571398,
-          "maxX": 0.629195,
-          "maxY": 0.694739
-        },
-        "category": {
-          "name": "79G Face",
-          "color": "#22097D"
-        },
-        "tags": [],
-        "parts": []
-      },
-      {
-        "bndbox": {
           "minX": 0.080537,
           "minY": 0.196339,
           "maxX": 0.545302,
           "maxY": 0.986731
-        },
-        "category": {
-          "name": "79G Body",
-          "color": "#BB38CF"
-        },
-        "tags": [],
-        "parts": []
-      },
-      {
-        "bndbox": {
-          "minX": 0.474832,
-          "minY": 0.561329,
-          "maxX": 0.64094,
-          "maxY": 0.78284
         },
         "category": {
           "name": "79G Body",
@@ -14658,6 +14630,34 @@
         "category": {
           "name": "68E Body",
           "color": "#D0A9E9"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.503356,
+          "minY": 0.571398,
+          "maxX": 0.629195,
+          "maxY": 0.694739
+        },
+        "category": {
+          "name": "42K Face",
+          "color": "#42B082"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.474832,
+          "minY": 0.561329,
+          "maxX": 0.64094,
+          "maxY": 0.78284
+        },
+        "category": {
+          "name": "42K Body",
+          "color": "#080543"
         },
         "tags": [],
         "parts": []

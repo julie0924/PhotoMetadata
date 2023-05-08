@@ -5437,34 +5437,6 @@
       },
       {
         "bndbox": {
-          "minX": 0.317391,
-          "minY": 0.337597,
-          "maxX": 0.569565,
-          "maxY": 0.544791
-        },
-        "category": {
-          "name": "35Y Face",
-          "color": "#BC3012"
-        },
-        "tags": [],
-        "parts": []
-      },
-      {
-        "bndbox": {
-          "minX": 0.071739,
-          "minY": 0.302823,
-          "maxX": 0.667391,
-          "maxY": 0.896877
-        },
-        "category": {
-          "name": "35Y Body",
-          "color": "#3F042A"
-        },
-        "tags": [],
-        "parts": []
-      },
-      {
-        "bndbox": {
           "minX": 0.080435,
           "minY": 0.301374,
           "maxX": 0.65,
@@ -6916,8 +6888,8 @@
           "maxY": 0.904122
         },
         "category": {
-          "name": "Unknown1 Body",
-          "color": "#7F4DE0"
+          "name": "Unknown2 Body",
+          "color": "#1412EE"
         },
         "tags": [],
         "parts": []

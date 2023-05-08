@@ -5647,20 +5647,6 @@
     "objects": [
       {
         "bndbox": {
-          "minX": 0.380435,
-          "minY": 0.009784,
-          "maxX": 0.613043,
-          "maxY": 0.319615
-        },
-        "category": {
-          "name": "68F Face",
-          "color": "#80C1A8"
-        },
-        "tags": [],
-        "parts": []
-      },
-      {
-        "bndbox": {
           "minX": 0.38913,
           "minY": 0.016307,
           "maxX": 0.608696,
@@ -5679,20 +5665,6 @@
           "minY": 0.0,
           "maxX": 0.823913,
           "maxY": 0.981675
-        },
-        "category": {
-          "name": "68F Body",
-          "color": "#1C3D16"
-        },
-        "tags": [],
-        "parts": []
-      },
-      {
-        "bndbox": {
-          "minX": 0.295652,
-          "minY": 0.02283,
-          "maxX": 0.828261,
-          "maxY": 0.988198
         },
         "category": {
           "name": "68F Body",
@@ -15061,8 +15033,8 @@
           "maxY": 0.817187
         },
         "category": {
-          "name": "Unknown1 Body",
-          "color": "#FF0000"
+          "name": "Unknown2 Body",
+          "color": "#81DBDB"
         },
         "tags": [],
         "parts": []

@@ -1851,8 +1851,8 @@
           "maxY": 0.652559
         },
         "category": {
-          "name": "59K Face",
-          "color": "#D6DB90"
+          "name": "59K Body",
+          "color": "#927017"
         },
         "tags": [],
         "parts": []
@@ -2803,20 +2803,6 @@
         "category": {
           "name": "110E Body",
           "color": "#805E96"
-        },
-        "tags": [],
-        "parts": []
-      },
-      {
-        "bndbox": {
-          "minX": 0.481214,
-          "minY": 0.342539,
-          "maxX": 0.530347,
-          "maxY": 0.422754
-        },
-        "category": {
-          "name": "Unknown1 Face",
-          "color": "#3EA1FC"
         },
         "tags": [],
         "parts": []
@@ -10273,20 +10259,6 @@
       },
       {
         "bndbox": {
-          "minX": 0.219653,
-          "minY": 0.433594,
-          "maxX": 0.297688,
-          "maxY": 0.54416
-        },
-        "category": {
-          "name": "81G Face",
-          "color": "#F9A0C6"
-        },
-        "tags": [],
-        "parts": []
-      },
-      {
-        "bndbox": {
           "minX": 0.547688,
           "minY": 0.190781,
           "maxX": 0.894509,
@@ -10307,8 +10279,22 @@
           "maxY": 0.665566
         },
         "category": {
-          "name": "81G Body",
-          "color": "#051163"
+          "name": "59K Body",
+          "color": "#927017"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.219653,
+          "minY": 0.433594,
+          "maxX": 0.297688,
+          "maxY": 0.54416
+        },
+        "category": {
+          "name": "59K Face",
+          "color": "#D6DB90"
         },
         "tags": [],
         "parts": []
@@ -11269,20 +11255,6 @@
           "minY": 0.254959,
           "maxX": 0.559928,
           "maxY": 0.974213
-        },
-        "category": {
-          "name": "143H Body",
-          "color": "#B6E112"
-        },
-        "tags": [],
-        "parts": []
-      },
-      {
-        "bndbox": {
-          "minX": 0.357782,
-          "minY": 0.222754,
-          "maxX": 0.359571,
-          "maxY": 0.252276
         },
         "category": {
           "name": "143H Body",
