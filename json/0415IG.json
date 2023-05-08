@@ -669,20 +669,6 @@
     "objects": [
       {
         "bndbox": {
-          "minX": 0.0,
-          "minY": 0.0,
-          "maxX": 0.434868,
-          "maxY": 0.372193
-        },
-        "category": {
-          "name": "Unknown 2 Body",
-          "color": "#796A29"
-        },
-        "tags": [],
-        "parts": []
-      },
-      {
-        "bndbox": {
           "minX": 0.393146,
           "minY": 0.305882,
           "maxX": 0.803944,
@@ -733,6 +719,20 @@
         "category": {
           "name": "79G Body",
           "color": "#A77E4F"
+        },
+        "tags": [],
+        "parts": []
+      },
+      {
+        "bndbox": {
+          "minX": 0.0,
+          "minY": 0.0,
+          "maxX": 0.434868,
+          "maxY": 0.372193
+        },
+        "category": {
+          "name": "Unknown 1 Body",
+          "color": "#6790B2"
         },
         "tags": [],
         "parts": []
