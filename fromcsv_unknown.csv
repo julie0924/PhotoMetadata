@@ -1,666 +1,666 @@
-monkey_id,unknown_guess
-72,NN
-88,I
-89,NN
-94,Juvenile
-95,NN
-97,Juvenile
-103,Adult Female
-105,Adult Female
-109,J
-111,J
-115,J
-118,Adult Female
-120,NN
-123,Adult Female
-124,JK
-127,Adult Female
-128,JK
-133,Adult Female
-159,NN
-172,NN
-179,J
-180,J
-185,Adult Female
-214,NN
-219,NN
-225,Adult Female
-226,JK
-228,Adult Female
-229,JK
-231,Adult Female
-232,JK
-234,Adult Female
-235,JK
-237,Adult Female
-238,JK
-248,NN
-250,NN
-254,Adult Female
-271,Juvenile
-273,J
-282,J
-286,Juvenile
-338,J
-339,J
-341,DNK
-342,J
-343,I
-344,J
-345,J
-346,J
-347,J
-348,J
-349,J
-350,J
-351,J
-359,Juvenile
-360,Juvenile
-361,Juvenile
-365,Juvenile
-366,Juvenile
-367,Juvenile
-368,Juvenile
-369,Juvenile
-370,Juvenile
-371,Juvenile
-372,Juvenile
-373,Juvenile
-374,Juvenile
-375,Juvenile
-377,Juvenile
-378,Juvenile
-379,Juvenile
-383,Juvenile
-384,Juvenile
-385,Juvenile
-386,Juvenile
-388,Juvenile
-389,Juvenile
-390,Juvenile
-405,Juvenile
-434,Adult Female
-439,J
-447,J
-449,J
-452,J
-460,J
-467,I
-468,J
-470,J
-473,NN
-485,J
-490,Juvenile
-500,J
-504,Adult Female
-523,Adult Female
-525,Adult Female
-592,NN
-594,J
-615,NN
-649,NN
-652,NN
-664,J
-665,NN
-666,J
-672,J
-686,J
-687,J
-688,J
-743,Juvenile
-745,J
-747,J
-759,J
-770,I
-783,J
-784,J
-785,J
-786,J
-787,J
-788,J
-789,J
-790,J
-791,J
-792,J
-793,J
-794,J
-795,J
-796,J
-798,J
-800,J
-801,Juvenile
-805,Juvenile
-806,Juvenile
-808,Juvenile
-810,Juvenile
-812,Juvenile
-814,Juvenile
-815,J
-816,J
-821,Juvenile
-823,Juvenile
-825,Juvenile
-827,Juvenile
-833,Juvenile
-835,Juvenile
-839,Juvenile
-841,Juvenile
-843,Juvenile
-845,Juvenile
-847,Juvenile
-849,J
-863,Juvenile
-865,Juvenile
-867,J
-892,J
-893,J
-894,J
-895,J
-896,J
-897,J
-953,NN
-1031,J
-1032,NN
-1034,J
-1035,DNK
-1036,J
-1046,NN
-1048,NN
-1050,J
-1056,J
-1057,J
-1058,J
-1059,J
-1060,J
-1061,J
-1062,J
-1063,J
-1064,Juvenile
-1067,J
-1069,J
-1070,Juvenile
-1071,Juvenile
-1072,Juvenile
-1073,Juvenile
-1074,Juvenile
-1075,J
-1076,Juvenile
-1077,J
-1078,Juvenile
-1083,J
-1084,NN
-1085,J
-1087,J
-1165,Adult Female
-1176,J
-1191,NN
-1258,NN
-1275,NN
-1279,NN
-1288,NN
-1290,J
-1291,J
-1292,72X
-1297,J
-1402,J
-1403,J
-1404,J
-1426,I
-1427,J
-1432,J
-1478,J
-1479,72X
-1480,J
-1481,72X
-1482,J
-1485,J
-1487,J
-1489,J
-1490,J
-1501,NN
-1503,NN
-1510,NN
-1513,Adult Female
-1514,K
-1515,J
-1516,J
-1523,J
-1524,NN
-1525,J
-1526,NN
-1527,J
-1549,NN
-1559,J
-1560,J
-1570,NN
-1571,J
-1573,NN
-1574,J
-1577,J
-1579,J
-1581,J
-1584,J
-1607,NN
-1677,NN
-1703,NN
-1707,NN
-1906,NN
-1917,NN
-2112,Adult Female
-2115,Adult Female
-2118,Adult Female
-2299,143H
-2374,NN
-2414,NN
-2421,NN
-2440,Adult Female
-2442,Adult Female
-2453,Juvenile
-2457,Juvenile
-2471,Juvenile
-2474,NN
-2484,Juvenile
-2485,Adult Female
-2487,Juvenile
-2499,NN
-2501,NN
-2504,NN
-2507,NN
-2510,NN
-2537,NN
-2552,NN
-2555,NN
-2558,NN
-2562,NN
-2564,NN
-2567,K
-2568,NN
-2571,NN
-2578,NN
-2581,NN
-2589,NN
-2591,NN
-2593,NN
-2595,NN
-2602,NN
-2606,NN
-2687,Adult Female
-2707,0EX
-2710,0EX
-2713,0EX
-2716,NN
-2718,NN
-2720,NN
-2727,NN
-2789,NN
-2820,Adult Female
-2841,Juvenile
-2844,Juvenile
-2871,Juvenile
-2905,Adult Female
-2907,Adult Female
-2909,Adult Female
-2911,Adult Female
-2980,NN
-2982,NN
-2984,NN
-2989,NN
-3184,NN
-3188,NN
-3192,NN
-3196,NN
-3200,NN
-3204,NN
-3208,NN
-3212,NN
-3216,NN
-3289,Adult Female
-3290,K
-3296,Adult Female
-3297,K
-3300,Adult Female
-3301,K
-3312,Juvenile
-3315,Juvenile
-3324,NN
-3337,Adult Female
-3339,Adult Female
-3360,E
-3365,NN
-3368,NN
-3370,DNK
-3371,DNK
-3432,NN
-3435,NN
-3438,NN
-3441,NN
-3889,NN
-3928,NN
-3990,NN
-3992,NN
-4008,NN
-4012,NN
-4014,NN
-4020,Juvenile
-4022,Juvenile
-4032,NN
-4034,NN
-4044,NN
-4047,NN
-4053,NN
-4055,NN
-4071,J
-4074,NN
-4091,Adult Female
-4093,Adult Female
-4095,Juvenile
-4097,Juvenile
-4140,NN
-4145,J
-4148,NN
-4151,NN
-4154,NN
-4157,NN
-4184,Adult Female
-4186,Adult Female
-4188,Adult Female
-4190,Adult Female
-4214,Adult Female
-4216,Adult Female
-4218,Adult Female
-4238,Adult Female
-4241,Adult Female
-4244,Adult Female
-4247,Adult Female
-4275,Adult Female
-4279,Adult Female
-4283,Adult Female
-4287,Adult Female
-4291,Adult Female
-4293,Adult Female
-4295,Adult Female
-4297,Adult Female
-4299,Adult Female
-4301,Adult Female
-4303,Adult Female
-4305,Adult Female
-4311,Adult Female
-4313,NN
-4315,NN
-4317,NN
-4319,NN
-4321,NN
-4324,NN
-4326,NN
-4328,NN
-4330,NN
-4332,NN
-4334,NN
-4336,NN
-4651,NN
-4653,NN
-4655,NN
-4731,NN
-4750,NN
-4863,NN
-4865,NN
-4867,NN
-4869,NN
-4871,NN
-5190,Adult Female
-5192,Adult Female
-5194,Adult Female
-5204,NN
-5207,NN
-5210,NN
-5213,NN
-5216,NN
-5312,NN
-5313,NN
-5319,NN
-5320,NN
-5322,NN
-5323,NN
-5325,NN
-5326,NN
-5328,NN
-5329,NN
-5331,NN
-5332,NN
-5334,NN
-5335,NN
-5358,NN
-5385,NN
-5388,NN
-5391,NN
-5425,Adult Female
-5429,NN
-5434,Adult Female
-5436,Adult Female
-5684,Adult Female
-5686,Adult Female
-5688,Adult Female
-5726,K
-5800,DNK
-5803,DNK
-5845,NN
-5847,NN
-5858,81G
-5862,81G
-5866,81G
-5870,81G
-5874,81G
-5878,81G
-5882,81G
-5886,81G
-6117,NN
-6199,J
-6200,J
-6234,NN
-6236,NN
-6238,NN
-6302,Juvenile
-6305,Juvenile
-6311,Juvenile
-6340,Juvenile
-6351,36J
-6352,26J
-6354,36J
-6355,26J
-6357,36J
-6358,26J
-6360,36J
-6361,26J
-6363,36J
-6364,26J
-6374,Juvenile
-6375,NN
-6378,Juvenile
-6379,NN
-6399,NN
-6404,NN
-6408,NN
-6441,NN
-6476,NN
-6482,NN
-6530,Adult Female
-6604,NN
-6609,NN
-6613,NN
-6621,NN
-6626,NN
-7172,Y
-7174,Y
-7197,Y
-7198,Adult Female
-7200,Y
-7201,Adult Female
-7203,Y
-7204,Adult Female
-7206,Y
-7207,Adult Female
-7224,Adult
-7226,Adult
-7227,Adult
-7230,NN
-7233,NN
-7235,NN
-7250,NN
-7252,NN
-7254,NN
-7256,NN
-7259,NN
-7422,NN
-7479,Juvenile
-7481,Juvenile
-7484,Juvenile
-7486,Juvenile
-7521,DNK
-7601,NN
-7603,NN
-7605,NN
-7607,NN
-7609,G
-7668,K
-7670,NN
-7673,Adult Female
-7675,Adult Female
-7736,DNK
-7749,NN
-7752,NN
-7838,Adult Female
-8185,K
-8186,K
-8287,Adult Female
-8289,Adult Female
-8292,Adult Female
-8375,NN
-8377,NN
-8379,NN
-8381,NN
-8383,NN
-8385,NN
-8387,NN
-8389,NN
-8395,NN
-8557,143H
-8619,NN
-8621,NN
-8623,NN
-8752,K
-8755,K
-8758,K
-8763,K
-8766,K
-8769,K
-8772,K
-8775,K
-8778,K
-8781,K
-8784,K
-8787,K
-8790,K
-8793,K
-8796,K
-8799,K
-8802,K
-8805,K
-8808,K
-8812,K
-8815,K
-9251,Adult Female
-9253,Adult Female
-9280,09X
-9281,NN
-9283,09X
-9284,NN
-9286,09X
-9288,09X
-9290,09X
-9303,NN
-9306,NN
-9309,NN
-9448,NN
-9484,NN
-9488,NN
-9593,NN
-9595,NN
-9597,NN
-9769,NN
-9771,NN
-9773,NN
-9794,NN
-9796,NN
-9830,NN
-9832,NN
-9923,Adult Female
-9989,Adult Female
-10036,NN
-10077,NN
-10079,NN
-10081,NN
-10083,NN
-10111,Adult Female
-10113,Adult Female
-10126,J
-10128,NN
-10130,NN
-10134,NN
-10151,NN
-10169,NN
-10170,NN
-10177,Adult Female
-10179,Adult Female
-10181,Adult Female
-10183,Adult Female
-10185,Adult Female
-10186,Adult Female
-10188,Adult Female
-10189,Adult Female
-10191,Adult Female
-10192,Adult Female
-10209,NN
-10244,NN
-10264,NN
-10304,NN
-10306,NN
-10308,NN
-10310,Adult Female
-10312,Adult Female
-10314,Adult Female
-10343,NN
-10345,NN
-10390,NN
-10447,Adult Female
-10449,Adult Female
-10451,Adult Female
-10589,Adult Female
-10591,Adult Female
-10593,NN
-10594,NN
-10596,NN
-10597,NN
-10599,NN
-10601,NN
-10742,K
-10743,NN
-10760,JK
-10813,Adult Female
-10819,NN
-10842,Juvenile
-10843,Juvenile
-10844,Juvenile
-10845,Juvenile
-10846,Juvenile
-10847,Juvenile
-10891,Juvenile
-10892,Juvenile
-10919,K
-10921,K
-10923,K
-10925,K
-10927,K
-10930,K
-10933,K
-10936,K
-10938,K
+jpg_id,monkey_names,unknown_guess
+50,Unknown1,NN
+60,Unknown1,I
+60,Unknown2,NN
+64,Unknown1,Juvenile
+64,Unknown2,NN
+65,Unknown1,Juvenile
+69,Unknown1,Adult Female
+70,Unknown1,Adult Female
+73,Unknown1,J
+74,Unknown1,J
+76,Unknown1,J
+78,Unknown1,Adult Female
+79,Unknown1,NN
+81,Unknown1,Adult Female
+81,Unknown2,JK
+83,Unknown1,Adult Female
+83,Unknown2,JK
+87,Unknown1,Adult Female
+108,Unknown1,NN
+118,Unknown1,NN
+123,Unknown1,J
+124,Unknown1,J
+128,Unknown1,Adult Female
+149,Unknown1,NN
+153,Unknown1,NN
+158,Unknown1,Adult Female
+158,Unknown2,JK
+159,Unknown1,Adult Female
+159,Unknown2,JK
+160,Unknown1,Adult Female
+160,Unknown2,JK
+161,Unknown1,Adult Female
+161,Unknown2,JK
+162,Unknown1,Adult Female
+162,Unknown2,JK
+167,Unknown1,NN
+168,Unknown1,NN
+171,Unknown1,Adult Female
+188,Unknown1,Juvenile
+190,Unknown1,J
+195,Unknown1,J
+198,Unknown1,Juvenile
+227,Unknown1,J
+228,Unknown1,J
+230,Unknown1,DNK
+231,Unknown1,J
+232,Unknown1,I
+232,Unknown2,J
+233,Unknown1,J
+234,Unknown1,J
+235,Unknown1,J
+236,Unknown1,J
+237,Unknown1,J
+238,Unknown1,J
+239,Unknown1,J
+245,Unknown1,Juvenile
+245,Unknown2,Juvenile
+246,Unknown1,Juvenile
+249,Unknown1,Juvenile
+250,Unknown1,Juvenile
+250,Unknown2,Juvenile
+251,Unknown1,Juvenile
+251,Unknown2,Juvenile
+252,Unknown1,Juvenile
+252,Unknown2,Juvenile
+253,Unknown1,Juvenile
+253,Unknown2,Juvenile
+254,Unknown1,Juvenile
+254,Unknown2,Juvenile
+256,Unknown1,Juvenile
+257,Unknown1,Juvenile
+257,Unknown2,Juvenile
+261,Unknown1,Juvenile
+262,Unknown1,Juvenile
+262,Unknown2,Juvenile
+263,Unknown1,Juvenile
+265,Unknown1,Juvenile
+266,Unknown1,Juvenile
+267,Unknown1,Juvenile
+276,Unknown1,Juvenile
+297,Unknown1,Adult Female
+300,Unknown1,J
+307,Unknown1,J
+308,Unknown1,J
+311,Unknown1,J
+316,Unknown1,J
+323,Unknown1,I
+324,Unknown1,J
+326,Unknown1,J
+327,Unknown1,NN
+337,Unknown1,J
+342,Unknown1,Juvenile
+352,Unknown1,J
+355,Unknown1,Adult Female
+367,Unknown1,Adult Female
+368,Unknown1,Adult Female
+410,Unknown1,NN
+411,Unknown1,J
+424,Unknown1,NN
+446,Unknown1,NN
+447,Unknown1,NN
+454,Unknown1,J
+454,Unknown2,NN
+455,Unknown1,J
+461,Unknown1,J
+470,Unknown1,J
+471,Unknown1,J
+472,Unknown1,J
+522,Unknown1,Juvenile
+523,Unknown1,J
+524,Unknown1,J
+530,Unknown1,J
+534,Unknown1,I
+541,Unknown1,J
+542,Unknown1,J
+543,Unknown1,J
+544,Unknown1,J
+544,Unknown2,J
+545,Unknown1,J
+545,Unknown2,J
+546,Unknown1,J
+547,Unknown1,J
+547,Unknown2,J
+548,Unknown1,J
+548,Unknown2,J
+549,Unknown1,J
+549,Unknown2,J
+550,Unknown1,J
+551,Unknown1,J
+551,Unknown2,Juvenile
+553,Unknown1,Juvenile
+553,Unknown2,Juvenile
+554,Unknown1,Juvenile
+555,Unknown1,Juvenile
+556,Unknown1,Juvenile
+557,Unknown1,Juvenile
+558,Unknown1,J
+559,Unknown1,J
+563,Unknown1,Juvenile
+564,Unknown1,Juvenile
+565,Unknown1,Juvenile
+566,Unknown1,Juvenile
+571,Unknown1,Juvenile
+572,Unknown1,Juvenile
+575,Unknown1,Juvenile
+576,Unknown1,Juvenile
+577,Unknown1,Juvenile
+578,Unknown1,Juvenile
+579,Unknown1,Juvenile
+581,Unknown1,J
+588,Unknown1,Juvenile
+589,Unknown1,Juvenile
+591,Unknown1,J
+610,Unknown1,J
+611,Unknown1,J
+612,Unknown1,J
+613,Unknown1,J
+614,Unknown1,J
+615,Unknown1,J
+664,Unknown1,NN
+706,Unknown1,J
+706,Unknown2,NN
+708,Unknown1,J
+708,Unknown2,DNK
+709,Unknown1,J
+714,Unknown1,NN
+715,Unknown1,NN
+717,Unknown1,J
+723,Unknown1,J
+724,Unknown1,J
+725,Unknown1,J
+726,Unknown1,J
+727,Unknown1,J
+728,Unknown1,J
+729,Unknown1,J
+730,Unknown1,J
+730,Unknown2,Juvenile
+732,Unknown1,J
+734,Unknown1,J
+735,Unknown1,Juvenile
+736,Unknown1,Juvenile
+737,Unknown1,Juvenile
+738,Unknown1,Juvenile
+739,Unknown1,Juvenile
+740,Unknown1,J
+740,Unknown2,Juvenile
+741,Unknown1,J
+741,Unknown2,Juvenile
+744,Unknown1,J
+744,Unknown2,NN
+745,Unknown1,J
+746,Unknown1,J
+780,Unknown1,Adult Female
+784,Unknown1,J
+798,Unknown1,NN
+845,Unknown1,NN
+856,Unknown1,NN
+858,Unknown1,NN
+862,Unknown1,NN
+864,Unknown1,J
+865,Unknown1,J
+865,Unknown2,72X
+868,Unknown1,J
+935,Unknown1,J
+936,Unknown1,J
+937,Unknown1,J
+955,Unknown1,I
+956,Unknown1,J
+958,Unknown1,J
+993,Unknown1,J
+994,Unknown1,72X
+994,Unknown2,J
+995,Unknown1,72X
+995,Unknown2,J
+997,Unknown1,J
+998,Unknown1,J
+999,Unknown1,J
+1000,Unknown1,J
+1006,Unknown1,NN
+1007,Unknown1,NN
+1012,Unknown1,NN
+1014,Unknown1,Adult Female
+1014,Unknown2,K
+1015,Unknown1,J
+1016,Unknown1,J
+1021,Unknown1,J
+1021,Unknown2,NN
+1022,Unknown1,J
+1022,Unknown2,NN
+1023,Unknown1,J
+1036,Unknown1,NN
+1044,Unknown1,J
+1045,Unknown1,J
+1052,Unknown1,NN
+1053,Unknown1,J
+1054,Unknown1,NN
+1055,Unknown1,J
+1056,Unknown1,J
+1057,Unknown1,J
+1058,Unknown1,J
+1060,Unknown1,J
+1073,Unknown1,NN
+1114,Unknown1,NN
+1129,Unknown1,NN
+1130,Unknown1,NN
+1261,Unknown1,NN
+1267,Unknown1,NN
+1379,Unknown1,Adult Female
+1380,Unknown1,Adult Female
+1381,Unknown1,Adult Female
+1503,Unknown1,143H
+1545,Unknown1,NN
+1571,Unknown1,NN
+1575,Unknown1,NN
+1589,Unknown1,Adult Female
+1590,Unknown1,Adult Female
+1598,Unknown1,Juvenile
+1599,Unknown1,Juvenile
+1609,Unknown1,Juvenile
+1611,Unknown1,NN
+1619,Unknown1,Juvenile
+1619,Unknown2,Adult Female
+1620,Unknown1,Juvenile
+1628,Unknown1,NN
+1629,Unknown1,NN
+1630,Unknown1,NN
+1631,Unknown1,NN
+1632,Unknown1,NN
+1644,Unknown1,NN
+1650,Unknown1,NN
+1651,Unknown1,NN
+1652,Unknown1,NN
+1655,Unknown1,NN
+1656,Unknown1,NN
+1657,Unknown1,K
+1657,Unknown2,NN
+1658,Unknown1,NN
+1661,Unknown1,NN
+1662,Unknown1,NN
+1668,Unknown1,NN
+1669,Unknown1,NN
+1670,Unknown1,NN
+1671,Unknown1,NN
+1673,Unknown1,NN
+1674,Unknown1,NN
+1706,Unknown1,Adult Female
+1714,Unknown1,0EX
+1715,Unknown1,0EX
+1716,Unknown1,0EX
+1718,Unknown1,NN
+1719,Unknown1,NN
+1720,Unknown1,NN
+1726,Unknown1,NN
+1759,Unknown1,NN
+1776,Unknown1,Adult Female
+1793,Unknown1,Juvenile
+1794,Unknown1,Juvenile
+1820,Unknown1,Juvenile
+1838,Unknown1,Adult Female
+1839,Unknown1,Adult Female
+1840,Unknown1,Adult Female
+1841,Unknown1,Adult Female
+1876,Unknown1,NN
+1877,Unknown1,NN
+1878,Unknown1,NN
+1882,Unknown1,NN
+1995,Unknown1,NN
+1996,Unknown1,NN
+1997,Unknown1,NN
+1998,Unknown1,NN
+1999,Unknown1,NN
+2000,Unknown1,NN
+2001,Unknown1,NN
+2002,Unknown1,NN
+2003,Unknown1,NN
+2046,Unknown1,Adult Female
+2046,Unknown2,K
+2050,Unknown1,Adult Female
+2050,Unknown2,K
+2051,Unknown1,Adult Female
+2051,Unknown2,K
+2058,Unknown1,Juvenile
+2059,Unknown1,Juvenile
+2065,Unknown1,NN
+2074,Unknown1,Adult Female
+2075,Unknown1,Adult Female
+2092,Unknown1,E
+2094,Unknown1,NN
+2095,Unknown1,NN
+2096,Unknown1,DNK
+2096,Unknown2,DNK
+2137,Unknown1,NN
+2138,Unknown1,NN
+2139,Unknown1,NN
+2140,Unknown1,NN
+2428,Unknown1,NN
+2446,Unknown1,NN
+2481,Unknown1,NN
+2482,Unknown1,NN
+2497,Unknown1,NN
+2500,Unknown1,NN
+2501,Unknown1,NN
+2506,Unknown1,Juvenile
+2507,Unknown1,Juvenile
+2516,Unknown1,NN
+2517,Unknown1,NN
+2525,Unknown1,NN
+2526,Unknown1,NN
+2531,Unknown1,NN
+2532,Unknown1,NN
+2537,Unknown1,J
+2538,Unknown1,NN
+2554,Unknown1,Adult Female
+2555,Unknown1,Adult Female
+2556,Unknown1,Juvenile
+2557,Unknown1,Juvenile
+2589,Unknown1,NN
+2591,Unknown1,J
+2592,Unknown1,NN
+2593,Unknown1,NN
+2594,Unknown1,NN
+2595,Unknown1,NN
+2611,Unknown1,Adult Female
+2612,Unknown1,Adult Female
+2613,Unknown1,Adult Female
+2614,Unknown1,Adult Female
+2630,Unknown1,Adult Female
+2631,Unknown1,Adult Female
+2632,Unknown1,Adult Female
+2642,Unknown1,Adult Female
+2643,Unknown1,Adult Female
+2644,Unknown1,Adult Female
+2645,Unknown1,Adult Female
+2663,Unknown1,Adult Female
+2664,Unknown1,Adult Female
+2665,Unknown1,Adult Female
+2666,Unknown1,Adult Female
+2667,Unknown1,Adult Female
+2668,Unknown1,Adult Female
+2669,Unknown1,Adult Female
+2670,Unknown1,Adult Female
+2671,Unknown1,Adult Female
+2672,Unknown1,Adult Female
+2673,Unknown1,Adult Female
+2674,Unknown1,Adult Female
+2676,Unknown1,Adult Female
+2677,Unknown1,NN
+2678,Unknown1,NN
+2679,Unknown1,NN
+2680,Unknown1,NN
+2681,Unknown1,NN
+2683,Unknown1,NN
+2684,Unknown1,NN
+2685,Unknown1,NN
+2686,Unknown1,NN
+2687,Unknown1,NN
+2688,Unknown1,NN
+2689,Unknown1,NN
+2906,Unknown1,NN
+2907,Unknown1,NN
+2908,Unknown1,NN
+2944,Unknown1,NN
+2952,Unknown1,NN
+3039,Unknown1,NN
+3040,Unknown1,NN
+3041,Unknown1,NN
+3042,Unknown1,NN
+3043,Unknown1,NN
+3237,Unknown1,Adult Female
+3238,Unknown1,Adult Female
+3239,Unknown1,Adult Female
+3247,Unknown1,NN
+3248,Unknown1,NN
+3249,Unknown1,NN
+3250,Unknown1,NN
+3251,Unknown1,NN
+3306,Unknown1,NN
+3306,Unknown2,NN
+3309,Unknown1,NN
+3309,Unknown2,NN
+3310,Unknown1,NN
+3310,Unknown2,NN
+3311,Unknown1,NN
+3311,Unknown2,NN
+3312,Unknown1,NN
+3312,Unknown2,NN
+3313,Unknown1,NN
+3313,Unknown2,NN
+3314,Unknown1,NN
+3314,Unknown2,NN
+3332,Unknown1,NN
+3354,Unknown1,NN
+3355,Unknown1,NN
+3356,Unknown1,NN
+3387,Unknown1,Adult Female
+3390,Unknown1,NN
+3394,Unknown1,Adult Female
+3395,Unknown1,Adult Female
+3510,Unknown1,Adult Female
+3511,Unknown1,Adult Female
+3512,Unknown1,Adult Female
+3545,Unknown1,K
+3582,Unknown1,DNK
+3583,Unknown1,DNK
+3597,Unknown1,NN
+3598,Unknown1,NN
+3603,Unknown1,81G
+3604,Unknown1,81G
+3605,Unknown1,81G
+3606,Unknown1,81G
+3607,Unknown1,81G
+3608,Unknown1,81G
+3609,Unknown1,81G
+3610,Unknown1,81G
+3750,Unknown1,NN
+3802,Unknown1,J
+3802,Unknown2,J
+3814,Unknown1,NN
+3815,Unknown1,NN
+3816,Unknown1,NN
+3861,Unknown1,Juvenile
+3862,Unknown1,Juvenile
+3865,Unknown1,Juvenile
+3888,Unknown1,Juvenile
+3896,Unknown1,36J
+3896,Unknown2,26J
+3897,Unknown1,36J
+3897,Unknown2,26J
+3898,Unknown1,36J
+3898,Unknown2,26J
+3899,Unknown1,36J
+3899,Unknown2,26J
+3900,Unknown1,36J
+3900,Unknown2,26J
+3904,Unknown1,Juvenile
+3904,Unknown2,NN
+3905,Unknown1,Juvenile
+3905,Unknown2,NN
+3920,Unknown1,NN
+3924,Unknown1,NN
+3927,Unknown1,NN
+3948,Unknown1,NN
+3973,Unknown1,NN
+3978,Unknown1,NN
+4018,Unknown1,Adult Female
+4058,Unknown1,NN
+4059,Unknown1,NN
+4061,Unknown1,NN
+4065,Unknown1,NN
+4066,Unknown1,NN
+4429,Unknown1,Y
+4430,Unknown1,Y
+4450,Unknown1,Y
+4450,Unknown2,Adult Female
+4451,Unknown1,Y
+4451,Unknown2,Adult Female
+4452,Unknown1,Y
+4452,Unknown2,Adult Female
+4453,Unknown1,Y
+4453,Unknown2,Adult Female
+4467,Unknown1,Adult
+4468,Unknown1,Adult
+4468,Unknown2,Adult
+4470,Unknown1,NN
+4472,Unknown1,NN
+4473,Unknown1,NN
+4482,Unknown1,NN
+4483,Unknown1,NN
+4484,Unknown1,NN
+4485,Unknown1,NN
+4486,Unknown1,NN
+4592,Unknown1,NN
+4619,Unknown1,Juvenile
+4620,Unknown1,Juvenile
+4622,Unknown1,Juvenile
+4623,Unknown1,Juvenile
+4635,Unknown1,DNK
+4679,Unknown1,NN
+4680,Unknown1,NN
+4681,Unknown1,NN
+4682,Unknown1,NN
+4683,Unknown1,G
+4727,Unknown1,K
+4728,Unknown1,NN
+4730,Unknown1,Adult Female
+4731,Unknown1,Adult Female
+4772,Unknown1,DNK
+4777,Unknown1,NN
+4779,Unknown1,NN
+4829,Unknown1,Adult Female
+5024,Unknown1,K
+5025,Unknown1,K
+5082,Unknown1,Adult Female
+5083,Unknown1,Adult Female
+5085,Unknown1,Adult Female
+5152,Unknown1,NN
+5153,Unknown1,NN
+5154,Unknown1,NN
+5155,Unknown1,NN
+5156,Unknown1,NN
+5157,Unknown1,NN
+5158,Unknown1,NN
+5159,Unknown1,NN
+5164,Unknown1,NN
+5259,Unknown1,143H
+5302,Unknown1,NN
+5303,Unknown1,NN
+5304,Unknown1,NN
+5370,Unknown1,K
+5371,Unknown1,K
+5372,Unknown1,K
+5374,Unknown1,K
+5375,Unknown1,K
+5376,Unknown1,K
+5377,Unknown1,K
+5378,Unknown1,K
+5379,Unknown1,K
+5380,Unknown1,K
+5381,Unknown1,K
+5382,Unknown1,K
+5383,Unknown1,K
+5384,Unknown1,K
+5385,Unknown1,K
+5386,Unknown1,K
+5387,Unknown1,K
+5388,Unknown1,K
+5389,Unknown1,K
+5391,Unknown1,K
+5392,Unknown1,K
+5668,Unknown1,Adult Female
+5669,Unknown1,Adult Female
+5691,Unknown1,09X
+5691,Unknown2,NN
+5692,Unknown1,09X
+5692,Unknown2,NN
+5693,Unknown1,09X
+5694,Unknown1,09X
+5695,Unknown1,09X
+5701,Unknown1,NN
+5702,Unknown1,NN
+5703,Unknown1,NN
+5780,Unknown1,NN
+5797,Unknown1,NN
+5798,Unknown1,NN
+5847,Unknown1,NN
+5848,Unknown1,NN
+5849,Unknown1,NN
+5940,Unknown1,NN
+5941,Unknown1,NN
+5942,Unknown1,NN
+5957,Unknown1,NN
+5958,Unknown1,NN
+5976,Unknown1,NN
+5977,Unknown1,NN
+6034,Unknown1,Adult Female
+6084,Unknown1,Adult Female
+6112,Unknown1,NN
+6142,Unknown1,NN
+6143,Unknown1,NN
+6144,Unknown1,NN
+6145,Unknown1,NN
+6164,Unknown1,Adult Female
+6165,Unknown1,Adult Female
+6174,Unknown1,J
+6175,Unknown1,NN
+6176,Unknown1,NN
+6179,Unknown1,NN
+6194,Unknown1,NN
+6209,Unknown1,NN
+6209,Unknown2,NN
+6215,Unknown1,Adult Female
+6216,Unknown1,Adult Female
+6217,Unknown1,Adult Female
+6218,Unknown1,Adult Female
+6219,Unknown1,Adult Female
+6219,Unknown2,Adult Female
+6220,Unknown1,Adult Female
+6220,Unknown2,Adult Female
+6221,Unknown1,Adult Female
+6221,Unknown2,Adult Female
+6229,Unknown1,NN
+6254,Unknown1,NN
+6264,Unknown1,NN
+6291,Unknown1,NN
+6292,Unknown1,NN
+6293,Unknown1,NN
+6294,Unknown1,Adult Female
+6295,Unknown1,Adult Female
+6296,Unknown1,Adult Female
+6318,Unknown1,NN
+6319,Unknown1,NN
+6352,Unknown1,NN
+6394,Unknown1,Adult Female
+6395,Unknown1,Adult Female
+6396,Unknown1,Adult Female
+6504,Unknown1,Adult Female
+6505,Unknown1,Adult Female
+6506,Unknown1,NN
+6506,Unknown2,NN
+6507,Unknown1,NN
+6507,Unknown2,NN
+6508,Unknown1,NN
+6509,Unknown1,NN
+6614,Unknown1,K
+6614,Unknown2,NN
+6630,Unknown1,JK
+6673,Unknown1,Adult Female
+6677,Unknown1,NN
+6689,Unknown1,Juvenile
+6689,Unknown2,Juvenile
+6690,Unknown1,Juvenile
+6690,Unknown2,Juvenile
+6691,Unknown1,Juvenile
+6691,Unknown2,Juvenile
+6717,Unknown1,Juvenile
+6717,Unknown2,Juvenile
+6734,Unknown1,K
+6735,Unknown1,K
+6736,Unknown1,K
+6737,Unknown1,K
+6738,Unknown1,K
+6739,Unknown1,K
+6740,Unknown1,K
+6741,Unknown1,K
+6742,Unknown1,K
