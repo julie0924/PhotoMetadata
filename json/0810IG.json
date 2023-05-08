@@ -540,7 +540,7 @@
           "maxY": 0.746856
         },
         "category": {
-          "name": "Toy_Kong",
+          "name": "Toy-Kong",
           "color": "#4D5186"
         },
         "tags": [],
@@ -1419,7 +1419,7 @@
           "maxY": 0.68489
         },
         "category": {
-          "name": "Toy_Kong",
+          "name": "Toy-Kong",
           "color": "#4D5186"
         },
         "tags": [],
@@ -3176,7 +3176,7 @@
           "maxY": 0.603355
         },
         "category": {
-          "name": "Unknown Face",
+          "name": "Unknown1 Face",
           "color": "#A6E47B"
         },
         "tags": [],
@@ -3190,7 +3190,7 @@
           "maxY": 0.808822
         },
         "category": {
-          "name": "Unknown Body",
+          "name": "Unknown1 Body",
           "color": "#7F4DE0"
         },
         "tags": [],
@@ -3505,7 +3505,7 @@
           "maxY": 0.930202
         },
         "category": {
-          "name": "Unknown Face",
+          "name": "Unknown1 Face",
           "color": "#A6E47B"
         },
         "tags": [],
@@ -3519,7 +3519,7 @@
           "maxY": 1.0
         },
         "category": {
-          "name": "Unknown Body",
+          "name": "Unknown1 Body",
           "color": "#7F4DE0"
         },
         "tags": [],
@@ -3725,7 +3725,7 @@
           "maxY": 0.42598
         },
         "category": {
-          "name": "Unknown Body",
+          "name": "Unknown1 Body",
           "color": "#7F4DE0"
         },
         "tags": [],
@@ -4082,7 +4082,7 @@
           "maxY": 0.743594
         },
         "category": {
-          "name": "Toy_Kong",
+          "name": "Toy-Kong",
           "color": "#4D5186"
         },
         "tags": [],
@@ -4618,7 +4618,7 @@
           "maxY": 0.153285
         },
         "category": {
-          "name": "Unknown Face",
+          "name": "Unknown1 Face",
           "color": "#A6E47B"
         },
         "tags": [],
@@ -4632,7 +4632,7 @@
           "maxY": 0.870788
         },
         "category": {
-          "name": "Unknown Body",
+          "name": "Unknown1 Body",
           "color": "#7F4DE0"
         },
         "tags": [],
@@ -4907,7 +4907,7 @@
           "maxY": 0.947589
         },
         "category": {
-          "name": "Unknown Face",
+          "name": "Unknown1 Face",
           "color": "#A6E47B"
         },
         "tags": [],
@@ -4921,7 +4921,7 @@
           "maxY": 1.0
         },
         "category": {
-          "name": "Unknown Body",
+          "name": "Unknown1 Body",
           "color": "#7F4DE0"
         },
         "tags": [],
@@ -5691,7 +5691,7 @@
           "maxY": 0.964976
         },
         "category": {
-          "name": "Unknown Body",
+          "name": "Unknown1 Body",
           "color": "#7F4DE0"
         },
         "tags": [],
@@ -6309,7 +6309,7 @@
           "maxY": 0.606616
         },
         "category": {
-          "name": "Unknown Body",
+          "name": "Unknown1 Body",
           "color": "#7F4DE0"
         },
         "tags": [],
@@ -6461,7 +6461,7 @@
           "maxY": 0.956283
         },
         "category": {
-          "name": "Unknown Face",
+          "name": "Unknown1 Face",
           "color": "#A6E47B"
         },
         "tags": [],
@@ -6475,7 +6475,7 @@
           "maxY": 1.0
         },
         "category": {
-          "name": "Unknown Body",
+          "name": "Unknown1 Body",
           "color": "#7F4DE0"
         },
         "tags": [],
@@ -6888,7 +6888,7 @@
           "maxY": 0.543342
         },
         "category": {
-          "name": "Unknown Face",
+          "name": "Unknown1 Face",
           "color": "#A6E47B"
         },
         "tags": [],
@@ -6902,7 +6902,7 @@
           "maxY": 0.738946
         },
         "category": {
-          "name": "Unknown Body",
+          "name": "Unknown1 Body",
           "color": "#7F4DE0"
         },
         "tags": [],
@@ -6916,7 +6916,7 @@
           "maxY": 0.904122
         },
         "category": {
-          "name": "Unknown Body",
+          "name": "Unknown1 Body",
           "color": "#7F4DE0"
         },
         "tags": [],
@@ -7150,7 +7150,7 @@
           "maxY": 1.0
         },
         "category": {
-          "name": "Unknown Body",
+          "name": "Unknown1 Body",
           "color": "#7F4DE0"
         },
         "tags": [],
@@ -7562,7 +7562,7 @@
           "maxY": 0.94614
         },
         "category": {
-          "name": "Unknown Face",
+          "name": "Unknown1 Face",
           "color": "#A6E47B"
         },
         "tags": [],
@@ -7576,7 +7576,7 @@
           "maxY": 1.0
         },
         "category": {
-          "name": "Unknown Body",
+          "name": "Unknown1 Body",
           "color": "#7F4DE0"
         },
         "tags": [],
@@ -7823,7 +7823,7 @@
           "maxY": 0.950487
         },
         "category": {
-          "name": "Unknown Face",
+          "name": "Unknown1 Face",
           "color": "#A6E47B"
         },
         "tags": [],
@@ -7837,7 +7837,7 @@
           "maxY": 1.0
         },
         "category": {
-          "name": "Unknown Body",
+          "name": "Unknown1 Body",
           "color": "#7F4DE0"
         },
         "tags": [],
@@ -8207,7 +8207,7 @@
           "maxY": 0.63923
         },
         "category": {
-          "name": "Toy_Kong",
+          "name": "Toy-Kong",
           "color": "#4D5186"
         },
         "tags": [],
@@ -9222,7 +9222,7 @@
           "maxY": 0.953385
         },
         "category": {
-          "name": "Unknown Body",
+          "name": "Unknown1 Body",
           "color": "#7F4DE0"
         },
         "tags": [],
@@ -9827,7 +9827,7 @@
           "maxY": 0.538996
         },
         "category": {
-          "name": "Unknown Face",
+          "name": "Unknown1 Face",
           "color": "#A6E47B"
         },
         "tags": [],
@@ -9841,7 +9841,7 @@
           "maxY": 1.0
         },
         "category": {
-          "name": "Unknown Body",
+          "name": "Unknown1 Body",
           "color": "#7F4DE0"
         },
         "tags": [],
