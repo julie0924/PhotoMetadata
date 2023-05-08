@@ -663,7 +663,7 @@
           "maxY": 0.368536
         },
         "category": {
-          "name": "Unknown Face",
+          "name": "Unknown1 Face",
           "color": "#FB7B1B"
         },
         "tags": [],
@@ -677,7 +677,7 @@
           "maxY": 1.0
         },
         "category": {
-          "name": "Unknown Body",
+          "name": "Unknown1 Body",
           "color": "#3605DF"
         },
         "tags": [],
@@ -786,7 +786,7 @@
           "maxY": 0.335922
         },
         "category": {
-          "name": "Unknown Face",
+          "name": "Unknown1 Face",
           "color": "#FB7B1B"
         },
         "tags": [],
@@ -800,7 +800,7 @@
           "maxY": 1.0
         },
         "category": {
-          "name": "Unknown Body",
+          "name": "Unknown1 Body",
           "color": "#3605DF"
         },
         "tags": [],
@@ -897,7 +897,7 @@
           "maxY": 1.0
         },
         "category": {
-          "name": "Unknown Body",
+          "name": "Unknown1 Body",
           "color": "#3605DF"
         },
         "tags": [],
